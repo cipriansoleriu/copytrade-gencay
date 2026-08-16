@@ -1,0 +1,80 @@
+{
+  "cash": 7350.91890625,
+  "starting_cash": 10000.0,
+  "open_positions": {
+    "0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9:XMR:LONG": {
+      "trader": "0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9",
+      "coin": "XMR",
+      "side": "LONG",
+      "size": 3.6507423839398876,
+      "entry_price": 410.875335,
+      "notional": 1500.0,
+      "margin": 500.0,
+      "leverage": 3,
+      "opened_at": "2026-08-16T11:17:18.316952+00:00"
+    },
+    "0xceec48581b3145a575508719f45da07dc57fa7ce:HYPE:SHORT": {
+      "trader": "0xceec48581b3145a575508719f45da07dc57fa7ce",
+      "coin": "HYPE",
+      "side": "SHORT",
+      "size": 24.83279523497869,
+      "entry_price": 57.38379375,
+      "notional": 1425.0,
+      "margin": 475.0,
+      "leverage": 3,
+      "opened_at": "2026-08-16T11:17:18.316979+00:00"
+    },
+    "0x94b60c2a5db13689bb06a73657ac1216424de5b3:BTC:SHORT": {
+      "trader": "0x94b60c2a5db13689bb06a73657ac1216424de5b3",
+      "coin": "BTC",
+      "side": "SHORT",
+      "size": 0.021506184072450175,
+      "entry_price": 62947.01075,
+      "notional": 1353.75,
+      "margin": 451.25,
+      "leverage": 3,
+      "opened_at": "2026-08-16T11:17:18.316987+00:00"
+    },
+    "0x94b60c2a5db13689bb06a73657ac1216424de5b3:ETH:SHORT": {
+      "trader": "0x94b60c2a5db13689bb06a73657ac1216424de5b3",
+      "coin": "ETH",
+      "side": "SHORT",
+      "size": 0.6843998047533114,
+      "entry_price": 1879.109975,
+      "notional": 1286.0625,
+      "margin": 428.6875,
+      "leverage": 3,
+      "opened_at": "2026-08-16T11:17:18.316991+00:00"
+    },
+    "0x94b60c2a5db13689bb06a73657ac1216424de5b3:ENA:LONG": {
+      "trader": "0x94b60c2a5db13689bb06a73657ac1216424de5b3",
+      "coin": "ENA",
+      "side": "LONG",
+      "size": 14692.63292865978,
+      "entry_price": 0.0831545565,
+      "notional": 1221.759375,
+      "margin": 407.253125,
+      "leverage": 3,
+      "opened_at": "2026-08-16T11:17:18.316995+00:00"
+    },
+    "0x94b60c2a5db13689bb06a73657ac1216424de5b3:LIT:SHORT": {
+      "trader": "0x94b60c2a5db13689bb06a73657ac1216424de5b3",
+      "coin": "LIT",
+      "side": "SHORT",
+      "size": 503.5457503918362,
+      "entry_price": 2.304996925,
+      "notional": 1160.67140625,
+      "margin": 386.89046875,
+      "leverage": 3,
+      "opened_at": "2026-08-16T11:17:18.317004+00:00"
+    }
+  },
+  "equity_history": [
+    {
+      "ts": "2026-08-16T11:17:18.317012+00:00",
+      "equity": 9996.02575143468,
+      "cash": 7350.91890625
+    }
+  ],
+  "last_processed_signal_index": 5
+}
