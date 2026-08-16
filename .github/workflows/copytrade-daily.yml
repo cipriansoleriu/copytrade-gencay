@@ -1,8 +1,6 @@
 name: copytrade-daily
 on:
-  schedule:
-    - cron: '13 9 * * *'  # 09:13 UTC, off-peak minute (fallback only — cron-job.org is the real driver)
-  workflow_dispatch:
+  workflow_dispatch:  # driven by cron-job.org — see CLAUDE.md Step E
 permissions:
   contents: write
 concurrency:
