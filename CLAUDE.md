@@ -168,6 +168,7 @@ Job C (report) is read-only and never mutates state. Jobs A and B share a `concu
 |-----------|-------|-----|
 | `min_account_value` | $100,000 | micro accounts are noise |
 | `min_30d_volume` | $5,000,000 | proves the trader is actually active |
+| `min_7d_volume` | $100,000 | without it `week_edge_bps` explodes on near-zero week volume |
 | `min_30d_pnl` | $50,000 | serious earnings |
 | `day_pnl > 0` | — | recency: positive today too |
 | `week_pnl > 0` | — | consistency |
@@ -656,4 +657,5 @@ Paper portfolio: $10,000 → $9,993 (-0.07 %, slippage only)
 - **2026-05-18:** Added the Quickstart protocol + Implementation Details section in English so a fresh Claude Code session reading this file can rebuild the entire project after asking the user for a repo, a PAT and a Slack webhook URL.
 - **2026-05-19:** The 22-hour silent bug — `copytrade-positions` polled fine but never committed state. Root cause: `git add a b c d e` aborts entirely (exit 128) if any one pathspec is missing, and `paper_trades.json` doesn't exist until the first trade closes. Fixed by staging each path in a loop. Also: `if: always()` on the commit step, broadened paper_engine except, and `git pull --rebase -X theirs` to auto-resolve state-file conflicts between near-simultaneous runs.
 - **2026-05-19:** GitHub Actions cron confirmed unreliable — ~80 % of scheduled runs dropped. Moved the real scheduling to **cron-job.org** (free external scheduler) hitting the `workflow_dispatch` API. Workflows keep `schedule:` blocks as fallback. Positions cadence raised to every 5 min (GitHub cron minimum), report to every 30 min for the launch period.
+- **2026-08-16:** Added `min_7d_volume: $100,000`. The first live run of the scaffold ranked a wallet that traded **$20** in a week at #1 — $94,675 of mark-to-market gain over $20 of volume is 47,008,630 bps, which swamped every other term, while a 2 bps month-edge trader took #5. `min_30d_volume` guarded the month term only; the week term had no floor. Same failure mode that killed ROI scoring on 2026-05-17, re-entered through `week_edge_bps`. After the floor, week edges land in the 6,500–58,000 bps range.
 - **2026-05-19:** `daily_report.py` gained a "Last activity" section (most recent signal + closed trade with humanised age) so the reader can tell how fresh the data is at a glance.

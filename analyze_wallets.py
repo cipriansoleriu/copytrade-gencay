@@ -13,6 +13,10 @@ TOP_N = 5
 FILTERS = {
     "min_account_value": 100_000,
     "min_30d_volume": 5_000_000,
+    # Without a weekly floor, week_edge_bps explodes on near-zero week volume:
+    # $20 traded against $94k of mark-to-market gain scores 47,008,630 bps and
+    # swamps every other term, ranking the least active wallet first.
+    "min_7d_volume": 100_000,
     "min_30d_pnl": 50_000,
     "max_abs_day_roi": 5.0,
     "max_day_share_of_month": 0.8,
@@ -46,6 +50,8 @@ def score_trader(row: dict) -> dict | None:
     if account_value < FILTERS["min_account_value"]:
         return None
     if month_vlm < FILTERS["min_30d_volume"]:
+        return None
+    if week_vlm < FILTERS["min_7d_volume"]:
         return None
     if month_pnl < FILTERS["min_30d_pnl"]:
         return None
