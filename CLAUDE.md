@@ -84,7 +84,7 @@ Tell the user **verbatim**:
 
 ### Step E — Set up reliable scheduling (cron-job.org)
 
-> **Why this step exists.** GitHub Actions `schedule:` triggers are best-effort. In practice GitHub drops a large share of frequent scheduled runs during platform-wide contention — observed ~80 % drop for a `*/5`-style cron. The workflows keep their `schedule:` blocks as a fallback, but the **reliable** driver is an external scheduler that calls GitHub's `workflow_dispatch` API. cron-job.org is free and takes ~5 minutes to wire up.
+> **Why this step exists.** GitHub Actions `schedule:` triggers are best-effort. In practice GitHub drops a large share of frequent scheduled runs during platform-wide contention — observed ~80 % drop for a `*/5`-style cron. The workflows are therefore `workflow_dispatch`-only — no `schedule:` blocks — and the driver is an external scheduler calling GitHub's `workflow_dispatch` API. cron-job.org is free and takes ~5 minutes to wire up.
 
 Tell the user **verbatim**:
 
@@ -419,9 +419,7 @@ Message uses Slack mrkdwn (single `*bold*`, backtick code). Example:
 ```yaml
 name: copytrade-daily
 on:
-  schedule:
-    - cron: '13 9 * * *'  # 09:13 UTC, off-peak minute
-  workflow_dispatch:
+  workflow_dispatch:  # cron-job.org drives this — no schedule: block, see Step E
 permissions:
   contents: write
 concurrency:
@@ -463,7 +461,7 @@ jobs:
 
 ### Workflow YAML — `.github/workflows/copytrade-positions.yml`
 Same shape as daily, but:
-- `cron: '2,7,12,17,22,27,32,37,42,47,52,57 * * * *'`  (every 5 min at off-peak slots; GitHub Actions cron min is 5 min — for tighter polling you'd need an external trigger hitting `workflow_dispatch`)
+- same `workflow_dispatch`-only trigger (cron-job.org fires it every 5 min; GitHub's own cron minimum is 5 min anyway, and it isn't used here)
 - `run: python job_positions.py`
 - Stage list is `state signals.json portfolio.json paper_trades.json NOTES.md` (use the same per-path loop — `paper_trades.json` only exists once a trade has closed, so the all-in-one `git add` form would silently drop every state change).
 - commit message `copytrade-positions: poll $(date ...)`
@@ -472,9 +470,7 @@ Same shape as daily, but:
 ```yaml
 name: copytrade-report
 on:
-  schedule:
-    - cron: '17,47 * * * *'  # every 30 min at off-peak slots (launch period)
-  workflow_dispatch:
+  workflow_dispatch:  # cron-job.org drives this — no schedule: block, see Step E
 permissions:
   contents: read
 jobs:
@@ -505,7 +501,7 @@ The repo runs on its own; the user's machine doesn't need to be on. Three workfl
 | `copytrade-positions` | every 5 min | Poll trader positions → diff → signals → paper portfolio → commit state |
 | `copytrade-report` | every 30 min | Read portfolio → compute 24h PnL + activity → POST to Slack |
 
-**Why cron-job.org and not GitHub's built-in `schedule:`?** GitHub Actions cron is best-effort. Observed ~80 % of `*/5`-style scheduled runs silently dropped during platform contention; runs at `:00/:15/:30/:45` are hit worst. The workflows still carry `schedule:` blocks as a fallback, but the reliable driver is cron-job.org calling `POST /actions/workflows/<file>/dispatches`. See Quickstart Step E for the exact setup.
+**Why cron-job.org and not GitHub's built-in `schedule:`?** GitHub Actions cron is best-effort. Observed ~80 % of `*/5`-style scheduled runs silently dropped during platform contention; runs at `:00/:15/:30/:45` are hit worst. The workflows carry **no** `schedule:` blocks — cron-job.org calling `POST /actions/workflows/<file>/dispatches` is the only trigger. See Quickstart Step E for the exact setup.
 
 **Required GitHub secret:**
 - `SLACK_WEBHOOK_URL` — Slack Incoming Webhook (for the report). See Quickstart step 0(c) for setup.
@@ -658,4 +654,5 @@ Paper portfolio: $10,000 → $9,993 (-0.07 %, slippage only)
 - **2026-05-19:** The 22-hour silent bug — `copytrade-positions` polled fine but never committed state. Root cause: `git add a b c d e` aborts entirely (exit 128) if any one pathspec is missing, and `paper_trades.json` doesn't exist until the first trade closes. Fixed by staging each path in a loop. Also: `if: always()` on the commit step, broadened paper_engine except, and `git pull --rebase -X theirs` to auto-resolve state-file conflicts between near-simultaneous runs.
 - **2026-05-19:** GitHub Actions cron confirmed unreliable — ~80 % of scheduled runs dropped. Moved the real scheduling to **cron-job.org** (free external scheduler) hitting the `workflow_dispatch` API. Workflows keep `schedule:` blocks as fallback. Positions cadence raised to every 5 min (GitHub cron minimum), report to every 30 min for the launch period.
 - **2026-08-16:** Added `min_7d_volume: $100,000`. The first live run of the scaffold ranked a wallet that traded **$20** in a week at #1 — $94,675 of mark-to-market gain over $20 of volume is 47,008,630 bps, which swamped every other term, while a 2 bps month-edge trader took #5. `min_30d_volume` guarded the month term only; the week term had no floor. Same failure mode that killed ROI scoring on 2026-05-17, re-entered through `week_edge_bps`. After the floor, week edges land in the 6,500–58,000 bps range.
+- **2026-08-16:** Removed the `schedule:` blocks entirely — `workflow_dispatch` only. Keeping them as "fallback" alongside cron-job.org meant both triggers fired: harmless for positions (the `copytrade-state` concurrency group serialises them and the second poll finds no changes) but the report has no such group, so Slack got ~4 messages an hour instead of 2. A fallback that duplicates the primary isn't a fallback.
 - **2026-05-19:** `daily_report.py` gained a "Last activity" section (most recent signal + closed trade with humanised age) so the reader can tell how fresh the data is at a glance.

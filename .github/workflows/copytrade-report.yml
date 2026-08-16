@@ -1,8 +1,6 @@
 name: copytrade-report
 on:
-  schedule:
-    - cron: '17,47 * * * *'  # fallback only — cron-job.org is the real driver
-  workflow_dispatch:
+  workflow_dispatch:  # driven by cron-job.org — see CLAUDE.md Step E
 permissions:
   contents: read
 jobs:
