@@ -4,6 +4,23 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-17
 
+### 06:13 UTC — Daily refresh (Job A)
+- Leaderboard: 41886 traders fetched, 5 shortlisted
+- Shortlist change: +1 new, -1 dropped
+-   +0xc179e03922afe8fa9533d3f896338b9fb87ce0c8
+-   -0xceec48581b3145a575508719f45da07dc57fa7ce
+- #1 0x053fa362... acc=$12,492,672 month=$3,703,215 edge=2906bps
+- #2 0x4c6d679e... acc=$24,944,983 month=$5,049,223 edge=8273bps
+- #3 0x94b60c2a... acc=$504,865 month=$190,999 edge=232bps
+- #4 0xc179e039... acc=$7,339,705 month=$1,609,672 edge=1498bps
+- #5 0x71b117d6... acc=$839,288 month=$156,013 edge=39bps
+- Current positions across the shortlist:
+-   0x053fa362... no open positions
+-   0x4c6d679e... 1 positions: LONG XMR x3
+-   0x94b60c2a... 4 positions: SHORT BTC x40, SHORT ETH x25, LONG ENA x10, SHORT LIT x3
+-   0xc179e039... 4 positions: LONG ETH x4, SHORT SOL x8, LONG HYPE x5, LONG XMR x4
+-   0x71b117d6... 1 positions: LONG ZORA x3
+
 ### 05:00 UTC — Position poll (Job B)
 - 1 signals (1 applied to the paper book)
 - NEW LONG ZORA x3 — 0x71b117d6...
