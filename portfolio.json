@@ -1,5 +1,5 @@
 {
-  "cash": 5688.0009227646,
+  "cash": 5403.600876626369,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9:XMR:LONG": {
@@ -122,6 +122,17 @@
       "margin": 299.36846961918945,
       "leverage": 3,
       "opened_at": "2026-08-17T06:15:43.569854+00:00"
+    },
+    "0x71b117d68974aa4c5615669ae70e8e13ce7479c8:VIRTUAL:LONG": {
+      "trader": "0x71b117d68974aa4c5615669ae70e8e13ce7479c8",
+      "coin": "VIRTUAL",
+      "side": "LONG",
+      "size": 1469.7674144515272,
+      "entry_price": 0.5805001049999999,
+      "notional": 853.20013841469,
+      "margin": 284.40004613823,
+      "leverage": 3,
+      "opened_at": "2026-08-17T16:50:41.129846+00:00"
     }
   },
   "equity_history": [
@@ -1894,7 +1905,12 @@
       "ts": "2026-08-17T16:45:35.359575+00:00",
       "equity": 9881.67045509213,
       "cash": 5688.0009227646
+    },
+    {
+      "ts": "2026-08-17T16:50:41.129876+00:00",
+      "equity": 9876.370763939158,
+      "cash": 5403.600876626369
     }
   ],
-  "last_processed_signal_index": 10
+  "last_processed_signal_index": 11
 }

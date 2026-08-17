@@ -1,16 +1,26 @@
 {
-  "account_value": 16360.08252,
+  "account_value": 117997.553277,
   "positions": [
+    {
+      "coin": "VIRTUAL",
+      "side": "LONG",
+      "size": 5412.1,
+      "entry_price": 0.57992,
+      "position_value_usd": 3140.208662,
+      "leverage": 5,
+      "unrealized_pnl": 1.58183,
+      "liquidation_price": 0.0
+    },
     {
       "coin": "ZORA",
       "side": "LONG",
       "size": 10107135.0,
       "entry_price": 0.005013,
-      "position_value_usd": 49080.24756,
+      "position_value_usd": 49090.354695,
       "leverage": 3,
-      "unrealized_pnl": -1589.575496,
+      "unrealized_pnl": -1579.468361,
       "liquidation_price": 0.0
     }
   ],
-  "timestamp_ms": 1786985134723
+  "timestamp_ms": 1786985440730
 }
