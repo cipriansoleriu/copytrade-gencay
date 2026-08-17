@@ -2,6 +2,13 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-08-17
+
+### 05:00 UTC — Position poll (Job B)
+- 1 signals (1 applied to the paper book)
+- NEW LONG ZORA x3 — 0x71b117d6...
+- Portfolio: $9,931.59 (-0.68%)
+
 ## 2026-08-16
 
 ### 11:37 UTC — Daily refresh (Job A)

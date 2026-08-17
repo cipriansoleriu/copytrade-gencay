@@ -1,5 +1,5 @@
 {
-  "cash": 7350.91890625,
+  "cash": 6983.3729609375,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9:XMR:LONG": {
@@ -67,6 +67,17 @@
       "margin": 386.89046875,
       "leverage": 3,
       "opened_at": "2026-08-16T11:17:18.317004+00:00"
+    },
+    "0x71b117d68974aa4c5615669ae70e8e13ce7479c8:ZORA:LONG": {
+      "trader": "0x71b117d68974aa4c5615669ae70e8e13ce7479c8",
+      "coin": "ZORA",
+      "side": "LONG",
+      "size": 222194.91785105434,
+      "entry_price": 0.00496248,
+      "notional": 1102.6378359375,
+      "margin": 367.5459453125,
+      "leverage": 3,
+      "opened_at": "2026-08-17T05:00:59.363427+00:00"
     }
   },
   "equity_history": [
@@ -1129,7 +1140,12 @@
       "ts": "2026-08-17T04:55:28.184318+00:00",
       "equity": 9930.02217105628,
       "cash": 7350.91890625
+    },
+    {
+      "ts": "2026-08-17T05:00:59.363450+00:00",
+      "equity": 9931.589753478334,
+      "cash": 6983.3729609375
     }
   ],
-  "last_processed_signal_index": 5
+  "last_processed_signal_index": 6
 }
