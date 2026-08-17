@@ -4,6 +4,14 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-17
 
+### 06:15 UTC — Position poll (Job B)
+- 4 signals (4 applied to the paper book)
+- NEW LONG ETH x4 — 0xc179e039...
+- NEW SHORT SOL x8 — 0xc179e039...
+- NEW LONG HYPE x5 — 0xc179e039...
+- NEW LONG XMR x4 — 0xc179e039...
+- Portfolio: $9,934.98 (-0.65%)
+
 ### 06:13 UTC — Daily refresh (Job A)
 - Leaderboard: 41886 traders fetched, 5 shortlisted
 - Shortlist change: +1 new, -1 dropped
