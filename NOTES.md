@@ -4,6 +4,13 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-18
 
+### 06:15 UTC — Position poll (Job B)
+- 3 signals (3 applied to the paper book)
+- NEW LONG HYPE x10 — 0xe6e0e0dd...
+- NEW LONG BTC x2 — 0x7f47bf40...
+- NEW LONG HYPE x2 — 0x7f47bf40...
+- Portfolio: $9,871.44 (-1.29%)
+
 ### 06:13 UTC — Daily refresh (Job A)
 - Leaderboard: 41943 traders fetched, 5 shortlisted
 - Shortlist change: +5 new, -5 dropped
