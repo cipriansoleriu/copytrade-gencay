@@ -2,6 +2,33 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-08-18
+
+### 06:13 UTC — Daily refresh (Job A)
+- Leaderboard: 41943 traders fetched, 5 shortlisted
+- Shortlist change: +5 new, -5 dropped
+-   +0x9a80d88c21be60e870d07d852390e92d09223cf2
+-   +0x13f2ca08112fd5b5df3c78c5e583d95d69900235
+-   +0xe6e0e0dd371e4f9bd5218ab4bc0634d59705ae71
+-   +0x06ecb2a427c3d51a66c29d9b4fb1960107d10b19
+-   +0x7f47bf4025bd2178741058a10cd829e406ef4d0c
+-   -0x053fa362f5459cf61037d8b554b5cfb055a7a4d3
+-   -0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9
+-   -0x94b60c2a5db13689bb06a73657ac1216424de5b3
+-   -0xc179e03922afe8fa9533d3f896338b9fb87ce0c8
+-   -0x71b117d68974aa4c5615669ae70e8e13ce7479c8
+- #1 0x9a80d88c... acc=$25,929,401 month=$5,471,069 edge=6555bps
+- #2 0x13f2ca08... acc=$3,048,906 month=$1,261,250 edge=811bps
+- #3 0xe6e0e0dd... acc=$1,331,277 month=$64,373 edge=63bps
+- #4 0x06ecb2a4... acc=$162,995 month=$1,884,515 edge=1461bps
+- #5 0x7f47bf40... acc=$3,652,191 month=$174,572 edge=125bps
+- Current positions across the shortlist:
+-   0x9a80d88c... no open positions
+-   0x13f2ca08... no open positions
+-   0xe6e0e0dd... 1 positions: LONG HYPE x10
+-   0x06ecb2a4... no open positions
+-   0x7f47bf40... 2 positions: LONG BTC x2, LONG HYPE x2
+
 ## 2026-08-17
 
 ### 16:50 UTC — Position poll (Job B)
