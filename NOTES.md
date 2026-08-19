@@ -2,6 +2,33 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-08-19
+
+### 06:13 UTC — Daily refresh (Job A)
+- Leaderboard: 41952 traders fetched, 5 shortlisted
+- Shortlist change: +5 new, -5 dropped
+-   +0xceec48581b3145a575508719f45da07dc57fa7ce
+-   +0xe2321c8324c1da7b3ba790627d0e4ee444188a23
+-   +0xaecfe4eff84a1cd9a24accc1914ac537af7f6e1b
+-   +0x770493a14c49ea81192b5191a536f0530041311b
+-   +0x4fe260d11bf48ba3a94459771259c910a398ac59
+-   -0x9a80d88c21be60e870d07d852390e92d09223cf2
+-   -0x13f2ca08112fd5b5df3c78c5e583d95d69900235
+-   -0xe6e0e0dd371e4f9bd5218ab4bc0634d59705ae71
+-   -0x06ecb2a427c3d51a66c29d9b4fb1960107d10b19
+-   -0x7f47bf4025bd2178741058a10cd829e406ef4d0c
+- #1 0xceec4858... acc=$13,435,052 month=$163,509 edge=244bps
+- #2 0xe2321c83... acc=$19,872,120 month=$461,749 edge=521bps
+- #3 0xaecfe4ef... acc=$820,267 month=$616,586 edge=1140bps
+- #4 0x770493a1... acc=$2,315,740 month=$86,622 edge=168bps
+- #5 0x4fe260d1... acc=$1,700,743 month=$163,935 edge=48bps
+- Current positions across the shortlist:
+-   0xceec4858... 1 positions: SHORT HYPE x5
+-   0xe2321c83... no open positions
+-   0xaecfe4ef... 2 positions: LONG PUMP x10, LONG GRAM x5
+-   0x770493a1... 3 positions: SHORT ACE x3, SHORT PUMP x3, SHORT CASHCAT x3
+-   0x4fe260d1... 1 positions: LONG BTC x40
+
 ## 2026-08-18
 
 ### 19:45 UTC — Position poll (Job B)
