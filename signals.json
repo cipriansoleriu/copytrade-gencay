@@ -219,5 +219,83 @@
     "leverage": 2,
     "unrealized_pnl": -1317.740886,
     "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-08-19T06:15:38.531359+00:00",
+    "trader": "0xaecfe4eff84a1cd9a24accc1914ac537af7f6e1b",
+    "type": "NEW",
+    "coin": "PUMP",
+    "side": "LONG",
+    "size": 669702341.0,
+    "entry_price": 0.00224,
+    "position_value_usd": 1976291.608291,
+    "leverage": 10,
+    "unrealized_pnl": 476144.607503,
+    "liquidation_price": 0.0018817256
+  },
+  {
+    "ts": "2026-08-19T06:15:38.531359+00:00",
+    "trader": "0xaecfe4eff84a1cd9a24accc1914ac537af7f6e1b",
+    "type": "NEW",
+    "coin": "GRAM",
+    "side": "LONG",
+    "size": 1.0,
+    "entry_price": 1.362049,
+    "position_value_usd": 1.31905,
+    "leverage": 5,
+    "unrealized_pnl": -0.042999,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-08-19T06:15:38.727384+00:00",
+    "trader": "0x770493a14c49ea81192b5191a536f0530041311b",
+    "type": "NEW",
+    "coin": "ACE",
+    "side": "SHORT",
+    "size": 1318316.36,
+    "entry_price": 0.1832,
+    "position_value_usd": 320350.87548,
+    "leverage": 3,
+    "unrealized_pnl": -78757.533722,
+    "liquidation_price": 0.7001114502
+  },
+  {
+    "ts": "2026-08-19T06:15:38.727384+00:00",
+    "trader": "0x770493a14c49ea81192b5191a536f0530041311b",
+    "type": "NEW",
+    "coin": "PUMP",
+    "side": "SHORT",
+    "size": 29420288.0,
+    "entry_price": 0.002384,
+    "position_value_usd": 86819.269888,
+    "leverage": 3,
+    "unrealized_pnl": -16663.110175,
+    "liquidation_price": 0.0257099548
+  },
+  {
+    "ts": "2026-08-19T06:15:38.727384+00:00",
+    "trader": "0x770493a14c49ea81192b5191a536f0530041311b",
+    "type": "NEW",
+    "coin": "CASHCAT",
+    "side": "SHORT",
+    "size": 4420437.0,
+    "entry_price": 0.089417,
+    "position_value_usd": 404774.995653,
+    "leverage": 3,
+    "unrealized_pnl": -9508.762045,
+    "liquidation_price": 0.282162581
+  },
+  {
+    "ts": "2026-08-19T06:15:38.918138+00:00",
+    "trader": "0x4fe260d11bf48ba3a94459771259c910a398ac59",
+    "type": "NEW",
+    "coin": "BTC",
+    "side": "LONG",
+    "size": 45.28215,
+    "entry_price": 62717.9,
+    "position_value_usd": 2905710.28335,
+    "leverage": 40,
+    "unrealized_pnl": 65708.629266,
+    "liquidation_price": 27405.5477696558
   }
 ]
