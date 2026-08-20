@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-20
 
+### 06:15 UTC — Position poll (Job B)
+- 1 signals (1 applied to the paper book)
+- NEW LONG XMR x5 — 0x55b80f17...
+- Portfolio: $9,797.41 (-2.03%)
+
 ### 06:13 UTC — Daily refresh (Job A)
 - Leaderboard: 42642 traders fetched, 5 shortlisted
 - Shortlist change: +5 new, -5 dropped
