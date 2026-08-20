@@ -2,6 +2,13 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-08-20
+
+### 03:50 UTC — Position poll (Job B)
+- 1 signals (1 applied to the paper book)
+- CLOSED SHORT BTC x40 — 0x4fe260d1...
+- Portfolio: $9,895.64 (-1.04%)
+
 ## 2026-08-19
 
 ### 21:25 UTC — Position poll (Job B)
