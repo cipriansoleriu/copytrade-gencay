@@ -4,6 +4,12 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-22
 
+### 06:15 UTC — Position poll (Job B)
+- 2 signals (2 applied to the paper book)
+- NEW LONG BTC x20 — 0xda744273...
+- NEW SHORT CASHCAT x3 — 0xda744273...
+- Portfolio: $11,365.90 (+13.66%)
+
 ### 06:13 UTC — Daily refresh (Job A)
 - Leaderboard: 43464 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped
