@@ -2,6 +2,31 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-08-22
+
+### 06:13 UTC — Daily refresh (Job A)
+- Leaderboard: 43464 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+-   +0x8f78cb4c11dd66b99b2172b4c1ae05843bde87e7
+-   +0x8f8d2d2565bfb10608a7ce64b48e2aea7875a344
+-   +0xda744273f80b22412417f7cfe0503f3d721f987d
+-   +0x55b80f17dba49f3803d16136e82d2adc5cdd2a10
+-   -0x66466428990e0f42a4c54f64bee0db6bf2336de5
+-   -0xbf49647d017805fcc576ac10f33a788e636f4258
+-   -0xaa8253fb249498d0b6c31106539aaea0c76b9556
+-   -0x9a80d88c21be60e870d07d852390e92d09223cf2
+- #1 0x8f78cb4c... acc=$8,864,895 month=$8,272,901 edge=1169bps
+- #2 0x8f8d2d25... acc=$7,143,156 month=$1,957,545 edge=2624bps
+- #3 0xda744273... acc=$6,534,254 month=$1,537,092 edge=1669bps
+- #4 0x55b80f17... acc=$8,550,612 month=$2,796,151 edge=1912bps
+- #5 0xea0027b6... acc=$20,019,984 month=$12,328,779 edge=10483bps
+- Current positions across the shortlist:
+-   0x8f78cb4c... no open positions
+-   0x8f8d2d25... no open positions
+-   0xda744273... 2 positions: LONG BTC x20, SHORT CASHCAT x3
+-   0x55b80f17... 1 positions: LONG XMR x5
+-   0xea0027b6... 7 positions: LONG ETH x5, LONG SOL x20, LONG PURR x3, LONG HYPE x10, LONG VVV x3, LONG ZEC x5, LONG LIT x5
+
 ## 2026-08-21
 
 ### 16:20 UTC — Position poll (Job B)
