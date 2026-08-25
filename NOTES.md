@@ -4,6 +4,14 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-25
 
+### 10:35 UTC — Position poll (Job B)
+- 4 signals (4 applied to the paper book)
+- NEW LONG HYPE x2 — 0xa906355b...
+- NEW LONG PUMP x2 — 0xa906355b...
+- NEW LONG CASHCAT x3 — 0xa906355b...
+- NEW LONG HYPE x10 — 0xc46e5711...
+- Portfolio: $10,923.66 (+9.24%)
+
 ### 10:34 UTC — Daily refresh (Job A)
 - Leaderboard: 43731 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
