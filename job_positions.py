@@ -28,20 +28,34 @@ def _by_key(positions: list[dict]) -> dict[str, dict]:
     return {f"{p['coin']}:{p['side']}": p for p in positions}
 
 
+def polling_addresses(shortlist: list[str], open_positions: dict) -> tuple[list[str], set[str]]:
+    """Poll the shortlist plus anyone whose position we still hold.
+
+    A trader who drops off the shortlist stops being polled, so their exit never
+    produces a CLOSED signal and the paper position stays open forever with its
+    margin locked. Entries still come from the shortlist only — we follow current
+    winners in, but we follow whoever we copied out.
+    """
+    held = {p["trader"] for p in open_positions.values()}
+    entries = set(shortlist)
+    return shortlist + sorted(held - entries), entries
+
+
 def main() -> int:
     if not ACTIVE_WALLETS.exists():
         log("active_wallets.json missing — Job A hasn't run yet, skipping")
         return 0
 
-    traders = json.loads(ACTIVE_WALLETS.read_text())["top_traders"]
-    log(f"Polling {len(traders)} traders")
+    shortlist = [t["address"] for t in json.loads(ACTIVE_WALLETS.read_text())["top_traders"]]
+    portfolio = paper_engine.load_portfolio()
+    addresses, entry_allowed = polling_addresses(shortlist, portfolio["open_positions"])
+    log(f"Polling {len(shortlist)} shortlisted + {len(addresses) - len(shortlist)} held-only traders")
 
     STATE_DIR.mkdir(exist_ok=True)
     signals = json.loads(SIGNALS_FILE.read_text()) if SIGNALS_FILE.exists() else []
     new_signals = []
 
-    for trader in traders:
-        addr = trader["address"]
+    for addr in addresses:
         try:
             state = fetch_positions.get_open_positions(addr)
         except Exception as exc:
@@ -54,7 +68,7 @@ def main() -> int:
         ts = datetime.now(timezone.utc).isoformat()
 
         for key, p in curr_by_key.items():
-            if key not in prior_by_key:
+            if key not in prior_by_key and addr in entry_allowed:
                 new_signals.append({"ts": ts, "trader": addr, "type": "NEW", **p})
         for key, p in prior_by_key.items():
             if key not in curr_by_key:
