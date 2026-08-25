@@ -4,6 +4,21 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-25
 
+### 15:22 UTC — Daily refresh (Job A)
+- Leaderboard: 43671 traders fetched, 5 shortlisted
+- Shortlist change: +0 new, -0 dropped
+- #1 0x55b80f17... acc=$8,804,053 month=$3,168,055 edge=2093bps
+- #2 0xa906355b... acc=$21,526,144 month=$5,698,622 edge=9881bps
+- #3 0x08c14b32... acc=$6,572,191 month=$3,668,184 edge=6943bps
+- #4 0x005844b2... acc=$5,670,663 month=$1,496,107 edge=2824bps
+- #5 0x8607a7d1... acc=$20,120,182 month=$5,248,711 edge=2395bps
+- Current positions across the shortlist:
+-   0x55b80f17... 1 positions: LONG XMR x5
+-   0xa906355b... 1 positions: LONG CASHCAT x3
+-   0x08c14b32... 10 positions: SHORT BTC x20, LONG ARB x10, LONG LDO x5, LONG AAVE x10, LONG ZRO x5, LONG ETHFI x5, LONG ENA x10, LONG EIGEN x5, SHORT WLFI x5, LONG MEGA x3
+-   0x005844b2... no open positions
+-   0x8607a7d1... 21 positions: LONG BTC x29, LONG SOL x20, SHORT AVAX x10, SHORT LTC x10, SHORT XRP x20, LONG SEI x5, SHORT RUNE x5, SHORT NEAR x10, SHORT kBONK x10, SHORT TAO x5, SHORT RENDER x5, SHORT kNEIRO x3, SHORT GRASS x3, SHORT PURR x3, LONG VIRTUAL x5, SHORT PENGU x5, LONG USUAL x3, SHORT FARTCOIN x3, SHORT AIXBT x3, LONG BERA x5, LONG LIT x3
+
 ### 15:10 UTC — Position poll (Job B)
 - 31 signals (31 applied to the paper book)
 - NEW SHORT BTC x20 — 0x08c14b32...
