@@ -2,6 +2,15 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-08-25
+
+### 10:31 UTC — Position poll (Job B)
+- 3 signals (3 applied to the paper book)
+- NEW SHORT BTC x20 — 0x8f78cb4c...
+- NEW SHORT SOL x10 — 0x8f78cb4c...
+- NEW SHORT ZEC x10 — 0x8f78cb4c...
+- Portfolio: $10,902.02 (+9.02%)
+
 ## 2026-08-22
 
 ### 06:15 UTC — Position poll (Job B)
