@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-25
 
+### 12:25 UTC — Position poll (Job B)
+- 1 signals (1 applied to the paper book)
+- NEW SHORT BTC x20 — 0x8f8d2d25...
+- Portfolio: $10,765.98 (+7.66%)
+
 ### 10:35 UTC — Position poll (Job B)
 - 4 signals (4 applied to the paper book)
 - NEW LONG HYPE x2 — 0xa906355b...
