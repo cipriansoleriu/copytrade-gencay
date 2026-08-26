@@ -2,6 +2,27 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-08-26
+
+### 06:13 UTC — Daily refresh (Job A)
+- Leaderboard: 43813 traders fetched, 5 shortlisted
+- Shortlist change: +2 new, -2 dropped
+-   +0x35270069b7a3c6d8c2caf73965f07a8a8b051e16
+-   +0x807a2e2e469df84b299da5f90f15dda4380daca1
+-   -0x005844b2ffb2e122cf4244be7dbcb4f84924907c
+-   -0x8607a7d180de23645db594d90621d837749408d5
+- #1 0x55b80f17... acc=$8,898,875 month=$3,140,595 edge=2075bps
+- #2 0x35270069... acc=$819,722 month=$8,100,655 edge=3913bps
+- #3 0xa906355b... acc=$22,176,783 month=$5,978,563 edge=10183bps
+- #4 0x807a2e2e... acc=$16,063,456 month=$4,146,773 edge=8267bps
+- #5 0x08c14b32... acc=$6,323,077 month=$2,952,818 edge=5589bps
+- Current positions across the shortlist:
+-   0x55b80f17... 1 positions: LONG XMR x5
+-   0x35270069... no open positions
+-   0xa906355b... 1 positions: LONG CASHCAT x3
+-   0x807a2e2e... no open positions
+-   0x08c14b32... 10 positions: SHORT BTC x20, LONG ARB x10, LONG LDO x5, LONG AAVE x10, LONG ZRO x5, LONG ETHFI x5, LONG ENA x10, LONG EIGEN x5, SHORT WLFI x5, LONG MEGA x3
+
 ## 2026-08-25
 
 ### 15:22 UTC — Daily refresh (Job A)
