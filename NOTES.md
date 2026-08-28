@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-28
 
+### 16:20 UTC — Position poll (Job B)
+- 1 signals (1 applied to the paper book)
+- NEW LONG PUMP x2 — 0xa906355b...
+- Portfolio: $9,749.79 (-2.50%)
+
 ### 06:13 UTC — Daily refresh (Job A)
 - Leaderboard: 44059 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
