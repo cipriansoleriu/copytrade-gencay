@@ -4,6 +4,12 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-29
 
+### 07:35 UTC — Position poll (Job B)
+- 2 signals (2 applied to the paper book)
+- NEW LONG XMR x3 — 0x4c6d679e...
+- CLOSED SHORT XMR x3 — 0x4c6d679e...
+- Portfolio: $9,733.13 (-2.67%)
+
 ### 06:15 UTC — Position poll (Job B)
 - 57 signals (56 applied to the paper book)
 - NEW SHORT XMR x3 — 0x4c6d679e...
