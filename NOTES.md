@@ -2,6 +2,33 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-08-29
+
+### 06:13 UTC — Daily refresh (Job A)
+- Leaderboard: 44074 traders fetched, 5 shortlisted
+- Shortlist change: +5 new, -5 dropped
+-   +0x7dacca323e44f168494c779bb5e7483c468ef410
+-   +0x005844b2ffb2e122cf4244be7dbcb4f84924907c
+-   +0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9
+-   +0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05
+-   +0xd6e56265890b76413d1d527eb9b75e334c0c5b42
+-   -0xa906355beaf1d69a5fe73ce55899c49c6e67916c
+-   -0x807a2e2e469df84b299da5f90f15dda4380daca1
+-   -0x0a8494f70031623c9c0043aff4d40f334b458b11
+-   -0x55b80f17dba49f3803d16136e82d2adc5cdd2a10
+-   -0x8196e0648cb16e9151c2920618a58605706b5836
+- #1 0x7dacca32... acc=$33,865,711 month=$9,222,968 edge=6603bps
+- #2 0x005844b2... acc=$5,820,603 month=$1,937,579 edge=3428bps
+- #3 0x4c6d679e... acc=$26,077,623 month=$6,590,006 edge=3645bps
+- #4 0x8af700ba... acc=$27,331,372 month=$7,926,609 edge=2295bps
+- #5 0xd6e56265... acc=$9,868,876 month=$220,434 edge=135bps
+- Current positions across the shortlist:
+-   0x7dacca32... no open positions
+-   0x005844b2... no open positions
+-   0x4c6d679e... 1 positions: SHORT XMR x3
+-   0x8af700ba... 18 positions: LONG BTC x40, LONG ETH x25, SHORT AVAX x10, SHORT SUI x10, SHORT kPEPE x10, SHORT CRV x10, SHORT LINK x10, SHORT XRP x20, SHORT AAVE x10, SHORT kSHIB x10, SHORT ADA x10, SHORT PENDLE x5, SHORT NEAR x10, SHORT FIL x5, SHORT STRK x5, SHORT GRASS x3, SHORT HYPE x3, LONG ZEC x5
+-   0xd6e56265... 37 positions: SHORT ATOM x5, SHORT AVAX x10, SHORT OP x5, SHORT SUI x10, SHORT CRV x10, SHORT XRP x20, SHORT APT x10, SHORT WLD x10, SHORT SEI x5, SHORT ZRO x5, SHORT BLUR x3, SHORT TIA x5, SHORT ADA x10, SHORT MINA x3, SHORT NEAR x10, SHORT PYTH x5, SHORT XAI x3, SHORT ONDO x10, SHORT ZETA x3, SHORT W x5, SHORT TAO x5, SHORT MERL x3, SHORT GRASS x3, LONG HYPE x10, SHORT MORPHO x5, SHORT TRUMP x10, SHORT BERA x5, SHORT LAYER x3, SHORT KAITO x5, SHORT ZORA x3, SHORT ASTER x3, SHORT AVNT x5, SHORT STBL x3, SHORT HEMI x3, SHORT ICP x5, SHORT AERO x3, SHORT STABLE x3
+
 ## 2026-08-28
 
 ### 16:20 UTC — Position poll (Job B)
