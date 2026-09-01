@@ -1,5 +1,5 @@
 {
-  "cash": 73.25668573714547,
+  "cash": 62.8084509338851,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x08c14b32c8a48894e4b933090ebcc9ce33b21135:BTC:SHORT": {
@@ -1189,6 +1189,39 @@
       "margin": 3.8556150387971306,
       "leverage": 3,
       "opened_at": "2026-08-31T06:15:51.830451+00:00"
+    },
+    "0xead5b7d86c681c036c59cd00a0390541061c69f2:HYPE:SHORT": {
+      "trader": "0xead5b7d86c681c036c59cd00a0390541061c69f2",
+      "coin": "HYPE",
+      "side": "SHORT",
+      "size": 0.13059721272832325,
+      "entry_price": 84.14040875,
+      "notional": 10.988502860571822,
+      "margin": 3.662834286857274,
+      "leverage": 3,
+      "opened_at": "2026-09-01T06:15:51.520501+00:00"
+    },
+    "0xead5b7d86c681c036c59cd00a0390541061c69f2:VVV:SHORT": {
+      "trader": "0xead5b7d86c681c036c59cd00a0390541061c69f2",
+      "coin": "VVV",
+      "side": "SHORT",
+      "size": 0.6161283584035023,
+      "entry_price": 16.94302425,
+      "notional": 10.439077717543231,
+      "margin": 3.4796925725144106,
+      "leverage": 3,
+      "opened_at": "2026-09-01T06:15:51.520524+00:00"
+    },
+    "0xead5b7d86c681c036c59cd00a0390541061c69f2:ZEC:SHORT": {
+      "trader": "0xead5b7d86c681c036c59cd00a0390541061c69f2",
+      "coin": "ZEC",
+      "side": "SHORT",
+      "size": 0.011511941563767189,
+      "entry_price": 861.4640525,
+      "notional": 9.91712383166607,
+      "margin": 3.30570794388869,
+      "leverage": 3,
+      "opened_at": "2026-09-01T06:15:51.520530+00:00"
     }
   },
   "equity_history": [
@@ -10781,7 +10814,12 @@
       "ts": "2026-09-01T06:10:54.641736+00:00",
       "equity": 10062.763972664208,
       "cash": 73.25668573714547
+    },
+    {
+      "ts": "2026-09-01T06:15:51.520569+00:00",
+      "equity": 10054.072623265,
+      "cash": 62.8084509338851
     }
   ],
-  "last_processed_signal_index": 171
+  "last_processed_signal_index": 174
 }
