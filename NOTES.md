@@ -2,6 +2,31 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-09-02
+
+### 06:13 UTC — Daily refresh (Job A)
+- Leaderboard: 44632 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+-   +0x3ee505ba316879d246a8fd2b3d7ee63b51b44fab
+-   +0x265eac78fb57495674227c93065d67abe6f97f70
+-   +0x77746ff04a7014752ab12d81d531aa5e50775343
+-   +0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9
+-   -0x8196e0648cb16e9151c2920618a58605706b5836
+-   -0x5f94a51948d2376ad34a6fadfa2544e651b74b96
+-   -0xea0027b6ea9b6d7d401b5266979cc3b3ca87a918
+-   -0xead5b7d86c681c036c59cd00a0390541061c69f2
+- #1 0x3ee505ba... acc=$9,149,382 month=$4,500,598 edge=8899bps
+- #2 0x7dacca32... acc=$34,348,232 month=$10,112,748 edge=7240bps
+- #3 0x265eac78... acc=$9,887,166 month=$4,308,298 edge=5591bps
+- #4 0x77746ff0... acc=$8,664,991 month=$3,027,799 edge=5684bps
+- #5 0x4c6d679e... acc=$28,932,076 month=$8,738,013 edge=3359bps
+- Current positions across the shortlist:
+-   0x3ee505ba... 6 positions: SHORT SOL x20, LONG AAVE x10, LONG ZRO x5, LONG HYPE x10, LONG SKY x3, SHORT LIT x5
+-   0x7dacca32... no open positions
+-   0x265eac78... 1 positions: LONG PONS x2
+-   0x77746ff0... 1 positions: SHORT HYPE x10
+-   0x4c6d679e... 1 positions: SHORT XMR x3
+
 ## 2026-09-01
 
 ### 06:15 UTC — Position poll (Job B)
