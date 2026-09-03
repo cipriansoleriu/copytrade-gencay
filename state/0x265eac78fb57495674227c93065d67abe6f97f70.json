@@ -1,14 +1,24 @@
 {
-  "account_value": 251746.436562,
+  "account_value": 250705.663716,
   "positions": [
     {
       "coin": "TRX",
       "side": "LONG",
       "size": 462322.0,
       "entry_price": 0.324532,
-      "position_value_usd": 150878.7847,
+      "position_value_usd": 150971.2491,
       "leverage": 10,
-      "unrealized_pnl": 840.41211,
+      "unrealized_pnl": 932.87651,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "MON",
+      "side": "LONG",
+      "size": 352702.0,
+      "entry_price": 0.025529,
+      "position_value_usd": 8999.19153,
+      "leverage": 5,
+      "unrealized_pnl": -5.049513,
       "liquidation_price": 0.0
     },
     {
@@ -16,11 +26,11 @@
       "side": "LONG",
       "size": 913940.0,
       "entry_price": 0.419908,
-      "position_value_usd": 473567.1504,
+      "position_value_usd": 467617.401,
       "leverage": 2,
-      "unrealized_pnl": 89795.564744,
+      "unrealized_pnl": 83845.815344,
       "liquidation_price": 0.0
     }
   ],
-  "timestamp_ms": 1788426338061
+  "timestamp_ms": 1788426648230
 }
