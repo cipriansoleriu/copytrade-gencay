@@ -2,6 +2,14 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-09-03
+
+### 05:20 UTC — Position poll (Job B)
+- 2 signals (2 applied to the paper book)
+- CLOSED LONG BTC x3 — 0x265eac78...
+- CLOSED LONG ETH x5 — 0x265eac78...
+- Portfolio: $10,585.16 (+5.85%)
+
 ## 2026-09-02
 
 ### 21:55 UTC — Position poll (Job B)
