@@ -4,6 +4,29 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-04
 
+### 06:13 UTC — Daily refresh (Job A)
+- Leaderboard: 44903 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+-   +0x8196e0648cb16e9151c2920618a58605706b5836
+-   +0xbbcb0c0aef0b28125af2f719f81d6a5b76f56f30
+-   +0x3ee505ba316879d246a8fd2b3d7ee63b51b44fab
+-   +0x9b864dde6ed1c21608b1665a0ac0faa4f7e36e6e
+-   -0xe867fbdad3291530e41530301ecb77693850c78e
+-   -0x5f94a51948d2376ad34a6fadfa2544e651b74b96
+-   -0x265eac78fb57495674227c93065d67abe6f97f70
+-   -0x005844b2ffb2e122cf4244be7dbcb4f84924907c
+- #1 0x8196e064... acc=$13,811,785 month=$7,528,594 edge=10030bps
+- #2 0xbbcb0c0a... acc=$7,603,978 month=$2,112,246 edge=3799bps
+- #3 0x3ee505ba... acc=$9,181,974 month=$4,478,909 edge=7755bps
+- #4 0x77746ff0... acc=$8,951,920 month=$3,065,344 edge=5662bps
+- #5 0x9b864dde... acc=$2,175,355 month=$1,214,171 edge=745bps
+- Current positions across the shortlist:
+-   0x8196e064... no open positions
+-   0xbbcb0c0a... 2 positions: LONG ETH x20, SHORT HYPE x10
+-   0x3ee505ba... 6 positions: SHORT SOL x20, LONG AAVE x10, LONG ZRO x5, LONG HYPE x10, LONG SKY x3, SHORT LIT x5
+-   0x77746ff0... 1 positions: SHORT HYPE x10
+-   0x9b864dde... 4 positions: LONG UNI x5, LONG HYPE x4, LONG ZEC x3, LONG LIT x5
+
 ### 05:30 UTC — Position poll (Job B)
 - 1 signals (1 applied to the paper book)
 - CLOSED LONG MON x5 — 0x265eac78...
