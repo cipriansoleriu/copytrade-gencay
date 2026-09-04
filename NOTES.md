@@ -2,6 +2,13 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-09-04
+
+### 05:25 UTC — Position poll (Job B)
+- 1 signals (1 applied to the paper book)
+- NEW LONG ZEC x10 — 0x265eac78...
+- Portfolio: $10,610.60 (+6.11%)
+
 ## 2026-09-03
 
 ### 20:35 UTC — Position poll (Job B)
