@@ -1,14 +1,24 @@
 {
-  "account_value": 271862.321842,
+  "account_value": 293384.491526,
   "positions": [
+    {
+      "coin": "PENGU",
+      "side": "LONG",
+      "size": 12012665.0,
+      "entry_price": 0.008329,
+      "position_value_usd": 100185.6261,
+      "leverage": 5,
+      "unrealized_pnl": 130.419592,
+      "liquidation_price": 0.0
+    },
     {
       "coin": "ZEC",
       "side": "LONG",
       "size": 205.16,
       "entry_price": 974.2008,
-      "position_value_usd": 209345.264,
+      "position_value_usd": 209878.68,
       "leverage": 5,
-      "unrealized_pnl": 9478.2148,
+      "unrealized_pnl": 10011.6308,
       "liquidation_price": 0.0
     },
     {
@@ -16,11 +26,11 @@
       "side": "LONG",
       "size": 692537.0,
       "entry_price": 0.487423,
-      "position_value_usd": 458556.44918,
+      "position_value_usd": 462960.9845,
       "leverage": 2,
-      "unrealized_pnl": 120997.32542,
+      "unrealized_pnl": 125401.86074,
       "liquidation_price": 0.0
     }
   ],
-  "timestamp_ms": 1788575129812
+  "timestamp_ms": 1788575493790
 }
