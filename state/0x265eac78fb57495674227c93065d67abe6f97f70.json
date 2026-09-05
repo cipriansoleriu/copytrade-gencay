@@ -1,14 +1,24 @@
 {
-  "account_value": 364456.565215,
+  "account_value": 428180.705836,
   "positions": [
+    {
+      "coin": "BTC",
+      "side": "LONG",
+      "size": 2.44715,
+      "entry_price": 79680.7,
+      "position_value_usd": 195006.04205,
+      "leverage": 3,
+      "unrealized_pnl": 15.39117,
+      "liquidation_price": 0.0
+    },
     {
       "coin": "PENGU",
       "side": "LONG",
       "size": 12012665.0,
       "entry_price": 0.008329,
-      "position_value_usd": 103068.6657,
+      "position_value_usd": 102768.349075,
       "leverage": 5,
-      "unrealized_pnl": 3013.459192,
+      "unrealized_pnl": 2713.142567,
       "liquidation_price": 0.0
     },
     {
@@ -16,9 +26,9 @@
       "side": "LONG",
       "size": 299.5,
       "entry_price": 984.2483,
-      "position_value_usd": 304591.5,
+      "position_value_usd": 303992.5,
       "leverage": 5,
-      "unrealized_pnl": 9809.1148,
+      "unrealized_pnl": 9210.1148,
       "liquidation_price": 0.0
     },
     {
@@ -26,11 +36,11 @@
       "side": "LONG",
       "size": 605955.0,
       "entry_price": 0.491366,
-      "position_value_usd": 565713.52845,
+      "position_value_usd": 563432.107875,
       "leverage": 2,
-      "unrealized_pnl": 267967.385605,
+      "unrealized_pnl": 265685.96503,
       "liquidation_price": 0.0
     }
   ],
-  "timestamp_ms": 1788619238770
+  "timestamp_ms": 1788619539886
 }
