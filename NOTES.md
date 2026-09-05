@@ -2,6 +2,31 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-09-05
+
+### 06:13 UTC — Daily refresh (Job A)
+- Leaderboard: 44951 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+-   +0xf02d028ffeddc120a3ec59602a6617303ca55eb3
+-   +0xf21d494bb47339f399267c5519cbe11da0753b2d
+-   +0xb2662fca65f6446b8b1898340118d44d680a4449
+-   +0x5f94a51948d2376ad34a6fadfa2544e651b74b96
+-   -0x8196e0648cb16e9151c2920618a58605706b5836
+-   -0xbbcb0c0aef0b28125af2f719f81d6a5b76f56f30
+-   -0x3ee505ba316879d246a8fd2b3d7ee63b51b44fab
+-   -0x77746ff04a7014752ab12d81d531aa5e50775343
+- #1 0x9b864dde... acc=$2,407,224 month=$1,456,375 edge=1028bps
+- #2 0xf02d028f... acc=$13,914,103 month=$1,583,066 edge=403bps
+- #3 0xf21d494b... acc=$1,378,009 month=$779,559 edge=299bps
+- #4 0xb2662fca... acc=$1,383,274 month=$862,560 edge=1530bps
+- #5 0x5f94a519... acc=$16,223,735 month=$5,012,632 edge=4281bps
+- Current positions across the shortlist:
+-   0x9b864dde... 4 positions: LONG UNI x5, LONG HYPE x4, LONG ZEC x3, LONG LIT x5
+-   0xf02d028f... 2 positions: SHORT ETH x20, SHORT HYPE x10
+-   0xf21d494b... 2 positions: LONG UNI x10, LONG LIT x3
+-   0xb2662fca... 3 positions: LONG HYPE x10, LONG ZEC x10, LONG CASHCAT x3
+-   0x5f94a519... 18 positions: SHORT OP x5, SHORT SUI x10, LONG AAVE x10, SHORT DOT x10, SHORT ADA x10, LONG NEAR x10, LONG JTO x5, SHORT STRK x5, LONG ETHFI x5, LONG GRASS x3, SHORT HYPE x10, SHORT MORPHO x5, SHORT TRUMP x8, LONG PUMP x10, SHORT XPL x10, SHORT WLFI x5, LONG ZEC x10, LONG LIT x5
+
 ## 2026-09-04
 
 ### 13:10 UTC — Position poll (Job B)
