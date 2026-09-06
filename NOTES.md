@@ -4,6 +4,27 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-06
 
+### 06:13 UTC — Daily refresh (Job A)
+- Leaderboard: 45149 traders fetched, 5 shortlisted
+- Shortlist change: +3 new, -3 dropped
+-   +0xa906355beaf1d69a5fe73ce55899c49c6e67916c
+-   +0xa9b95f2a2e7ef219021efc5c04c32761b8553bbd
+-   +0x251f933e62283b6178d6f8c5629859dfa8b96e5d
+-   -0xf02d028ffeddc120a3ec59602a6617303ca55eb3
+-   -0xf21d494bb47339f399267c5519cbe11da0753b2d
+-   -0x5f94a51948d2376ad34a6fadfa2544e651b74b96
+- #1 0xa906355b... acc=$23,349,422 month=$7,959,523 edge=15355bps
+- #2 0x9b864dde... acc=$2,198,067 month=$1,939,028 edge=1558bps
+- #3 0xa9b95f2a... acc=$38,903,228 month=$14,565,588 edge=1077bps
+- #4 0x251f933e... acc=$20,537,369 month=$7,972,833 edge=13057bps
+- #5 0xb2662fca... acc=$1,854,733 month=$1,334,946 edge=2368bps
+- Current positions across the shortlist:
+-   0xa906355b... 2 positions: LONG PUMP x2, LONG CASHCAT x3
+-   0x9b864dde... 4 positions: LONG UNI x5, LONG HYPE x4, LONG ZEC x3, LONG LIT x5
+-   0xa9b95f2a... 1 positions: LONG HYPE x10
+-   0x251f933e... no open positions
+-   0xb2662fca... 3 positions: LONG HYPE x10, LONG ZEC x10, LONG CASHCAT x3
+
 ### 01:20 UTC — Position poll (Job B)
 - 1 signals (0 applied to the paper book)
 - CLOSED SHORT PONS x3 — 0x08c14b32...
