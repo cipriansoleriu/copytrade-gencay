@@ -1,14 +1,14 @@
 {
-  "account_value": 2183188.931917,
+  "account_value": 1508240.978311,
   "positions": [
     {
       "coin": "UNI",
       "side": "LONG",
       "size": 19074.2,
       "entry_price": 5.24526,
-      "position_value_usd": 132155.5947,
+      "position_value_usd": 131615.79484,
       "leverage": 5,
-      "unrealized_pnl": 32106.28111,
+      "unrealized_pnl": 31566.48125,
       "liquidation_price": 0.0
     },
     {
@@ -16,9 +16,9 @@
       "side": "LONG",
       "size": 9266.56,
       "entry_price": 72.4179,
-      "position_value_usd": 805773.7248,
+      "position_value_usd": 805736.65856,
       "leverage": 4,
-      "unrealized_pnl": 134708.10965,
+      "unrealized_pnl": 134671.04341,
       "liquidation_price": 57.5845483332
     },
     {
@@ -26,21 +26,31 @@
       "side": "LONG",
       "size": 2752.64,
       "entry_price": 631.0315,
-      "position_value_usd": 3233250.944,
+      "position_value_usd": 3220038.272,
       "leverage": 3,
-      "unrealized_pnl": 1496248.258236,
-      "liquidation_price": 519.9578111027
+      "unrealized_pnl": 1483035.586236,
+      "liquidation_price": 522.3786594393
     },
     {
       "coin": "LIT",
       "side": "LONG",
       "size": 115402.0,
       "entry_price": 3.111,
-      "position_value_usd": 532637.931,
+      "position_value_usd": 531919.784354,
       "leverage": 5,
-      "unrealized_pnl": 173622.2901,
+      "unrealized_pnl": 172904.143454,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "DASH",
+      "side": "LONG",
+      "size": 710.55,
+      "entry_price": 70.4065,
+      "position_value_usd": 49864.9779,
+      "leverage": 5,
+      "unrealized_pnl": -162.38585,
       "liquidation_price": 0.0
     }
   ],
-  "timestamp_ms": 1788682539907
+  "timestamp_ms": 1788682840271
 }
