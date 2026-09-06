@@ -1,14 +1,14 @@
 {
-  "account_value": 1563464.644449,
+  "account_value": 1551569.362716,
   "positions": [
     {
       "coin": "UNI",
       "side": "LONG",
       "size": 19074.2,
       "entry_price": 5.24526,
-      "position_value_usd": 132928.0998,
+      "position_value_usd": 132872.78462,
       "leverage": 5,
-      "unrealized_pnl": 32878.78621,
+      "unrealized_pnl": 32823.47103,
       "liquidation_price": 0.0
     },
     {
@@ -16,9 +16,9 @@
       "side": "LONG",
       "size": 9266.56,
       "entry_price": 72.4179,
-      "position_value_usd": 811398.52672,
+      "position_value_usd": 812807.04384,
       "leverage": 4,
-      "unrealized_pnl": 140332.91157,
+      "unrealized_pnl": 141741.42869,
       "liquidation_price": 57.5868433397
     },
     {
@@ -26,19 +26,19 @@
       "side": "LONG",
       "size": 2752.64,
       "entry_price": 631.0315,
-      "position_value_usd": 3262428.928,
+      "position_value_usd": 3261603.136,
       "leverage": 3,
-      "unrealized_pnl": 1525426.242236,
-      "liquidation_price": 519.8832305955
+      "unrealized_pnl": 1524600.450236,
+      "liquidation_price": 522.9536051003
     },
     {
       "coin": "LIT",
       "side": "LONG",
       "size": 115402.0,
       "entry_price": 3.111,
-      "position_value_usd": 538846.5586,
+      "position_value_usd": 539435.1088,
       "leverage": 5,
-      "unrealized_pnl": 179830.9177,
+      "unrealized_pnl": 180419.4679,
       "liquidation_price": 0.0
     },
     {
@@ -46,11 +46,21 @@
       "side": "LONG",
       "size": 710.55,
       "entry_price": 70.4065,
-      "position_value_usd": 48939.8418,
+      "position_value_usd": 48988.86975,
       "leverage": 5,
-      "unrealized_pnl": -1087.52195,
+      "unrealized_pnl": -1038.494,
       "liquidation_price": 0.0
+    },
+    {
+      "coin": "PONS",
+      "side": "SHORT",
+      "size": 53981.0,
+      "entry_price": 0.924407,
+      "position_value_usd": 50081.41256,
+      "leverage": 3,
+      "unrealized_pnl": -180.96754,
+      "liquidation_price": 28.4135439118
     }
   ],
-  "timestamp_ms": 1788690330322
+  "timestamp_ms": 1788690654538
 }

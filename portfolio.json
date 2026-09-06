@@ -1,5 +1,5 @@
 {
-  "cash": 94.9870592828314,
+  "cash": 90.23770631868983,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x08c14b32c8a48894e4b933090ebcc9ce33b21135:BTC:SHORT": {
@@ -1464,6 +1464,17 @@
       "margin": 4.999318909622705,
       "leverage": 3,
       "opened_at": "2026-09-06T08:20:44.148790+00:00"
+    },
+    "0x9b864dde6ed1c21608b1665a0ac0faa4f7e36e6e:PONS:SHORT": {
+      "trader": "0x9b864dde6ed1c21608b1665a0ac0faa4f7e36e6e",
+      "coin": "PONS",
+      "side": "SHORT",
+      "size": 15.362847812983667,
+      "entry_price": 0.92743605,
+      "notional": 14.24805889242471,
+      "margin": 4.74935296414157,
+      "leverage": 3,
+      "opened_at": "2026-09-06T10:30:59.359609+00:00"
     }
   },
   "equity_history": [
@@ -18506,7 +18517,12 @@
       "ts": "2026-09-06T10:25:33.949526+00:00",
       "equity": 11293.51505667945,
       "cash": 94.9870592828314
+    },
+    {
+      "ts": "2026-09-06T10:30:59.359674+00:00",
+      "equity": 11283.686278954701,
+      "cash": 90.23770631868983
     }
   ],
-  "last_processed_signal_index": 211
+  "last_processed_signal_index": 212
 }
