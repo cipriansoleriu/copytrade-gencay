@@ -1,5 +1,5 @@
 {
-  "cash": 94.5768643412369,
+  "cash": 89.84802112417505,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x08c14b32c8a48894e4b933090ebcc9ce33b21135:BTC:SHORT": {
@@ -1464,6 +1464,17 @@
       "margin": 4.74935296414157,
       "leverage": 3,
       "opened_at": "2026-09-06T10:30:59.359609+00:00"
+    },
+    "0x9b864dde6ed1c21608b1665a0ac0faa4f7e36e6e:TAO:LONG": {
+      "trader": "0x9b864dde6ed1c21608b1665a0ac0faa4f7e36e6e",
+      "coin": "TAO",
+      "side": "LONG",
+      "size": 0.05512358562850339,
+      "entry_price": 257.358615,
+      "notional": 14.186529651185536,
+      "margin": 4.728843217061845,
+      "leverage": 3,
+      "opened_at": "2026-09-06T19:01:04.280399+00:00"
     }
   },
   "equity_history": [
@@ -19016,7 +19027,12 @@
       "ts": "2026-09-06T18:55:31.817993+00:00",
       "equity": 11163.529928707907,
       "cash": 94.5768643412369
+    },
+    {
+      "ts": "2026-09-06T19:01:04.280471+00:00",
+      "equity": 11135.478150191826,
+      "cash": 89.84802112417505
     }
   ],
-  "last_processed_signal_index": 214
+  "last_processed_signal_index": 215
 }
