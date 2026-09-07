@@ -4,6 +4,25 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-07
 
+### 06:13 UTC — Daily refresh (Job A)
+- Leaderboard: 45160 traders fetched, 5 shortlisted
+- Shortlist change: +2 new, -2 dropped
+-   +0x29de2668d0c8a5879ebb2f6afbec1c6f485a3e93
+-   +0x8196e0648cb16e9151c2920618a58605706b5836
+-   -0x251f933e62283b6178d6f8c5629859dfa8b96e5d
+-   -0xb2662fca65f6446b8b1898340118d44d680a4449
+- #1 0xa9b95f2a... acc=$39,202,458 month=$16,897,217 edge=1248bps
+- #2 0x29de2668... acc=$8,420,489 month=$2,314,654 edge=901bps
+- #3 0xa906355b... acc=$23,204,495 month=$8,270,321 edge=15954bps
+- #4 0x8196e064... acc=$13,792,879 month=$7,777,813 edge=10362bps
+- #5 0x9b864dde... acc=$2,314,962 month=$2,047,870 edge=1649bps
+- Current positions across the shortlist:
+-   0xa9b95f2a... 1 positions: LONG HYPE x10
+-   0x29de2668... 2 positions: LONG ETH x6, LONG HYPE x3
+-   0xa906355b... 2 positions: LONG PUMP x2, LONG CASHCAT x3
+-   0x8196e064... no open positions
+-   0x9b864dde... 6 positions: LONG UNI x5, LONG TAO x3, LONG HYPE x4, LONG ZEC x3, LONG LIT x5, SHORT PONS x3
+
 ### 02:35 UTC — Position poll (Job B)
 - 1 signals (1 applied to the paper book)
 - CLOSED LONG PONS x2 — 0x265eac78...
