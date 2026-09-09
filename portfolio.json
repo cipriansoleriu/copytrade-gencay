@@ -1,5 +1,5 @@
 {
-  "cash": 16.850171137957265,
+  "cash": 19.959098766642388,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x08c14b32c8a48894e4b933090ebcc9ce33b21135:BTC:SHORT": {
@@ -1101,17 +1101,6 @@
       "margin": 5.095451573164108,
       "leverage": 3,
       "opened_at": "2026-08-30T06:15:48.391920+00:00"
-    },
-    "0x5f94a51948d2376ad34a6fadfa2544e651b74b96:XPL:SHORT": {
-      "trader": "0x5f94a51948d2376ad34a6fadfa2544e651b74b96",
-      "coin": "XPL",
-      "side": "SHORT",
-      "size": 167.4828144267487,
-      "entry_price": 0.0867076245,
-      "notional": 14.522036983517706,
-      "margin": 4.840678994505902,
-      "leverage": 3,
-      "opened_at": "2026-08-30T06:15:48.391925+00:00"
     },
     "0x5f94a51948d2376ad34a6fadfa2544e651b74b96:WLFI:SHORT": {
       "trader": "0x5f94a51948d2376ad34a6fadfa2544e651b74b96",
@@ -23460,7 +23449,12 @@
       "ts": "2026-09-09T13:50:55.000495+00:00",
       "equity": 10732.470780449747,
       "cash": 16.850171137957265
+    },
+    {
+      "ts": "2026-09-09T13:55:42.232249+00:00",
+      "equity": 10732.149512695598,
+      "cash": 19.959098766642388
     }
   ],
-  "last_processed_signal_index": 262
+  "last_processed_signal_index": 263
 }
