@@ -4,6 +4,14 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-10
 
+### 06:15 UTC — Position poll (Job B)
+- 4 signals (4 applied to the paper book)
+- NEW LONG ZEC x10 — 0x3ed40336...
+- NEW LONG ETH x25 — 0xbe10fd36...
+- NEW LONG NEAR x5 — 0xbe10fd36...
+- NEW LONG XPL x5 — 0xbe10fd36...
+- Portfolio: $10,520.54 (+5.21%)
+
 ### 06:13 UTC — Daily refresh (Job A)
 - Leaderboard: 45160 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped
