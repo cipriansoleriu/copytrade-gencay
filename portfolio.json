@@ -1,5 +1,5 @@
 {
-  "cash": 41.44704317046348,
+  "cash": 19.202051616928426,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x08c14b32c8a48894e4b933090ebcc9ce33b21135:BTC:SHORT": {
@@ -1904,6 +1904,171 @@
       "margin": 0.7183016704650225,
       "leverage": 3,
       "opened_at": "2026-09-10T13:15:52.214367+00:00"
+    },
+    "0x77eeda199553e33b246e4b4666849b9ad0972902:BTC:SHORT": {
+      "trader": "0x77eeda199553e33b246e4b4666849b9ad0972902",
+      "coin": "BTC",
+      "side": "SHORT",
+      "size": 8.039870691900173e-05,
+      "entry_price": 77327.81675,
+      "notional": 6.217056475569523,
+      "margin": 2.072352158523174,
+      "leverage": 3,
+      "opened_at": "2026-09-11T06:15:51.899427+00:00"
+    },
+    "0x77eeda199553e33b246e4b4666849b9ad0972902:ETH:LONG": {
+      "trader": "0x77eeda199553e33b246e4b4666849b9ad0972902",
+      "coin": "ETH",
+      "side": "LONG",
+      "size": 0.0023909001542205127,
+      "entry_price": 2470.284525,
+      "notional": 5.906203651791047,
+      "margin": 1.9687345505970155,
+      "leverage": 3,
+      "opened_at": "2026-09-11T06:15:51.899442+00:00"
+    },
+    "0x77eeda199553e33b246e4b4666849b9ad0972902:SOL:SHORT": {
+      "trader": "0x77eeda199553e33b246e4b4666849b9ad0972902",
+      "coin": "SOL",
+      "side": "SHORT",
+      "size": 0.056184479078433026,
+      "entry_price": 99.86554225,
+      "notional": 5.6108934692014945,
+      "margin": 1.8702978230671647,
+      "leverage": 3,
+      "opened_at": "2026-09-11T06:15:51.899449+00:00"
+    },
+    "0x77eeda199553e33b246e4b4666849b9ad0972902:OP:SHORT": {
+      "trader": "0x77eeda199553e33b246e4b4666849b9ad0972902",
+      "coin": "OP",
+      "side": "SHORT",
+      "size": 55.621769956123444,
+      "entry_price": 0.09583206000000001,
+      "notional": 5.33034879574142,
+      "margin": 1.7767829319138067,
+      "leverage": 3,
+      "opened_at": "2026-09-11T06:15:51.899454+00:00"
+    },
+    "0x77eeda199553e33b246e4b4666849b9ad0972902:WLD:LONG": {
+      "trader": "0x77eeda199553e33b246e4b4666849b9ad0972902",
+      "coin": "WLD",
+      "side": "LONG",
+      "size": 12.521773145971174,
+      "entry_price": 0.4044021,
+      "notional": 5.063831355954349,
+      "margin": 1.6879437853181163,
+      "leverage": 3,
+      "opened_at": "2026-09-11T06:15:51.899458+00:00"
+    },
+    "0x77eeda199553e33b246e4b4666849b9ad0972902:ADA:SHORT": {
+      "trader": "0x77eeda199553e33b246e4b4666849b9ad0972902",
+      "coin": "ADA",
+      "side": "SHORT",
+      "size": 22.959720990851917,
+      "entry_price": 0.20952518500000003,
+      "notional": 4.810639788156632,
+      "margin": 1.6035465960522106,
+      "leverage": 3,
+      "opened_at": "2026-09-11T06:15:51.899462+00:00"
+    },
+    "0x77eeda199553e33b246e4b4666849b9ad0972902:NEAR:LONG": {
+      "trader": "0x77eeda199553e33b246e4b4666849b9ad0972902",
+      "coin": "NEAR",
+      "side": "LONG",
+      "size": 1.8317822817177218,
+      "entry_price": 2.494896825,
+      "notional": 4.5701077987488,
+      "margin": 1.5233692662496,
+      "leverage": 3,
+      "opened_at": "2026-09-11T06:15:51.899467+00:00"
+    },
+    "0x77eeda199553e33b246e4b4666849b9ad0972902:VVV:SHORT": {
+      "trader": "0x77eeda199553e33b246e4b4666849b9ad0972902",
+      "coin": "VVV",
+      "side": "SHORT",
+      "size": 0.17804177870516813,
+      "entry_price": 24.38530125,
+      "notional": 4.34160240881136,
+      "margin": 1.44720080293712,
+      "leverage": 3,
+      "opened_at": "2026-09-11T06:15:51.899478+00:00"
+    },
+    "0x77eeda199553e33b246e4b4666849b9ad0972902:PUMP:SHORT": {
+      "trader": "0x77eeda199553e33b246e4b4666849b9ad0972902",
+      "coin": "PUMP",
+      "side": "SHORT",
+      "size": 1093.424902268514,
+      "entry_price": 0.003772113,
+      "notional": 4.124522288370791,
+      "margin": 1.3748407627902637,
+      "leverage": 3,
+      "opened_at": "2026-09-11T06:15:51.899484+00:00"
+    },
+    "0x77eeda199553e33b246e4b4666849b9ad0972902:ZEC:SHORT": {
+      "trader": "0x77eeda199553e33b246e4b4666849b9ad0972902",
+      "coin": "ZEC",
+      "side": "SHORT",
+      "size": 0.0035640313669742284,
+      "entry_price": 1099.4000250000001,
+      "notional": 3.9182961739522515,
+      "margin": 1.3060987246507505,
+      "leverage": 3,
+      "opened_at": "2026-09-11T06:15:51.899489+00:00"
+    },
+    "0x77eeda199553e33b246e4b4666849b9ad0972902:ICP:LONG": {
+      "trader": "0x77eeda199553e33b246e4b4666849b9ad0972902",
+      "coin": "ICP",
+      "side": "LONG",
+      "size": 1.332517139322477,
+      "entry_price": 2.79349605,
+      "notional": 3.722381365254639,
+      "margin": 1.240793788418213,
+      "leverage": 3,
+      "opened_at": "2026-09-11T06:15:51.899493+00:00"
+    },
+    "0x7facb3ec0415d6605e0cf5dff744f1108224ff4d:PENDLE:SHORT": {
+      "trader": "0x7facb3ec0415d6605e0cf5dff744f1108224ff4d",
+      "coin": "PENDLE",
+      "side": "SHORT",
+      "size": 1.7511972245641745,
+      "entry_price": 2.0193398250000003,
+      "notional": 3.5362622969919064,
+      "margin": 1.1787540989973022,
+      "leverage": 3,
+      "opened_at": "2026-09-11T06:15:51.899497+00:00"
+    },
+    "0x7facb3ec0415d6605e0cf5dff744f1108224ff4d:ETHFI:SHORT": {
+      "trader": "0x7facb3ec0415d6605e0cf5dff744f1108224ff4d",
+      "coin": "ETHFI",
+      "side": "SHORT",
+      "size": 4.907976792803789,
+      "entry_price": 0.6844875850000001,
+      "notional": 3.3594491821423116,
+      "margin": 1.1198163940474373,
+      "leverage": 3,
+      "opened_at": "2026-09-11T06:15:51.899501+00:00"
+    },
+    "0x7facb3ec0415d6605e0cf5dff744f1108224ff4d:HYPE:SHORT": {
+      "trader": "0x7facb3ec0415d6605e0cf5dff744f1108224ff4d",
+      "coin": "HYPE",
+      "side": "SHORT",
+      "size": 0.03998814358914507,
+      "entry_price": 79.81057475,
+      "notional": 3.191476723035196,
+      "margin": 1.0638255743450653,
+      "leverage": 3,
+      "opened_at": "2026-09-11T06:15:51.899504+00:00"
+    },
+    "0xa0b7020185b97f496f523c3f769eebcffcc56165:SOL:SHORT": {
+      "trader": "0xa0b7020185b97f496f523c3f769eebcffcc56165",
+      "coin": "SOL",
+      "side": "SHORT",
+      "size": 0.010119950013367218,
+      "entry_price": 99.86554225,
+      "notional": 1.010634295627812,
+      "margin": 1.010634295627812,
+      "leverage": 1,
+      "opened_at": "2026-09-11T06:15:51.899511+00:00"
     }
   },
   "equity_history": [
@@ -25891,7 +26056,12 @@
       "ts": "2026-09-11T06:10:48.380064+00:00",
       "equity": 10615.617489970311,
       "cash": 41.44704317046348
+    },
+    {
+      "ts": "2026-09-11T06:15:51.899562+00:00",
+      "equity": 10633.229035913082,
+      "cash": 19.202051616928426
     }
   ],
-  "last_processed_signal_index": 277
+  "last_processed_signal_index": 292
 }
