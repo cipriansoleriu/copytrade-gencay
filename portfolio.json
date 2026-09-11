@@ -1,5 +1,5 @@
 {
-  "cash": 19.334998595951486,
+  "cash": 33.59694777672447,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x08c14b32c8a48894e4b933090ebcc9ce33b21135:BTC:SHORT": {
@@ -1266,17 +1266,6 @@
       "margin": 2.4299991023272183,
       "leverage": 3,
       "opened_at": "2026-09-02T06:15:48.489013+00:00"
-    },
-    "0x265eac78fb57495674227c93065d67abe6f97f70:ZEC:LONG": {
-      "trader": "0x265eac78fb57495674227c93065d67abe6f97f70",
-      "coin": "ZEC",
-      "side": "LONG",
-      "size": 0.03294003779843075,
-      "entry_price": 959.61957,
-      "notional": 31.609904907913865,
-      "margin": 10.536634969304622,
-      "leverage": 3,
-      "opened_at": "2026-09-04T05:25:41.595331+00:00"
     },
     "0xbbcb0c0aef0b28125af2f719f81d6a5b76f56f30:ETH:LONG": {
       "trader": "0xbbcb0c0aef0b28125af2f719f81d6a5b76f56f30",
@@ -25719,7 +25708,12 @@
       "ts": "2026-09-11T02:45:43.268665+00:00",
       "equity": 10575.287622286154,
       "cash": 19.334998595951486
+    },
+    {
+      "ts": "2026-09-11T02:50:47.292287+00:00",
+      "equity": 10597.371860580477,
+      "cash": 33.59694777672447
     }
   ],
-  "last_processed_signal_index": 274
+  "last_processed_signal_index": 275
 }
