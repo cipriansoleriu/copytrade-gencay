@@ -1,5 +1,5 @@
 {
-  "cash": 19.915305331251126,
+  "cash": 22.1159084813793,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x08c14b32c8a48894e4b933090ebcc9ce33b21135:BTC:SHORT": {
@@ -2014,28 +2014,6 @@
       "margin": 1.240793788418213,
       "leverage": 3,
       "opened_at": "2026-09-11T06:15:51.899493+00:00"
-    },
-    "0x7facb3ec0415d6605e0cf5dff744f1108224ff4d:PENDLE:SHORT": {
-      "trader": "0x7facb3ec0415d6605e0cf5dff744f1108224ff4d",
-      "coin": "PENDLE",
-      "side": "SHORT",
-      "size": 1.7511972245641745,
-      "entry_price": 2.0193398250000003,
-      "notional": 3.5362622969919064,
-      "margin": 1.1787540989973022,
-      "leverage": 3,
-      "opened_at": "2026-09-11T06:15:51.899497+00:00"
-    },
-    "0x7facb3ec0415d6605e0cf5dff744f1108224ff4d:ETHFI:SHORT": {
-      "trader": "0x7facb3ec0415d6605e0cf5dff744f1108224ff4d",
-      "coin": "ETHFI",
-      "side": "SHORT",
-      "size": 4.907976792803789,
-      "entry_price": 0.6844875850000001,
-      "notional": 3.3594491821423116,
-      "margin": 1.1198163940474373,
-      "leverage": 3,
-      "opened_at": "2026-09-11T06:15:51.899501+00:00"
     },
     "0x7facb3ec0415d6605e0cf5dff744f1108224ff4d:HYPE:SHORT": {
       "trader": "0x7facb3ec0415d6605e0cf5dff744f1108224ff4d",
@@ -26965,7 +26943,12 @@
       "ts": "2026-09-11T21:31:02.382460+00:00",
       "equity": 10624.809849697269,
       "cash": 19.915305331251126
+    },
+    {
+      "ts": "2026-09-11T21:35:44.801684+00:00",
+      "equity": 10629.552334572669,
+      "cash": 22.1159084813793
     }
   ],
-  "last_processed_signal_index": 293
+  "last_processed_signal_index": 295
 }
