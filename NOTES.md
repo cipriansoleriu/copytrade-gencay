@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-14
 
+### 16:20 UTC — Position poll (Job B)
+- 1 signals (1 applied to the paper book)
+- NEW LONG JUP x10 — 0x77eeda19...
+- Portfolio: $10,284.90 (+2.85%)
+
 ### 06:13 UTC — Daily refresh (Job A)
 - Leaderboard: 45118 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped
