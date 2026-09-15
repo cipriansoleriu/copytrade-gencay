@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-15
 
+### 12:40 UTC — Position poll (Job B)
+- 1 signals (0 applied to the paper book)
+- CLOSED SHORT PONS x3 — 0x03ef8f73...
+- Portfolio: $10,279.35 (+2.79%)
+
 ### 06:13 UTC — Daily refresh (Job A)
 - Leaderboard: 45143 traders fetched, 5 shortlisted
 - Shortlist change: +2 new, -2 dropped
