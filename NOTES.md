@@ -2,6 +2,13 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-09-16
+
+### 05:20 UTC — Position poll (Job B)
+- 1 signals (1 applied to the paper book)
+- CLOSED SHORT ETH x20 — 0xf02d028f...
+- Portfolio: $10,613.79 (+6.14%)
+
 ## 2026-09-15
 
 ### 19:35 UTC — Position poll (Job B)
