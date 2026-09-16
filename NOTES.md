@@ -4,6 +4,25 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-16
 
+### 06:13 UTC — Daily refresh (Job A)
+- Leaderboard: 45086 traders fetched, 5 shortlisted
+- Shortlist change: +2 new, -2 dropped
+-   +0xb0026ca48937bd18c5941c05decab68b0fcced8a
+-   +0x03ef8f736498047c3349bb2c18311d1bb4a79054
+-   -0xf02d028ffeddc120a3ec59602a6617303ca55eb3
+-   -0xbe10fd36393c8b677281d0bc2cf1bb8c98ad4b34
+- #1 0xdcb0b5e4... acc=$2,682,650 month=$603,231 edge=451bps
+- #2 0xb0026ca4... acc=$5,213,391 month=$952,180 edge=691bps
+- #3 0x03ef8f73... acc=$7,403,809 month=$1,280,286 edge=762bps
+- #4 0x7facb3ec... acc=$1,843,619 month=$428,827 edge=666bps
+- #5 0x77746ff0... acc=$8,173,893 month=$2,063,632 edge=3409bps
+- Current positions across the shortlist:
+-   0xdcb0b5e4... no open positions
+-   0xb0026ca4... 1 positions: SHORT ETH x25
+-   0x03ef8f73... 1 positions: SHORT HYPE x10
+-   0x7facb3ec... 1 positions: SHORT HYPE x10
+-   0x77746ff0... 1 positions: SHORT HYPE x10
+
 ### 05:20 UTC — Position poll (Job B)
 - 1 signals (1 applied to the paper book)
 - CLOSED SHORT ETH x20 — 0xf02d028f...
