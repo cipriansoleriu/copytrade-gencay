@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-16
 
+### 06:15 UTC — Position poll (Job B)
+- 1 signals (1 applied to the paper book)
+- NEW SHORT ETH x25 — 0xb0026ca4...
+- Portfolio: $10,624.29 (+6.24%)
+
 ### 06:13 UTC — Daily refresh (Job A)
 - Leaderboard: 45086 traders fetched, 5 shortlisted
 - Shortlist change: +2 new, -2 dropped
