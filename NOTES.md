@@ -2,6 +2,31 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-09-17
+
+### 06:13 UTC — Daily refresh (Job A)
+- Leaderboard: 45089 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+-   +0x1338a67b37aeaf796357d78501a0c3695c51c48e
+-   +0x88560b720239179d7f3f9e49ca934a4861593d7f
+-   +0x5f94a51948d2376ad34a6fadfa2544e651b74b96
+-   +0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05
+-   -0xdcb0b5e41d6ed4dd834316d4177d73452014f983
+-   -0xb0026ca48937bd18c5941c05decab68b0fcced8a
+-   -0x7facb3ec0415d6605e0cf5dff744f1108224ff4d
+-   -0x77746ff04a7014752ab12d81d531aa5e50775343
+- #1 0x1338a67b... acc=$1,953,765 month=$1,456,368 edge=1809bps
+- #2 0x88560b72... acc=$30,291,320 month=$311,207 edge=50bps
+- #3 0x5f94a519... acc=$16,239,281 month=$4,249,750 edge=3284bps
+- #4 0x03ef8f73... acc=$7,490,237 month=$1,187,259 edge=716bps
+- #5 0x8af700ba... acc=$34,663,920 month=$6,824,437 edge=1954bps
+- Current positions across the shortlist:
+-   0x1338a67b... 1 positions: LONG ZEC x4
+-   0x88560b72... no open positions
+-   0x5f94a519... 20 positions: LONG BNB x10, SHORT OP x5, SHORT SUI x10, LONG AAVE x10, SHORT DOT x10, SHORT ADA x10, LONG NEAR x10, LONG JTO x5, SHORT STRK x5, LONG ETHFI x5, LONG ENA x10, LONG GRASS x3, SHORT HYPE x10, SHORT MORPHO x5, SHORT TRUMP x8, LONG PUMP x10, SHORT XPL x10, SHORT WLFI x5, LONG ZEC x10, LONG LIT x5
+-   0x03ef8f73... 1 positions: SHORT HYPE x10
+-   0x8af700ba... 18 positions: LONG BTC x40, LONG ETH x25, SHORT AVAX x10, SHORT SUI x10, SHORT kPEPE x10, SHORT CRV x10, SHORT LINK x10, SHORT XRP x20, SHORT AAVE x10, SHORT kSHIB x10, SHORT ADA x10, SHORT PENDLE x5, SHORT NEAR x10, SHORT FIL x5, SHORT STRK x5, SHORT GRASS x3, SHORT HYPE x3, LONG ZEC x5
+
 ## 2026-09-16
 
 ### 06:15 UTC — Position poll (Job B)
