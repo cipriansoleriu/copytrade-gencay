@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-17
 
+### 06:15 UTC — Position poll (Job B)
+- 1 signals (1 applied to the paper book)
+- NEW LONG ZEC x4 — 0x1338a67b...
+- Portfolio: $10,763.37 (+7.63%)
+
 ### 06:13 UTC — Daily refresh (Job A)
 - Leaderboard: 45089 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped
