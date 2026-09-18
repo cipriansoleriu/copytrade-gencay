@@ -4,6 +4,31 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-18
 
+### 06:13 UTC — Daily refresh (Job A)
+- Leaderboard: 45728 traders fetched, 5 shortlisted
+- Shortlist change: +5 new, -5 dropped
+-   +0xa9b95f2a2e7ef219021efc5c04c32761b8553bbd
+-   +0xe867fbdad3291530e41530301ecb77693850c78e
+-   +0x30afce2f6842bf183c7e3fe7162e279ff0b6393e
+-   +0xa906355beaf1d69a5fe73ce55899c49c6e67916c
+-   +0x4cae5bed586f6e73ae54ebd40a4ac4ed2c477c34
+-   -0x1338a67b37aeaf796357d78501a0c3695c51c48e
+-   -0x88560b720239179d7f3f9e49ca934a4861593d7f
+-   -0x5f94a51948d2376ad34a6fadfa2544e651b74b96
+-   -0x03ef8f736498047c3349bb2c18311d1bb4a79054
+-   -0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05
+- #1 0xa9b95f2a... acc=$38,054,721 month=$13,239,865 edge=986bps
+- #2 0xe867fbda... acc=$94,197,534 month=$29,790,724 edge=4645bps
+- #3 0x30afce2f... acc=$11,663,856 month=$7,477,130 edge=599bps
+- #4 0xa906355b... acc=$23,449,243 month=$7,404,163 edge=14026bps
+- #5 0x4cae5bed... acc=$3,778,198 month=$3,605,065 edge=3950bps
+- Current positions across the shortlist:
+-   0xa9b95f2a... 1 positions: LONG HYPE x10
+-   0xe867fbda... 1 positions: LONG XMR x5
+-   0x30afce2f... 2 positions: LONG INJ x5, LONG NEAR x10
+-   0xa906355b... 3 positions: LONG PUMP x2, LONG XPL x2, LONG CASHCAT x3
+-   0x4cae5bed... 8 positions: LONG NEAR x10, LONG TAO x5, LONG ENA x5, LONG HYPE x10, LONG SYRUP x3, LONG PUMP x10, LONG ZEC x10, LONG LIT x5
+
 ### 04:31 UTC — Position poll (Job B)
 - 1 signals (1 applied to the paper book)
 - CLOSED SHORT PONS x3 — 0x03ef8f73...
