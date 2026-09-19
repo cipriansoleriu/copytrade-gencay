@@ -4,6 +4,25 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-19
 
+### 06:13 UTC — Daily refresh (Job A)
+- Leaderboard: 46231 traders fetched, 5 shortlisted
+- Shortlist change: +2 new, -2 dropped
+-   +0x08c14b32c8a48894e4b933090ebcc9ce33b21135
+-   +0x1338a67b37aeaf796357d78501a0c3695c51c48e
+-   -0xa906355beaf1d69a5fe73ce55899c49c6e67916c
+-   -0x4cae5bed586f6e73ae54ebd40a4ac4ed2c477c34
+- #1 0xa9b95f2a... acc=$41,202,982 month=$13,697,136 edge=3481bps
+- #2 0x30afce2f... acc=$13,996,420 month=$9,793,944 edge=785bps
+- #3 0xe867fbda... acc=$98,988,314 month=$22,702,016 edge=3766bps
+- #4 0x08c14b32... acc=$6,612,022 month=$3,336,672 edge=6581bps
+- #5 0x1338a67b... acc=$2,546,545 month=$2,021,400 edge=2657bps
+- Current positions across the shortlist:
+-   0xa9b95f2a... 1 positions: LONG HYPE x10
+-   0x30afce2f... 2 positions: LONG INJ x5, LONG NEAR x10
+-   0xe867fbda... 1 positions: LONG XMR x5
+-   0x08c14b32... 10 positions: SHORT BTC x20, LONG ARB x10, LONG LDO x5, LONG AAVE x10, LONG ZRO x5, LONG ETHFI x5, LONG ENA x10, LONG EIGEN x5, SHORT WLFI x5, LONG MEGA x3
+-   0x1338a67b... 1 positions: LONG ZEC x4
+
 ### 05:25 UTC — Position poll (Job B)
 - 1 signals (0 applied to the paper book)
 - CLOSED LONG XPL x2 — 0xa906355b...
