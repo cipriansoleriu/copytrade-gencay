@@ -1,5 +1,5 @@
 {
-  "cash": 311.4349836779053,
+  "cash": 1111.2533874249148,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x08c14b32c8a48894e4b933090ebcc9ce33b21135:BTC:SHORT": {
@@ -67,17 +67,6 @@
       "margin": 386.89046875,
       "leverage": 3,
       "opened_at": "2026-08-25T15:10:43.983151+00:00"
-    },
-    "0x08c14b32c8a48894e4b933090ebcc9ce33b21135:ENA:LONG": {
-      "trader": "0x08c14b32c8a48894e4b933090ebcc9ce33b21135",
-      "coin": "ENA",
-      "side": "LONG",
-      "size": 7490.564755938486,
-      "entry_price": 0.147203565,
-      "notional": 1102.6378359375,
-      "margin": 367.5459453125,
-      "leverage": 3,
-      "opened_at": "2026-08-25T15:10:43.983156+00:00"
     },
     "0x08c14b32c8a48894e4b933090ebcc9ce33b21135:EIGEN:LONG": {
       "trader": "0x08c14b32c8a48894e4b933090ebcc9ce33b21135",
@@ -38230,7 +38219,12 @@
       "ts": "2026-09-19T17:11:30.039920+00:00",
       "equity": 11278.502114904646,
       "cash": 311.4349836779053
+    },
+    {
+      "ts": "2026-09-19T17:15:49.227342+00:00",
+      "equity": 11260.356252280006,
+      "cash": 1111.2533874249148
     }
   ],
-  "last_processed_signal_index": 346
+  "last_processed_signal_index": 347
 }
