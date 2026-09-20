@@ -1,36 +1,46 @@
 {
-  "account_value": 2184651.490558,
+  "account_value": 2088080.104744,
   "positions": [
+    {
+      "coin": "NEAR",
+      "side": "LONG",
+      "size": 50000.0,
+      "entry_price": 3.7449,
+      "position_value_usd": 186775.0,
+      "leverage": 10,
+      "unrealized_pnl": -470.46042,
+      "liquidation_price": 0.0
+    },
     {
       "coin": "VVV",
       "side": "LONG",
       "size": 79650.65,
       "entry_price": 26.4547,
-      "position_value_usd": 2350570.33215,
+      "position_value_usd": 2370562.6453,
       "leverage": 3,
-      "unrealized_pnl": 243435.61752,
-      "liquidation_price": 17.350529532
+      "unrealized_pnl": 263427.93067,
+      "liquidation_price": 17.5032879944
     },
     {
       "coin": "ZEC",
       "side": "LONG",
       "size": 3250.0,
       "entry_price": 1057.8296,
-      "position_value_usd": 4721275.0,
+      "position_value_usd": 4718025.0,
       "leverage": 10,
-      "unrealized_pnl": 1283328.718358,
-      "liquidation_price": 1191.2723678581
+      "unrealized_pnl": 1280078.718358,
+      "liquidation_price": 1188.1603564353
     },
     {
       "coin": "CASHCAT",
       "side": "LONG",
-      "size": 9854506.0,
+      "size": 9820264.0,
       "entry_price": 0.191732,
-      "position_value_usd": 1585865.941568,
+      "position_value_usd": 1581848.12512,
       "leverage": 3,
-      "unrealized_pnl": -303565.715198,
-      "liquidation_price": 0.0995949601
+      "unrealized_pnl": -301018.218397,
+      "liquidation_price": 0.0995950561
     }
   ],
-  "timestamp_ms": 1789908654209
+  "timestamp_ms": 1789908944037
 }
