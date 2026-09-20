@@ -4,6 +4,13 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-20
 
+### 06:15 UTC — Position poll (Job B)
+- 3 signals (3 applied to the paper book)
+- NEW LONG XPL x10 — 0x71038a3e...
+- NEW SHORT XMR x5 — 0x71038a3e...
+- NEW LONG CASHCAT x3 — 0x71038a3e...
+- Portfolio: $11,420.29 (+14.20%)
+
 ### 06:13 UTC — Daily refresh (Job A)
 - Leaderboard: 46066 traders fetched, 5 shortlisted
 - Shortlist change: +5 new, -5 dropped

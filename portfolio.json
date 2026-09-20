@@ -1,5 +1,5 @@
 {
-  "cash": 1111.2533874249148,
+  "cash": 952.7608730434363,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x08c14b32c8a48894e4b933090ebcc9ce33b21135:BTC:SHORT": {
@@ -2157,6 +2157,39 @@
       "margin": 11.24005874776366,
       "leverage": 3,
       "opened_at": "2026-09-19T05:05:45.805918+00:00"
+    },
+    "0x71038a3e5fd46ba4ca5edc81339a4d1e9e493104:XPL:LONG": {
+      "trader": "0x71038a3e5fd46ba4ca5edc81339a4d1e9e493104",
+      "coin": "XPL",
+      "side": "LONG",
+      "size": 1825.3649066620299,
+      "entry_price": 0.09131763600000001,
+      "notional": 166.68800811373723,
+      "margin": 55.56266937124574,
+      "leverage": 3,
+      "opened_at": "2026-09-20T06:15:56.442098+00:00"
+    },
+    "0x71038a3e5fd46ba4ca5edc81339a4d1e9e493104:XMR:SHORT": {
+      "trader": "0x71038a3e5fd46ba4ca5edc81339a4d1e9e493104",
+      "coin": "XMR",
+      "side": "SHORT",
+      "size": 0.3052684980011569,
+      "entry_price": 518.7355025,
+      "notional": 158.3536077080504,
+      "margin": 52.784535902683466,
+      "leverage": 3,
+      "opened_at": "2026-09-20T06:15:56.442121+00:00"
+    },
+    "0x71038a3e5fd46ba4ca5edc81339a4d1e9e493104:CASHCAT:LONG": {
+      "trader": "0x71038a3e5fd46ba4ca5edc81339a4d1e9e493104",
+      "coin": "CASHCAT",
+      "side": "LONG",
+      "size": 894.7381550084693,
+      "entry_price": 0.168134025,
+      "notional": 150.43592732264784,
+      "margin": 50.14530910754928,
+      "leverage": 3,
+      "opened_at": "2026-09-20T06:15:56.442128+00:00"
     }
   },
   "equity_history": [
@@ -38999,7 +39032,12 @@
       "ts": "2026-09-20T06:10:54.760372+00:00",
       "equity": 11416.800419633133,
       "cash": 1111.2533874249148
+    },
+    {
+      "ts": "2026-09-20T06:15:56.442195+00:00",
+      "equity": 11420.291868032251,
+      "cash": 952.7608730434363
     }
   ],
-  "last_processed_signal_index": 348
+  "last_processed_signal_index": 351
 }

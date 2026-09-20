@@ -4535,5 +4535,44 @@
     "leverage": 3,
     "unrealized_pnl": 9.136464,
     "liquidation_price": 761.8987988421
+  },
+  {
+    "ts": "2026-09-20T06:15:49.563106+00:00",
+    "trader": "0x71038a3e5fd46ba4ca5edc81339a4d1e9e493104",
+    "type": "NEW",
+    "coin": "XPL",
+    "side": "LONG",
+    "size": 4000000.0,
+    "entry_price": 0.082288,
+    "position_value_usd": 364888.0,
+    "leverage": 10,
+    "unrealized_pnl": 35733.0,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-09-20T06:15:49.563106+00:00",
+    "trader": "0x71038a3e5fd46ba4ca5edc81339a4d1e9e493104",
+    "type": "NEW",
+    "coin": "XMR",
+    "side": "SHORT",
+    "size": 2000.0,
+    "entry_price": 594.51,
+    "position_value_usd": 1038120.0,
+    "leverage": 5,
+    "unrealized_pnl": 150900.0,
+    "liquidation_price": 1463.7717251591
+  },
+  {
+    "ts": "2026-09-20T06:15:49.563106+00:00",
+    "trader": "0x71038a3e5fd46ba4ca5edc81339a4d1e9e493104",
+    "type": "NEW",
+    "coin": "CASHCAT",
+    "side": "LONG",
+    "size": 400000.0,
+    "entry_price": 0.231495,
+    "position_value_usd": 67600.0,
+    "leverage": 3,
+    "unrealized_pnl": -24998.0,
+    "liquidation_price": 0.0
   }
 ]
