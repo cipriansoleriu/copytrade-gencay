@@ -1,26 +1,36 @@
 {
-  "account_value": 557332.078516,
+  "account_value": 540133.569656,
   "positions": [
     {
       "coin": "ETH",
       "side": "LONG",
       "size": 1250.0,
       "entry_price": 2486.67,
-      "position_value_usd": 3284250.0,
+      "position_value_usd": 3292375.0,
       "leverage": 25,
-      "unrealized_pnl": 175910.38132,
-      "liquidation_price": 467.5032017363
+      "unrealized_pnl": 184035.38132,
+      "liquidation_price": 480.0465537535
+    },
+    {
+      "coin": "FARTCOIN",
+      "side": "LONG",
+      "size": 2000278.3,
+      "entry_price": 0.1679,
+      "position_value_usd": 336486.815626,
+      "leverage": 10,
+      "unrealized_pnl": 626.552256,
+      "liquidation_price": 0.0
     },
     {
       "coin": "XPL",
       "side": "LONG",
       "size": 10000935.0,
       "entry_price": 0.086126,
-      "position_value_usd": 907324.82694,
+      "position_value_usd": 908904.97467,
       "leverage": 5,
-      "unrealized_pnl": 45982.928063,
+      "unrealized_pnl": 47563.075793,
       "liquidation_price": 0.0
     }
   ],
-  "timestamp_ms": 1789925752079
+  "timestamp_ms": 1789926049865
 }
