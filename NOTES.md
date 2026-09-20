@@ -2,6 +2,33 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-09-20
+
+### 06:13 UTC — Daily refresh (Job A)
+- Leaderboard: 46066 traders fetched, 5 shortlisted
+- Shortlist change: +5 new, -5 dropped
+-   +0xb0026ca48937bd18c5941c05decab68b0fcced8a
+-   +0xceec48581b3145a575508719f45da07dc57fa7ce
+-   +0x03ef8f736498047c3349bb2c18311d1bb4a79054
+-   +0x71038a3e5fd46ba4ca5edc81339a4d1e9e493104
+-   +0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05
+-   -0xa9b95f2a2e7ef219021efc5c04c32761b8553bbd
+-   -0x30afce2f6842bf183c7e3fe7162e279ff0b6393e
+-   -0xe867fbdad3291530e41530301ecb77693850c78e
+-   -0x08c14b32c8a48894e4b933090ebcc9ce33b21135
+-   -0x1338a67b37aeaf796357d78501a0c3695c51c48e
+- #1 0xb0026ca4... acc=$5,752,898 month=$796,530 edge=766bps
+- #2 0xceec4858... acc=$17,191,177 month=$2,671,119 edge=1089bps
+- #3 0x03ef8f73... acc=$8,092,764 month=$811,407 edge=873bps
+- #4 0x71038a3e... acc=$6,035,725 month=$1,550,704 edge=2073bps
+- #5 0x8af700ba... acc=$35,222,921 month=$6,246,700 edge=1599bps
+- Current positions across the shortlist:
+-   0xb0026ca4... 2 positions: SHORT ETH x25, SHORT CASHCAT x3
+-   0xceec4858... 1 positions: SHORT HYPE x5
+-   0x03ef8f73... 1 positions: SHORT HYPE x10
+-   0x71038a3e... 3 positions: LONG XPL x10, SHORT XMR x5, LONG CASHCAT x3
+-   0x8af700ba... 19 positions: LONG BTC x40, LONG ETH x25, SHORT AVAX x10, SHORT SUI x10, SHORT kPEPE x10, SHORT CRV x10, SHORT LINK x10, SHORT XRP x20, SHORT AAVE x10, SHORT kSHIB x10, SHORT UNI x10, SHORT ADA x10, SHORT PENDLE x5, SHORT NEAR x10, SHORT FIL x5, SHORT STRK x5, SHORT GRASS x3, SHORT HYPE x3, SHORT ZEC x5
+
 ## 2026-09-19
 
 ### 18:15 UTC — Position poll (Job B)
