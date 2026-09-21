@@ -2,6 +2,33 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-09-21
+
+### 06:13 UTC — Daily refresh (Job A)
+- Leaderboard: 46450 traders fetched, 5 shortlisted
+- Shortlist change: +5 new, -5 dropped
+-   +0xe867fbdad3291530e41530301ecb77693850c78e
+-   +0xeadc152ac1014ace57c6b353f89adf5faffe9d55
+-   +0x13da9d69a9b8a28495ade07d3ff1c61d024808be
+-   +0x8607a7d180de23645db594d90621d837749408d5
+-   +0x4cae5bed586f6e73ae54ebd40a4ac4ed2c477c34
+-   -0xb0026ca48937bd18c5941c05decab68b0fcced8a
+-   -0xceec48581b3145a575508719f45da07dc57fa7ce
+-   -0x03ef8f736498047c3349bb2c18311d1bb4a79054
+-   -0x71038a3e5fd46ba4ca5edc81339a4d1e9e493104
+-   -0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05
+- #1 0xe867fbda... acc=$100,526,867 month=$18,430,498 edge=3292bps
+- #2 0xeadc152a... acc=$17,711,179 month=$5,712,728 edge=2610bps
+- #3 0x13da9d69... acc=$12,098,178 month=$1,206,971 edge=49bps
+- #4 0x8607a7d1... acc=$20,957,865 month=$2,643,938 edge=4520bps
+- #5 0x4cae5bed... acc=$4,894,572 month=$3,913,106 edge=4622bps
+- Current positions across the shortlist:
+-   0xe867fbda... 1 positions: LONG XMR x5
+-   0xeadc152a... 38 positions: LONG AVAX x10, LONG LTC x10, LONG DOGE x10, LONG SUI x10, LONG kPEPE x10, LONG LINK x10, LONG CFX x5, LONG XRP x20, LONG AAVE x10, LONG WLD x10, LONG TRX x10, LONG ZRO x5, LONG ADA x10, LONG FET x5, LONG NEAR x10, LONG FIL x5, LONG IMX x5, LONG kBONK x10, LONG WIF x5, LONG ENS x5, LONG W x5, LONG STRK x5, LONG TAO x5, LONG ENA x10, LONG MNT x5, LONG HBAR x5, LONG POPCAT x3, LONG GRASS x3, LONG FARTCOIN x10, LONG PUMP x5, LONG XPL x10, LONG LINEA x3, LONG ASTER x5, LONG APEX x3, LONG GRAM x5, LONG CASHCAT x3, LONG PONS x3, LONG USELESS x3
+-   0x13da9d69... 2 positions: LONG SOL x3, LONG AVAX x3
+-   0x8607a7d1... 20 positions: LONG BTC x29, LONG SOL x20, SHORT AVAX x10, SHORT LTC x10, SHORT XRP x20, LONG SEI x5, SHORT RUNE x5, SHORT NEAR x10, SHORT kBONK x10, SHORT TAO x5, SHORT RENDER x5, SHORT kNEIRO x3, SHORT GRASS x3, LONG VIRTUAL x5, SHORT PENGU x5, LONG USUAL x3, SHORT FARTCOIN x3, SHORT AIXBT x3, LONG BERA x5, SHORT PONS x3
+-   0x4cae5bed... 8 positions: LONG NEAR x10, LONG TAO x5, LONG ENA x5, LONG HYPE x10, LONG SYRUP x3, LONG PUMP x10, LONG ZEC x10, LONG LIT x5
+
 ## 2026-09-20
 
 ### 16:01 UTC — Position poll (Job B)
