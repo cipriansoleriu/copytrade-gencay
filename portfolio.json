@@ -1,5 +1,5 @@
 {
-  "cash": 954.9143349629945,
+  "cash": 861.8101873041026,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x08c14b32c8a48894e4b933090ebcc9ce33b21135:BTC:SHORT": {
@@ -2179,6 +2179,28 @@
       "margin": 50.14530910754928,
       "leverage": 3,
       "opened_at": "2026-09-20T06:15:56.442128+00:00"
+    },
+    "0x13da9d69a9b8a28495ade07d3ff1c61d024808be:SOL:LONG": {
+      "trader": "0x13da9d69a9b8a28495ade07d3ff1c61d024808be",
+      "coin": "SOL",
+      "side": "LONG",
+      "size": 1.2779787320751514,
+      "entry_price": 112.0810125,
+      "notional": 143.2371502444492,
+      "margin": 47.74571674814973,
+      "leverage": 3,
+      "opened_at": "2026-09-21T06:15:56.440858+00:00"
+    },
+    "0x13da9d69a9b8a28495ade07d3ff1c61d024808be:AVAX:LONG": {
+      "trader": "0x13da9d69a9b8a28495ade07d3ff1c61d024808be",
+      "coin": "AVAX",
+      "side": "LONG",
+      "size": 12.147846470854136,
+      "entry_price": 11.201597999999999,
+      "notional": 136.07529273222673,
+      "margin": 45.35843091074224,
+      "leverage": 3,
+      "opened_at": "2026-09-21T06:15:56.440871+00:00"
     }
   },
   "equity_history": [
@@ -40456,7 +40478,12 @@
       "ts": "2026-09-21T06:10:51.714011+00:00",
       "equity": 10907.323350090312,
       "cash": 954.9143349629945
+    },
+    {
+      "ts": "2026-09-21T06:15:56.440933+00:00",
+      "equity": 10898.624651905322,
+      "cash": 861.8101873041026
     }
   ],
-  "last_processed_signal_index": 352
+  "last_processed_signal_index": 354
 }

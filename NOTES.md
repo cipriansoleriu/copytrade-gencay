@@ -4,6 +4,12 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-21
 
+### 06:15 UTC — Position poll (Job B)
+- 2 signals (2 applied to the paper book)
+- NEW LONG SOL x3 — 0x13da9d69...
+- NEW LONG AVAX x3 — 0x13da9d69...
+- Portfolio: $10,898.62 (+8.99%)
+
 ### 06:13 UTC — Daily refresh (Job A)
 - Leaderboard: 46450 traders fetched, 5 shortlisted
 - Shortlist change: +5 new, -5 dropped
