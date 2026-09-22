@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-22
 
+### 06:15 UTC — Position poll (Job B)
+- 1 signals (1 applied to the paper book)
+- NEW LONG HYPE x10 — 0xbd334a55...
+- Portfolio: $10,235.39 (+2.35%)
+
 ### 06:13 UTC — Daily refresh (Job A)
 - Leaderboard: 46635 traders fetched, 5 shortlisted
 - Shortlist change: +1 new, -1 dropped
