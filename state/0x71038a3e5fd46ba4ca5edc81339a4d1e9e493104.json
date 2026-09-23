@@ -1,14 +1,24 @@
 {
-  "account_value": 754238.735391,
+  "account_value": 742375.451499,
   "positions": [
     {
       "coin": "XPL",
       "side": "LONG",
       "size": 4000000.0,
       "entry_price": 0.082288,
-      "position_value_usd": 368772.0,
+      "position_value_usd": 352052.0,
       "leverage": 10,
-      "unrealized_pnl": 39617.0,
+      "unrealized_pnl": 22897.0,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "ASTER",
+      "side": "LONG",
+      "size": 200000.0,
+      "entry_price": 0.64299,
+      "position_value_usd": 137678.6,
+      "leverage": 5,
+      "unrealized_pnl": 9080.6,
       "liquidation_price": 0.0
     },
     {
@@ -16,31 +26,31 @@
       "side": "SHORT",
       "size": 300.0,
       "entry_price": 1636.6,
-      "position_value_usd": 485130.0,
+      "position_value_usd": 474360.0,
       "leverage": 10,
-      "unrealized_pnl": 5850.0,
-      "liquidation_price": 13648.5415914635
+      "unrealized_pnl": 16620.0,
+      "liquidation_price": 13567.7864300381
     },
     {
       "coin": "XMR",
       "side": "SHORT",
       "size": 2000.0,
       "entry_price": 594.51,
-      "position_value_usd": 1119600.0,
+      "position_value_usd": 1109440.0,
       "leverage": 5,
-      "unrealized_pnl": 69420.0,
-      "liquidation_price": 2282.4836824141
+      "unrealized_pnl": 79580.0,
+      "liquidation_price": 2270.9812388464
     },
     {
       "coin": "CASHCAT",
       "side": "LONG",
       "size": 400000.0,
       "entry_price": 0.231495,
-      "position_value_usd": 65228.0,
+      "position_value_usd": 63164.0,
       "leverage": 3,
-      "unrealized_pnl": -27370.0,
+      "unrealized_pnl": -29434.0,
       "liquidation_price": 0.0
     }
   ],
-  "timestamp_ms": 1790172647093
+  "timestamp_ms": 1790172950297
 }
