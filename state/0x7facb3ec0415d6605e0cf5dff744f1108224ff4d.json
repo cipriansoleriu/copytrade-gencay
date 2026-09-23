@@ -1,36 +1,36 @@
 {
-  "account_value": 321912.57,
+  "account_value": 321542.54,
   "positions": [
     {
       "coin": "PENDLE",
       "side": "SHORT",
       "size": 10000.0,
       "entry_price": 2.5939,
-      "position_value_usd": 24756.0,
+      "position_value_usd": 24772.0,
       "leverage": 5,
-      "unrealized_pnl": 1183.0,
-      "liquidation_price": 105.4865736146
+      "unrealized_pnl": 1167.0,
+      "liquidation_price": 105.4959285269
     },
     {
       "coin": "ETHFI",
       "side": "SHORT",
       "size": 30000.0,
       "entry_price": 0.74422,
-      "position_value_usd": 21467.7,
+      "position_value_usd": 21485.1,
       "leverage": 5,
-      "unrealized_pnl": 859.069226,
-      "liquidation_price": 35.0525812049
+      "unrealized_pnl": 841.669226,
+      "liquidation_price": 35.0557461756
     },
     {
       "coin": "HYPE",
       "side": "SHORT",
       "size": 32100.0,
       "entry_price": 76.6642,
-      "position_value_usd": 3138449.1,
+      "position_value_usd": 3137903.4,
       "leverage": 10,
-      "unrealized_pnl": -677525.321118,
-      "liquidation_price": 131.3897719852
+      "unrealized_pnl": -676979.621118,
+      "liquidation_price": 131.3753028867
     }
   ],
-  "timestamp_ms": 1790141466825
+  "timestamp_ms": 1790141742470
 }
