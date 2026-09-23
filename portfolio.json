@@ -1,5 +1,5 @@
 {
-  "cash": 656.465819536526,
+  "cash": 663.297605871038,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x08c14b32c8a48894e4b933090ebcc9ce33b21135:BTC:SHORT": {
@@ -1321,17 +1321,6 @@
       "margin": 4.25496226586485,
       "leverage": 3,
       "opened_at": "2026-09-08T06:15:42.945568+00:00"
-    },
-    "0xeadc152ac1014ace57c6b353f89adf5faffe9d55:SUI:LONG": {
-      "trader": "0xeadc152ac1014ace57c6b353f89adf5faffe9d55",
-      "coin": "SUI",
-      "side": "LONG",
-      "size": 14.779575615641585,
-      "entry_price": 0.820500045,
-      "notional": 12.126642457714823,
-      "margin": 4.042214152571607,
-      "leverage": 3,
-      "opened_at": "2026-09-08T06:15:42.945574+00:00"
     },
     "0xeadc152ac1014ace57c6b353f89adf5faffe9d55:kPEPE:LONG": {
       "trader": "0xeadc152ac1014ace57c6b353f89adf5faffe9d55",
@@ -43524,7 +43513,12 @@
       "ts": "2026-09-23T08:50:58.906489+00:00",
       "equity": 10667.531393949334,
       "cash": 656.465819536526
+    },
+    {
+      "ts": "2026-09-23T08:55:48.197766+00:00",
+      "equity": 10659.691303033898,
+      "cash": 663.297605871038
     }
   ],
-  "last_processed_signal_index": 381
+  "last_processed_signal_index": 382
 }
