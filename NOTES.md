@@ -4,6 +4,29 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-23
 
+### 06:13 UTC — Daily refresh (Job A)
+- Leaderboard: 46977 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+-   +0x1338a67b37aeaf796357d78501a0c3695c51c48e
+-   +0x4cae5bed586f6e73ae54ebd40a4ac4ed2c477c34
+-   +0x051c2e6d49cf82ebc47f08f9b85800f94fc9693c
+-   +0xb0026ca48937bd18c5941c05decab68b0fcced8a
+-   -0x8607a7d180de23645db594d90621d837749408d5
+-   -0xe867fbdad3291530e41530301ecb77693850c78e
+-   -0xeadc152ac1014ace57c6b353f89adf5faffe9d55
+-   -0xbd334a55db91617545e8d1b09941e036ad8e4200
+- #1 0x1338a67b... acc=$2,785,576 month=$2,128,719 edge=3609bps
+- #2 0x13da9d69... acc=$14,229,512 month=$2,829,278 edge=116bps
+- #3 0x4cae5bed... acc=$5,308,134 month=$3,823,768 edge=4748bps
+- #4 0x051c2e6d... acc=$14,632,890 month=$3,891,247 edge=3551bps
+- #5 0xb0026ca4... acc=$5,873,293 month=$465,507 edge=562bps
+- Current positions across the shortlist:
+-   0x1338a67b... 1 positions: LONG ZEC x4
+-   0x13da9d69... 2 positions: LONG SOL x3, LONG AVAX x3
+-   0x4cae5bed... 8 positions: LONG NEAR x10, LONG TAO x5, LONG ENA x5, LONG HYPE x10, LONG SYRUP x3, LONG PUMP x10, LONG ZEC x10, LONG LIT x5
+-   0x051c2e6d... 5 positions: LONG ETH x8, LONG SOL x5, LONG AAVE x10, LONG NEAR x10, LONG XPL x5
+-   0xb0026ca4... 2 positions: SHORT ETH x25, SHORT CASHCAT x3
+
 ### 06:01 UTC — Position poll (Job B)
 - 1 signals (0 applied to the paper book)
 - CLOSED SHORT PONS x3 — 0x03ef8f73...
