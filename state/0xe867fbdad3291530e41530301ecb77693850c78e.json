@@ -1,26 +1,26 @@
 {
-  "account_value": 928365.333333,
+  "account_value": 930395.333333,
   "positions": [
     {
       "coin": "HYPE",
       "side": "SHORT",
       "size": 50000.0,
       "entry_price": 97.0001,
-      "position_value_usd": 4750550.0,
+      "position_value_usd": 4750900.0,
       "leverage": 6,
-      "unrealized_pnl": 99455.404953,
-      "liquidation_price": 506.7029177661
+      "unrealized_pnl": 99105.404953,
+      "liquidation_price": 506.7628959897
     },
     {
       "coin": "XMR",
       "side": "LONG",
       "size": 1000.0,
       "entry_price": 571.829,
-      "position_value_usd": 557690.0,
+      "position_value_usd": 560070.0,
       "leverage": 5,
-      "unrealized_pnl": -14139.268961,
+      "unrealized_pnl": -11759.268961,
       "liquidation_price": 0.0
     }
   ],
-  "timestamp_ms": 1790163656135
+  "timestamp_ms": 1790163952283
 }
