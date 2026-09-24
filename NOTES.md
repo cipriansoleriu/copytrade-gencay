@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-24
 
+### 09:35 UTC — Position poll (Job B)
+- 1 signals (0 applied to the paper book)
+- CLOSED SHORT BTC x20 — 0x8f8d2d25...
+- Portfolio: $10,624.70 (+6.25%)
+
 ### 06:16 UTC — Position poll (Job B)
 - 3 signals (3 applied to the paper book)
 - NEW LONG ZRO x5 — 0x866d4903...
