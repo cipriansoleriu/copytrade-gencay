@@ -4,6 +4,29 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-24
 
+### 06:13 UTC — Daily refresh (Job A)
+- Leaderboard: 46703 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+-   +0x866d4903b256ce7e7caac46a91e83128bb0fd6e1
+-   +0x8f8d2d2565bfb10608a7ce64b48e2aea7875a344
+-   +0xceec48581b3145a575508719f45da07dc57fa7ce
+-   +0x5f94a51948d2376ad34a6fadfa2544e651b74b96
+-   -0x1338a67b37aeaf796357d78501a0c3695c51c48e
+-   -0x13da9d69a9b8a28495ade07d3ff1c61d024808be
+-   -0x4cae5bed586f6e73ae54ebd40a4ac4ed2c477c34
+-   -0x051c2e6d49cf82ebc47f08f9b85800f94fc9693c
+- #1 0x866d4903... acc=$4,911,263 month=$2,486,769 edge=2492bps
+- #2 0xb0026ca4... acc=$5,760,087 month=$506,341 edge=721bps
+- #3 0x8f8d2d25... acc=$8,143,723 month=$1,336,106 edge=620bps
+- #4 0xceec4858... acc=$17,489,809 month=$2,260,178 edge=1288bps
+- #5 0x5f94a519... acc=$18,463,945 month=$4,217,981 edge=3919bps
+- Current positions across the shortlist:
+-   0x866d4903... 3 positions: LONG ZRO x5, LONG ZEC x10, LONG CHIP x3
+-   0xb0026ca4... 2 positions: SHORT ETH x25, SHORT CASHCAT x3
+-   0x8f8d2d25... 1 positions: SHORT BTC x20
+-   0xceec4858... 1 positions: SHORT HYPE x5
+-   0x5f94a519... 16 positions: SHORT SUI x10, SHORT DOT x10, SHORT ADA x10, LONG NEAR x10, LONG JTO x5, SHORT STRK x5, LONG ETHFI x5, LONG ENA x10, LONG GRASS x3, SHORT HYPE x10, SHORT TRUMP x8, LONG PUMP x10, SHORT XPL x10, SHORT WLFI x5, LONG ZEC x10, LONG LIT x5
+
 ### 06:10 UTC — Position poll (Job B)
 - 1 signals (1 applied to the paper book)
 - NEW LONG BTC x21 — 0x051c2e6d...
