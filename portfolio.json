@@ -1,5 +1,5 @@
 {
-  "cash": 606.7233116406721,
+  "cash": 644.3915227531934,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x08c14b32c8a48894e4b933090ebcc9ce33b21135:BTC:SHORT": {
@@ -2179,17 +2179,6 @@
       "margin": 37.43558425594057,
       "leverage": 3,
       "opened_at": "2026-09-24T03:05:46.775177+00:00"
-    },
-    "0x051c2e6d49cf82ebc47f08f9b85800f94fc9693c:BTC:LONG": {
-      "trader": "0x051c2e6d49cf82ebc47f08f9b85800f94fc9693c",
-      "coin": "BTC",
-      "side": "LONG",
-      "size": 0.0013282988678454764,
-      "entry_price": 84118.53825,
-      "notional": 111.73455912229139,
-      "margin": 37.24485304076379,
-      "leverage": 3,
-      "opened_at": "2026-09-24T06:10:57.083956+00:00"
     },
     "0x866d4903b256ce7e7caac46a91e83128bb0fd6e1:ZRO:LONG": {
       "trader": "0x866d4903b256ce7e7caac46a91e83128bb0fd6e1",
@@ -45455,7 +45444,12 @@
       "ts": "2026-09-24T16:51:11.541729+00:00",
       "equity": 10463.226111672018,
       "cash": 606.7233116406721
+    },
+    {
+      "ts": "2026-09-24T16:55:46.960555+00:00",
+      "equity": 10440.832452696974,
+      "cash": 644.3915227531934
     }
   ],
-  "last_processed_signal_index": 395
+  "last_processed_signal_index": 396
 }
