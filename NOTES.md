@@ -4,6 +4,13 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-24
 
+### 06:16 UTC — Position poll (Job B)
+- 3 signals (3 applied to the paper book)
+- NEW LONG ZRO x5 — 0x866d4903...
+- NEW LONG ZEC x10 — 0x866d4903...
+- NEW LONG CHIP x3 — 0x866d4903...
+- Portfolio: $10,711.86 (+7.12%)
+
 ### 06:13 UTC — Daily refresh (Job A)
 - Leaderboard: 46703 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped
