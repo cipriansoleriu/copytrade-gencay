@@ -2,6 +2,13 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-09-25
+
+### 01:01 UTC — Position poll (Job B)
+- 1 signals (1 applied to the paper book)
+- NEW LONG BTC x20 — 0x8f8d2d25...
+- Portfolio: $10,566.47 (+5.66%)
+
 ## 2026-09-24
 
 ### 22:35 UTC — Position poll (Job B)
