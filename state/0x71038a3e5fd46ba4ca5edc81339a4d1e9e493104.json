@@ -1,56 +1,56 @@
 {
-  "account_value": 1468264.395166,
+  "account_value": 1463218.452499,
   "positions": [
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 45.0,
       "entry_price": 84248.0,
-      "position_value_usd": 3792015.0,
+      "position_value_usd": 3789954.0,
       "leverage": 20,
-      "unrealized_pnl": -855.0,
-      "liquidation_price": 167542.1391536242
+      "unrealized_pnl": 1206.0,
+      "liquidation_price": 167510.7316674458
     },
     {
       "coin": "HYPE",
       "side": "SHORT",
       "size": 5040.0,
       "entry_price": 93.6803,
-      "position_value_usd": 459259.92,
+      "position_value_usd": 458821.44,
       "leverage": 10,
-      "unrealized_pnl": 12889.01701,
-      "liquidation_price": 808.0964557232
+      "unrealized_pnl": 13327.49701,
+      "liquidation_price": 808.1333708613
     },
     {
       "coin": "ZEC",
       "side": "SHORT",
       "size": 300.0,
       "entry_price": 1636.6,
-      "position_value_usd": 461100.0,
+      "position_value_usd": 461340.0,
       "leverage": 10,
-      "unrealized_pnl": 29880.0,
-      "liquidation_price": 13582.1540561492
+      "unrealized_pnl": 29640.0,
+      "liquidation_price": 13585.0358304698
     },
     {
       "coin": "XMR",
       "side": "SHORT",
       "size": 2000.0,
       "entry_price": 594.51,
-      "position_value_usd": 1130740.0,
+      "position_value_usd": 1131320.0,
       "leverage": 5,
-      "unrealized_pnl": 58280.0,
-      "liquidation_price": 2290.0170580395
+      "unrealized_pnl": 57700.0,
+      "liquidation_price": 2290.6051302718
     },
     {
       "coin": "USELESS",
       "side": "SHORT",
       "size": 2000000.0,
       "entry_price": 0.317953,
-      "position_value_usd": 559226.0,
+      "position_value_usd": 558780.0,
       "leverage": 3,
-      "unrealized_pnl": 76680.7048,
-      "liquidation_price": 1.9057087976
+      "unrealized_pnl": 77126.7048,
+      "liquidation_price": 1.9057668371
     }
   ],
-  "timestamp_ms": 1790304657093
+  "timestamp_ms": 1790304945795
 }
