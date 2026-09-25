@@ -1,56 +1,56 @@
 {
-  "account_value": 1460808.404499,
+  "account_value": 1462896.657832,
   "positions": [
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 45.0,
       "entry_price": 84248.0,
-      "position_value_usd": 3792240.0,
+      "position_value_usd": 3788055.0,
       "leverage": 20,
-      "unrealized_pnl": -1080.0,
-      "liquidation_price": 167152.5652478025
+      "unrealized_pnl": 3105.0,
+      "liquidation_price": 167259.3345984088
     },
     {
       "coin": "HYPE",
       "side": "SHORT",
       "size": 5040.0,
       "entry_price": 93.6803,
-      "position_value_usd": 463009.68,
+      "position_value_usd": 462798.0,
       "leverage": 10,
-      "unrealized_pnl": 9139.25701,
-      "liquidation_price": 805.443295182
+      "unrealized_pnl": 9350.93701,
+      "liquidation_price": 807.1212481368
     },
     {
       "coin": "ZEC",
       "side": "SHORT",
       "size": 300.0,
       "entry_price": 1636.6,
-      "position_value_usd": 466590.0,
+      "position_value_usd": 465210.0,
       "leverage": 10,
-      "unrealized_pnl": 24390.0,
-      "liquidation_price": 13543.3817590571
+      "unrealized_pnl": 25770.0,
+      "liquidation_price": 13567.6769686984
     },
     {
       "coin": "XMR",
       "side": "SHORT",
       "size": 2000.0,
       "entry_price": 594.51,
-      "position_value_usd": 1132100.0,
+      "position_value_usd": 1130660.0,
       "leverage": 5,
-      "unrealized_pnl": 56920.0,
-      "liquidation_price": 2282.5253427741
+      "unrealized_pnl": 58360.0,
+      "liquidation_price": 2285.9426114273
     },
     {
       "coin": "USELESS",
       "side": "SHORT",
       "size": 2000000.0,
       "entry_price": 0.317953,
-      "position_value_usd": 565480.0,
+      "position_value_usd": 561020.0,
       "leverage": 3,
-      "unrealized_pnl": 70426.7048,
-      "liquidation_price": 1.9011310375
+      "unrealized_pnl": 74886.7048,
+      "liquidation_price": 1.9028018908
     }
   ],
-  "timestamp_ms": 1790311550184
+  "timestamp_ms": 1790311849760
 }
