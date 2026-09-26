@@ -5471,5 +5471,31 @@
     "leverage": 3,
     "unrealized_pnl": 14.90719,
     "liquidation_price": 343.9181802865
+  },
+  {
+    "ts": "2026-09-26T19:40:52.803700+00:00",
+    "trader": "0x30afce2f6842bf183c7e3fe7162e279ff0b6393e",
+    "type": "CLOSED",
+    "coin": "INJ",
+    "side": "LONG",
+    "size": 1900.0,
+    "entry_price": 5.64659,
+    "position_value_usd": 14483.89,
+    "leverage": 5,
+    "unrealized_pnl": 3755.364305,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-09-26T19:40:52.803700+00:00",
+    "trader": "0x30afce2f6842bf183c7e3fe7162e279ff0b6393e",
+    "type": "CLOSED",
+    "coin": "NEAR",
+    "side": "LONG",
+    "size": 5417.6,
+    "entry_price": 2.31464,
+    "position_value_usd": 26018.56576,
+    "leverage": 10,
+    "unrealized_pnl": 13478.746842,
+    "liquidation_price": 2.5321474135
   }
 ]

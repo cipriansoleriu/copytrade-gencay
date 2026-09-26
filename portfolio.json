@@ -1,5 +1,5 @@
 {
-  "cash": 498.3989999518786,
+  "cash": 571.3200303583942,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x08c14b32c8a48894e4b933090ebcc9ce33b21135:BTC:SHORT": {
@@ -1948,28 +1948,6 @@
       "margin": 13.690689990324017,
       "leverage": 3,
       "opened_at": "2026-09-18T00:35:40.999880+00:00"
-    },
-    "0x30afce2f6842bf183c7e3fe7162e279ff0b6393e:INJ:LONG": {
-      "trader": "0x30afce2f6842bf183c7e3fe7162e279ff0b6393e",
-      "coin": "INJ",
-      "side": "LONG",
-      "size": 9.481338263452685,
-      "entry_price": 5.9399685,
-      "notional": 56.318850622753644,
-      "margin": 18.772950207584547,
-      "leverage": 3,
-      "opened_at": "2026-09-18T06:15:57.955969+00:00"
-    },
-    "0x30afce2f6842bf183c7e3fe7162e279ff0b6393e:NEAR:LONG": {
-      "trader": "0x30afce2f6842bf183c7e3fe7162e279ff0b6393e",
-      "coin": "NEAR",
-      "side": "LONG",
-      "size": 15.307990898882924,
-      "entry_price": 3.4950966749999997,
-      "notional": 53.502908091615964,
-      "margin": 17.83430269720532,
-      "leverage": 3,
-      "opened_at": "2026-09-18T06:15:57.955975+00:00"
     },
     "0x4cae5bed586f6e73ae54ebd40a4ac4ed2c477c34:NEAR:LONG": {
       "trader": "0x4cae5bed586f6e73ae54ebd40a4ac4ed2c477c34",
@@ -48556,7 +48534,12 @@
       "ts": "2026-09-26T19:35:50.585884+00:00",
       "equity": 10702.65249170655,
       "cash": 498.3989999518786
+    },
+    {
+      "ts": "2026-09-26T19:40:57.857761+00:00",
+      "equity": 10685.757041469515,
+      "cash": 571.3200303583942
     }
   ],
-  "last_processed_signal_index": 420
+  "last_processed_signal_index": 422
 }
