@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-27
 
+### 10:41 UTC — Position poll (Job B)
+- 1 signals (0 applied to the paper book)
+- CLOSED SHORT ZEC x10 — 0x71038a3e...
+- Portfolio: $10,512.18 (+5.12%)
+
 ### 06:13 UTC — Daily refresh (Job A)
 - Leaderboard: 46964 traders fetched, 5 shortlisted
 - Shortlist change: +1 new, -1 dropped
