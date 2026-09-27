@@ -1,16 +1,26 @@
 {
-  "account_value": 2694149.765297,
+  "account_value": 2703805.056238,
   "positions": [
+    {
+      "coin": "ARB",
+      "side": "LONG",
+      "size": 161156.0,
+      "entry_price": 0.22439,
+      "position_value_usd": 36153.73704,
+      "leverage": 10,
+      "unrealized_pnl": -8.813236,
+      "liquidation_price": 0.2126357142
+    },
     {
       "coin": "ZEC",
       "side": "LONG",
       "size": 3187.21,
       "entry_price": 930.7345,
-      "position_value_usd": 5089018.207,
+      "position_value_usd": 5095073.906,
       "leverage": 4,
-      "unrealized_pnl": 2122571.817529,
+      "unrealized_pnl": 2128627.516529,
       "liquidation_price": 790.9469878549
     }
   ],
-  "timestamp_ms": 1790545547553
+  "timestamp_ms": 1790545850613
 }
