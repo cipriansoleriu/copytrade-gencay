@@ -4,6 +4,23 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-27
 
+### 06:13 UTC — Daily refresh (Job A)
+- Leaderboard: 46964 traders fetched, 5 shortlisted
+- Shortlist change: +1 new, -1 dropped
+-   +0x8607a7d180de23645db594d90621d837749408d5
+-   -0x5371c4517b448006941ae335e5cafd54af573c11
+- #1 0x4cae5bed... acc=$5,812,336 month=$4,304,750 edge=7101bps
+- #2 0x77eeda19... acc=$8,786,888 month=$3,474,444 edge=1511bps
+- #3 0xeadc152a... acc=$25,426,014 month=$12,379,526 edge=6027bps
+- #4 0xfdf891f2... acc=$4,092,781 month=$2,929,260 edge=3708bps
+- #5 0x8607a7d1... acc=$21,204,037 month=$1,716,379 edge=2871bps
+- Current positions across the shortlist:
+-   0x4cae5bed... 9 positions: LONG NEAR x10, LONG TAO x5, LONG ENA x5, LONG HYPE x10, LONG SYRUP x3, LONG PUMP x10, LONG XPL x10, LONG ZEC x10, LONG LIT x5
+-   0x77eeda19... 11 positions: SHORT BTC x40, LONG ETH x25, SHORT SOL x20, SHORT OP x5, LONG WLD x10, SHORT ADA x10, LONG NEAR x10, SHORT VVV x3, SHORT PUMP x10, SHORT ZEC x10, LONG ICP x5
+-   0xeadc152a... 37 positions: LONG AVAX x10, LONG LTC x10, LONG DOGE x10, LONG kPEPE x10, LONG LINK x10, LONG CFX x5, LONG XRP x20, LONG AAVE x10, LONG WLD x10, LONG TRX x10, LONG ZRO x5, LONG ADA x10, LONG FET x5, LONG NEAR x10, LONG FIL x5, LONG IMX x5, LONG kBONK x10, LONG WIF x5, LONG ENS x5, LONG W x5, LONG STRK x5, LONG TAO x5, LONG ENA x10, LONG MNT x5, LONG HBAR x5, LONG POPCAT x3, LONG GRASS x3, LONG FARTCOIN x10, LONG PUMP x5, LONG XPL x10, LONG LINEA x3, LONG ASTER x5, LONG APEX x3, LONG GRAM x5, LONG CASHCAT x3, LONG PONS x3, LONG USELESS x3
+-   0xfdf891f2... 4 positions: SHORT ETH x20, LONG GRASS x3, LONG HYPE x10, LONG AERO x3
+-   0x8607a7d1... 21 positions: LONG BTC x29, LONG SOL x20, SHORT AVAX x10, SHORT LTC x10, SHORT XRP x20, LONG SEI x5, SHORT RUNE x5, SHORT NEAR x10, SHORT kBONK x10, SHORT TAO x5, SHORT RENDER x5, SHORT kNEIRO x3, SHORT GRASS x3, SHORT PURR x3, LONG VIRTUAL x5, SHORT PENGU x5, LONG USUAL x3, SHORT FARTCOIN x3, SHORT AIXBT x3, LONG BERA x5, SHORT PONS x3
+
 ### 03:55 UTC — Position poll (Job B)
 - 1 signals (0 applied to the paper book)
 - CLOSED SHORT CASHCAT x3 — 0x03ef8f73...
