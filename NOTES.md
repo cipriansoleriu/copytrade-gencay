@@ -2,6 +2,13 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-09-28
+
+### 04:01 UTC — Position poll (Job B)
+- 1 signals (0 applied to the paper book)
+- CLOSED LONG ARB x10 — 0x1338a67b...
+- Portfolio: $10,289.90 (+2.90%)
+
 ## 2026-09-27
 
 ### 20:55 UTC — Position poll (Job B)
