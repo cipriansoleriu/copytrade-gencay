@@ -1,16 +1,46 @@
 {
-  "account_value": 342604.737125,
+  "account_value": 422957.784538,
   "positions": [
+    {
+      "coin": "ZRO",
+      "side": "LONG",
+      "size": 49818.3,
+      "entry_price": 1.45189,
+      "position_value_usd": 72814.42728,
+      "leverage": 5,
+      "unrealized_pnl": 483.57,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "NEAR",
+      "side": "LONG",
+      "size": 4845.5,
+      "entry_price": 5.15911,
+      "position_value_usd": 24986.3053,
+      "leverage": 10,
+      "unrealized_pnl": -12.17082,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "PUMP",
+      "side": "LONG",
+      "size": 5688535.0,
+      "entry_price": 0.004881,
+      "position_value_usd": 27811.247615,
+      "leverage": 10,
+      "unrealized_pnl": 43.241744,
+      "liquidation_price": 0.0
+    },
     {
       "coin": "ZEC",
       "side": "LONG",
       "size": 2600.0,
       "entry_price": 1057.8296,
-      "position_value_usd": 4026100.0,
+      "position_value_usd": 4008160.0,
       "leverage": 10,
-      "unrealized_pnl": 1275742.974774,
-      "liquidation_price": 811.3116309972
+      "unrealized_pnl": 1257802.974774,
+      "liquidation_price": 815.1308300688
     }
   ],
-  "timestamp_ms": 1790580058992
+  "timestamp_ms": 1790580350510
 }
