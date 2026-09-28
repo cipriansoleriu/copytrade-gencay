@@ -6134,5 +6134,31 @@
     "leverage": 3,
     "unrealized_pnl": 0.018266,
     "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-09-28T18:51:01.983348+00:00",
+    "trader": "0x9b864dde6ed1c21608b1665a0ac0faa4f7e36e6e",
+    "type": "CLOSED",
+    "coin": "ARB",
+    "side": "LONG",
+    "size": 109651.7,
+    "entry_price": 0.22802,
+    "position_value_usd": 22600.311887,
+    "leverage": 3,
+    "unrealized_pnl": -2403.375024,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-09-28T18:51:01.983348+00:00",
+    "trader": "0x9b864dde6ed1c21608b1665a0ac0faa4f7e36e6e",
+    "type": "CLOSED",
+    "coin": "WLD",
+    "side": "LONG",
+    "size": 44245.8,
+    "entry_price": 0.56533,
+    "position_value_usd": 21990.605058,
+    "leverage": 3,
+    "unrealized_pnl": -3023.266215,
+    "liquidation_price": 0.0
   }
 ]
