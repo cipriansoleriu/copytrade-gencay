@@ -4,6 +4,31 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-28
 
+### 06:14 UTC — Daily refresh (Job A)
+- Leaderboard: 46828 traders fetched, 5 shortlisted
+- Shortlist change: +5 new, -5 dropped
+-   +0x53969485d7422b35c7fe5a4025498f9b69268b79
+-   +0x5f94a51948d2376ad34a6fadfa2544e651b74b96
+-   +0x50f49b9ff9e376d8090ac799ccafdd750e40b920
+-   +0xd13552538def5cecc78a20aa2236573f0bee6443
+-   +0x5740affc8faf8913f9f2d5fbb9bdc6e8119ea9da
+-   -0x4cae5bed586f6e73ae54ebd40a4ac4ed2c477c34
+-   -0x77eeda199553e33b246e4b4666849b9ad0972902
+-   -0xeadc152ac1014ace57c6b353f89adf5faffe9d55
+-   -0xfdf891f2b214a4c9374d26595ec6d4080262e381
+-   -0x8607a7d180de23645db594d90621d837749408d5
+- #1 0x53969485... acc=$5,235,165 month=$4,590,692 edge=564bps
+- #2 0x5f94a519... acc=$18,258,656 month=$3,422,617 edge=3507bps
+- #3 0x50f49b9f... acc=$1,975,046 month=$76,487 edge=98bps
+- #4 0xd1355253... acc=$1,910,643 month=$348,791 edge=340bps
+- #5 0x5740affc... acc=$3,100,032 month=$955,686 edge=1810bps
+- Current positions across the shortlist:
+-   0x53969485... 8 positions: LONG BTC x40, LONG ETH x25, LONG SUI x10, LONG LINK x10, LONG AAVE x10, LONG HYPE x10, LONG ZEC x10, LONG GRAM x5
+-   0x5f94a519... 16 positions: SHORT SUI x10, SHORT DOT x10, SHORT ADA x10, LONG NEAR x10, LONG JTO x5, SHORT STRK x5, LONG ETHFI x5, LONG ENA x10, LONG GRASS x3, SHORT HYPE x10, SHORT TRUMP x8, LONG PUMP x10, SHORT XPL x10, SHORT WLFI x5, LONG ZEC x10, LONG LIT x5
+-   0x50f49b9f... 3 positions: SHORT SEI x5, SHORT ETHFI x5, SHORT LIT x3
+-   0xd1355253... 4 positions: LONG BTC x3, LONG ETH x3, LONG SOL x3, LONG PUMP x2
+-   0x5740affc... 14 positions: LONG SOL x3, LONG AAVE x10, LONG TIA x5, LONG W x5, LONG AR x5, LONG GRASS x3, LONG VIRTUAL x5, LONG NIL x3, LONG SYRUP x3, LONG XPL x6, LONG SKY x3, LONG 2Z x3, LONG AZTEC x3, LONG GRAM x5
+
 ### 06:01 UTC — Position poll (Job B)
 - 1 signals (0 applied to the paper book)
 - CLOSED LONG CASHCAT x3 — 0xa906355b...
