@@ -1,35 +1,35 @@
 {
-  "account_value": 1704200.842606,
+  "account_value": 1714820.30592,
   "positions": [
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 727.1669,
       "entry_price": 2759.35,
-      "position_value_usd": 1960514.67909,
+      "position_value_usd": 1960369.24571,
       "leverage": 20,
-      "unrealized_pnl": 45997.5603,
-      "liquidation_price": 7958.1644959187
+      "unrealized_pnl": 46142.99368,
+      "liquidation_price": 7973.1246125606
     },
     {
       "coin": "SOL",
       "side": "SHORT",
       "size": 0.01,
       "entry_price": 84.9189,
-      "position_value_usd": 1.190643,
+      "position_value_usd": 1.1897,
       "leverage": 20,
-      "unrealized_pnl": -0.341454,
-      "liquidation_price": 380773495.61453664
+      "unrealized_pnl": -0.340511,
+      "liquidation_price": 381870511.4930732
     },
     {
       "coin": "AAVE",
       "side": "LONG",
       "size": 43303.83,
       "entry_price": 77.3532,
-      "position_value_usd": 6719645.837952,
+      "position_value_usd": 6722486.5692,
       "leverage": 10,
-      "unrealized_pnl": 3369955.797157,
-      "liquidation_price": 60.3018604132
+      "unrealized_pnl": 3372796.528405,
+      "liquidation_price": 60.0941306645
     },
     {
       "coin": "ZRO",
@@ -46,9 +46,9 @@
       "side": "LONG",
       "size": 0.01,
       "entry_price": 32.7375,
-      "position_value_usd": 0.87897,
+      "position_value_usd": 0.87756,
       "leverage": 10,
-      "unrealized_pnl": 0.551595,
+      "unrealized_pnl": 0.550185,
       "liquidation_price": 0.0
     },
     {
@@ -56,11 +56,11 @@
       "side": "SHORT",
       "size": 344261.0,
       "entry_price": 4.05557,
-      "position_value_usd": 1510014.122728,
+      "position_value_usd": 1502380.823575,
       "leverage": 5,
-      "unrealized_pnl": -113839.248428,
-      "liquidation_price": 14.6927176675
+      "unrealized_pnl": -106205.949275,
+      "liquidation_price": 14.7002378198
     }
   ],
-  "timestamp_ms": 1790663469643
+  "timestamp_ms": 1790663749384
 }
