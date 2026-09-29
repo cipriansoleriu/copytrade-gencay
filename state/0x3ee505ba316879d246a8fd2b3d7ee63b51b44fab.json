@@ -1,35 +1,35 @@
 {
-  "account_value": 2453293.381999,
+  "account_value": 2401387.247159,
   "positions": [
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 727.1669,
       "entry_price": 2759.35,
-      "position_value_usd": 1985747.37052,
+      "position_value_usd": 1981747.95257,
       "leverage": 20,
-      "unrealized_pnl": 20764.86887,
-      "liquidation_price": 8940.2030731265
+      "unrealized_pnl": 24764.28682,
+      "liquidation_price": 8866.6635595382
     },
     {
       "coin": "SOL",
       "side": "SHORT",
       "size": 0.01,
       "entry_price": 84.9189,
-      "position_value_usd": 1.1989,
+      "position_value_usd": 1.1969,
       "leverage": 20,
-      "unrealized_pnl": -0.349711,
-      "liquidation_price": 449324786.3491708
+      "unrealized_pnl": -0.347711,
+      "liquidation_price": 444401312.6060488
     },
     {
       "coin": "AAVE",
       "side": "LONG",
       "size": 43303.83,
       "entry_price": 77.3532,
-      "position_value_usd": 7454754.3345,
+      "position_value_usd": 7408419.2364,
       "leverage": 10,
-      "unrealized_pnl": 4105064.293705,
-      "liquidation_price": 60.1973929343
+      "unrealized_pnl": 4058729.195605,
+      "liquidation_price": 60.3541132551
     },
     {
       "coin": "ZRO",
@@ -46,9 +46,9 @@
       "side": "LONG",
       "size": 0.01,
       "entry_price": 32.7375,
-      "position_value_usd": 0.88734,
+      "position_value_usd": 0.88645,
       "leverage": 10,
-      "unrealized_pnl": 0.559965,
+      "unrealized_pnl": 0.559075,
       "liquidation_price": 0.0
     },
     {
@@ -56,11 +56,11 @@
       "side": "SHORT",
       "size": 344261.0,
       "entry_price": 4.05557,
-      "position_value_usd": 1536436.843,
+      "position_value_usd": 1546007.2988,
       "leverage": 5,
-      "unrealized_pnl": -140261.9687,
-      "liquidation_price": 16.6249612371
+      "unrealized_pnl": -149832.4245,
+      "liquidation_price": 16.5194965872
     }
   ],
-  "timestamp_ms": 1790681745795
+  "timestamp_ms": 1790682054084
 }
