@@ -1,36 +1,36 @@
 {
-  "account_value": 3080454.013499,
+  "account_value": 3072464.013499,
   "positions": [
     {
       "coin": "LINK",
       "side": "LONG",
       "size": 350000.0,
       "entry_price": 11.73374,
-      "position_value_usd": 5329450.0,
+      "position_value_usd": 5321050.0,
       "leverage": 5,
-      "unrealized_pnl": 1222637.605982,
-      "liquidation_price": 7.1984847013
+      "unrealized_pnl": 1214237.605982,
+      "liquidation_price": 7.1976831976
     },
     {
       "coin": "XRP",
       "side": "SHORT",
       "size": 200000.0,
       "entry_price": 1.475216,
-      "position_value_usd": 302100.0,
+      "position_value_usd": 301840.0,
       "leverage": 5,
-      "unrealized_pnl": -7056.710147,
-      "liquidation_price": 14.5323601795
+      "unrealized_pnl": -6796.710147,
+      "liquidation_price": 14.4934333503
     },
     {
       "coin": "NEAR",
       "side": "LONG",
       "size": 50000.0,
       "entry_price": 2.4,
-      "position_value_usd": 236965.0,
+      "position_value_usd": 237115.0,
       "leverage": 5,
-      "unrealized_pnl": 116965.0,
+      "unrealized_pnl": 117115.0,
       "liquidation_price": 2.1056278591
     }
   ],
-  "timestamp_ms": 1790667649214
+  "timestamp_ms": 1790667990049
 }
