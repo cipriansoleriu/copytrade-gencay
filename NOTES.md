@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-30
 
+### 12:21 UTC — Position poll (Job B)
+- 1 signals (0 applied to the paper book)
+- CLOSED LONG FARTCOIN x10 — 0xbe10fd36...
+- Portfolio: $10,155.29 (+1.55%)
+
 ### 06:13 UTC — Daily refresh (Job A)
 - Leaderboard: 46789 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
