@@ -1,34 +1,34 @@
 {
-  "account_value": 4482662.684682,
+  "account_value": 4408155.984682,
   "positions": [
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 600.0,
       "entry_price": 2641.64,
-      "position_value_usd": 1638594.0,
+      "position_value_usd": 1624020.0,
       "leverage": 20,
-      "unrealized_pnl": -53604.48758,
-      "liquidation_price": 7891.4199841454
+      "unrealized_pnl": -39030.48758,
+      "liquidation_price": 7769.180251031
     },
     {
       "coin": "GRASS",
       "side": "LONG",
       "size": 5150000.0,
       "entry_price": 0.38256,
-      "position_value_usd": 3844732.5,
+      "position_value_usd": 3817489.0,
       "leverage": 3,
-      "unrealized_pnl": 1874520.636417,
-      "liquidation_price": 0.010662664
+      "unrealized_pnl": 1847277.136417,
+      "liquidation_price": 0.0193404861
     },
     {
       "coin": "HYPE",
       "side": "LONG",
       "size": 6000.0,
       "entry_price": 48.0945,
-      "position_value_usd": 524262.0,
+      "position_value_usd": 519318.0,
       "leverage": 10,
-      "unrealized_pnl": 235694.980798,
+      "unrealized_pnl": 230750.980798,
       "liquidation_price": 0.0
     },
     {
@@ -36,11 +36,11 @@
       "side": "LONG",
       "size": 5460000.0,
       "entry_price": 0.459278,
-      "position_value_usd": 4588256.4,
+      "position_value_usd": 4531363.2,
       "leverage": 3,
-      "unrealized_pnl": 2080596.626258,
-      "liquidation_price": 0.1462338131
+      "unrealized_pnl": 2023703.426258,
+      "liquidation_price": 0.1489885904
     }
   ],
-  "timestamp_ms": 1790775104712
+  "timestamp_ms": 1790775345320
 }
