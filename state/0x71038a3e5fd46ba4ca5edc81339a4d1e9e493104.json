@@ -1,14 +1,14 @@
 {
-  "account_value": 1043360.751832,
+  "account_value": 1043997.815832,
   "positions": [
     {
       "coin": "BTC",
       "side": "LONG",
       "size": 10.0,
       "entry_price": 83555.0,
-      "position_value_usd": 837730.0,
+      "position_value_usd": 836840.0,
       "leverage": 20,
-      "unrealized_pnl": 2180.0,
+      "unrealized_pnl": 1290.0,
       "liquidation_price": 0.0
     },
     {
@@ -16,19 +16,19 @@
       "side": "SHORT",
       "size": 5040.0,
       "entry_price": 93.6803,
-      "position_value_usd": 459658.08,
+      "position_value_usd": 456467.76,
       "leverage": 10,
-      "unrealized_pnl": 12490.85701,
-      "liquidation_price": 721.3425468078
+      "unrealized_pnl": 15681.17701,
+      "liquidation_price": 720.7015251793
     },
     {
       "coin": "ZEC",
       "side": "LONG",
       "size": 500.0,
       "entry_price": 1400.0,
-      "position_value_usd": 721350.0,
+      "position_value_usd": 720600.0,
       "leverage": 10,
-      "unrealized_pnl": 21350.0,
+      "unrealized_pnl": 20600.0,
       "liquidation_price": 0.0
     },
     {
@@ -36,21 +36,21 @@
       "side": "SHORT",
       "size": 2000.0,
       "entry_price": 594.51,
-      "position_value_usd": 1089372.0,
+      "position_value_usd": 1089494.0,
       "leverage": 5,
-      "unrealized_pnl": 99648.0,
-      "liquidation_price": 2060.4604425941
+      "unrealized_pnl": 99526.0,
+      "liquidation_price": 2060.5021469314
     },
     {
       "coin": "USELESS",
       "side": "SHORT",
       "size": 2000000.0,
       "entry_price": 0.317953,
-      "position_value_usd": 486040.0,
+      "position_value_usd": 484994.0,
       "leverage": 3,
-      "unrealized_pnl": 149866.7048,
-      "liquidation_price": 1.6721787602
+      "unrealized_pnl": 150912.7048,
+      "liquidation_price": 1.6716375671
     }
   ],
-  "timestamp_ms": 1790810744498
+  "timestamp_ms": 1790811067827
 }
