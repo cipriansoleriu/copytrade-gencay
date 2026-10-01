@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-01
 
+### 06:16 UTC — Position poll (Job B)
+- 1 signals (1 applied to the paper book)
+- NEW LONG ETHFI x3 — 0xfeb63b9e...
+- Portfolio: $10,059.88 (+0.60%)
+
 ### 06:13 UTC — Daily refresh (Job A)
 - Leaderboard: 46977 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
