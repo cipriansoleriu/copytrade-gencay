@@ -1,35 +1,35 @@
 {
-  "account_value": 2343947.106839,
+  "account_value": 2336415.167379,
   "positions": [
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 727.1669,
       "entry_price": 2759.35,
-      "position_value_usd": 1952224.97643,
+      "position_value_usd": 1951134.22608,
       "leverage": 20,
-      "unrealized_pnl": 54287.26296,
-      "liquidation_price": 8780.87486396
+      "unrealized_pnl": 55378.01331,
+      "liquidation_price": 8770.2776350122
     },
     {
       "coin": "SOL",
       "side": "SHORT",
       "size": 0.01,
       "entry_price": 84.9189,
-      "position_value_usd": 1.179,
+      "position_value_usd": 1.1788,
       "leverage": 20,
-      "unrealized_pnl": -0.329811,
-      "liquidation_price": 441131367.5817562
+      "unrealized_pnl": -0.329611,
+      "liquidation_price": 440473074.1131708
     },
     {
       "coin": "AAVE",
       "side": "LONG",
       "size": 43303.83,
       "entry_price": 77.3532,
-      "position_value_usd": 6907393.9233,
+      "position_value_usd": 6896567.9658,
       "leverage": 10,
-      "unrealized_pnl": 3557703.882505,
-      "liquidation_price": 49.5988441109
+      "unrealized_pnl": 3546877.925005,
+      "liquidation_price": 49.5128628557
     },
     {
       "coin": "ZRO",
@@ -46,9 +46,9 @@
       "side": "LONG",
       "size": 0.01,
       "entry_price": 32.7375,
-      "position_value_usd": 0.90775,
+      "position_value_usd": 0.90484,
       "leverage": 10,
-      "unrealized_pnl": 0.580375,
+      "unrealized_pnl": 0.577465,
       "liquidation_price": 0.0
     },
     {
@@ -56,11 +56,11 @@
       "side": "SHORT",
       "size": 344261.0,
       "entry_price": 4.05557,
-      "position_value_usd": 1348917.8763,
+      "position_value_usd": 1346714.6059,
       "leverage": 5,
-      "unrealized_pnl": 47256.998,
-      "liquidation_price": 15.8584883751
+      "unrealized_pnl": 49460.2684,
+      "liquidation_price": 15.8342702138
     }
   ],
-  "timestamp_ms": 1790813138660
+  "timestamp_ms": 1790813452959
 }
