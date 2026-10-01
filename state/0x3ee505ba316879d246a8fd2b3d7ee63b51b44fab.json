@@ -1,35 +1,35 @@
 {
-  "account_value": 2471487.885468,
+  "account_value": 2527520.61978,
   "positions": [
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 727.1669,
       "entry_price": 2759.35,
-      "position_value_usd": 1946407.64123,
+      "position_value_usd": 1950261.6258,
       "leverage": 20,
-      "unrealized_pnl": 60104.59816,
-      "liquidation_price": 8940.6196071855
+      "unrealized_pnl": 56250.61359,
+      "liquidation_price": 9016.0373650296
     },
     {
       "coin": "SOL",
       "side": "SHORT",
       "size": 0.01,
       "entry_price": 84.9189,
-      "position_value_usd": 1.173,
+      "position_value_usd": 1.1762,
       "leverage": 20,
-      "unrealized_pnl": -0.323811,
-      "liquidation_price": 453269707.8033171
+      "unrealized_pnl": -0.327011,
+      "liquidation_price": 458343567.5240976
     },
     {
       "coin": "AAVE",
       "side": "LONG",
       "size": 43303.83,
       "entry_price": 77.3532,
-      "position_value_usd": 7143399.7968,
+      "position_value_usd": 7209654.6567,
       "leverage": 10,
-      "unrealized_pnl": 3793709.756005,
-      "liquidation_price": 52.0244855527
+      "unrealized_pnl": 3859964.615905,
+      "liquidation_price": 52.2902954688
     },
     {
       "coin": "ZRO",
@@ -46,9 +46,9 @@
       "side": "LONG",
       "size": 0.01,
       "entry_price": 32.7375,
-      "position_value_usd": 0.8857,
+      "position_value_usd": 0.88786,
       "leverage": 10,
-      "unrealized_pnl": 0.558325,
+      "unrealized_pnl": 0.560485,
       "liquidation_price": 0.0
     },
     {
@@ -56,11 +56,11 @@
       "side": "SHORT",
       "size": 344261.0,
       "entry_price": 4.05557,
-      "position_value_usd": 1363067.0034,
+      "position_value_usd": 1369435.143378,
       "leverage": 5,
-      "unrealized_pnl": 33107.8709,
-      "liquidation_price": 16.2281392907
+      "unrealized_pnl": 26739.730922,
+      "liquidation_price": 16.383972465
     }
   ],
-  "timestamp_ms": 1790842848132
+  "timestamp_ms": 1790843155898
 }
