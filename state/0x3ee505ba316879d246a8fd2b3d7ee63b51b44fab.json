@@ -1,35 +1,35 @@
 {
-  "account_value": 3361232.391706,
+  "account_value": 3368921.25059,
   "positions": [
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 727.1669,
       "entry_price": 2759.35,
-      "position_value_usd": 1941390.18962,
+      "position_value_usd": 1940881.17279,
       "leverage": 20,
-      "unrealized_pnl": 65122.04977,
-      "liquidation_price": 10092.4909152056
+      "unrealized_pnl": 65631.0666,
+      "liquidation_price": 10101.5639361028
     },
     {
       "coin": "SOL",
       "side": "SHORT",
       "size": 0.01,
       "entry_price": 84.9189,
-      "position_value_usd": 1.1863,
+      "position_value_usd": 1.18565,
       "leverage": 20,
-      "unrealized_pnl": -0.337111,
-      "liquidation_price": 537120688.9048781
+      "unrealized_pnl": -0.336461,
+      "liquidation_price": 537827883.9282928
     },
     {
       "coin": "AAVE",
       "side": "LONG",
       "size": 43303.83,
       "entry_price": 77.3532,
-      "position_value_usd": 7765242.7956,
+      "position_value_usd": 7773037.485,
       "leverage": 10,
-      "unrealized_pnl": 4415552.754805,
-      "liquidation_price": 45.4923857167
+      "unrealized_pnl": 4423347.444205,
+      "liquidation_price": 45.496182762
     },
     {
       "coin": "ZRO",
@@ -46,9 +46,9 @@
       "side": "LONG",
       "size": 0.01,
       "entry_price": 32.7375,
-      "position_value_usd": 0.89039,
+      "position_value_usd": 0.89254,
       "leverage": 10,
-      "unrealized_pnl": 0.563015,
+      "unrealized_pnl": 0.565165,
       "liquidation_price": 0.0
     },
     {
@@ -56,11 +56,11 @@
       "side": "SHORT",
       "size": 344261.0,
       "entry_price": 4.05557,
-      "position_value_usd": 1227703.5782,
+      "position_value_usd": 1228318.428346,
       "leverage": 5,
-      "unrealized_pnl": 168471.2961,
-      "liquidation_price": 18.1045506471
+      "unrealized_pnl": 167856.445954,
+      "liquidation_price": 18.1254784389
     }
   ],
-  "timestamp_ms": 1790985053165
+  "timestamp_ms": 1790985345682
 }
