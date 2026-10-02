@@ -1,56 +1,56 @@
 {
-  "account_value": 1024027.916632,
+  "account_value": 1023808.418932,
   "positions": [
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 45.0,
       "entry_price": 84210.0,
-      "position_value_usd": 3801915.0,
+      "position_value_usd": 3794670.0,
       "leverage": 20,
-      "unrealized_pnl": -12460.90403,
-      "liquidation_price": 155529.4267625569
+      "unrealized_pnl": -5215.90403,
+      "liquidation_price": 155559.239877904
     },
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 600.0,
       "entry_price": 2667.8,
-      "position_value_usd": 1602060.0,
+      "position_value_usd": 1600320.0,
       "leverage": 20,
-      "unrealized_pnl": -1380.0,
-      "liquidation_price": 7959.1041983154
+      "unrealized_pnl": 360.0,
+      "liquidation_price": 7970.4099541454
     },
     {
       "coin": "HYPE",
       "side": "SHORT",
       "size": 5040.0,
       "entry_price": 93.6803,
-      "position_value_usd": 437552.64,
+      "position_value_usd": 436472.064,
       "leverage": 10,
-      "unrealized_pnl": 34596.29701,
-      "liquidation_price": 698.469546744
+      "unrealized_pnl": 35676.87301,
+      "liquidation_price": 699.8979892549
     },
     {
       "coin": "XMR",
       "side": "SHORT",
       "size": 2000.0,
       "entry_price": 594.51,
-      "position_value_usd": 1069740.0,
+      "position_value_usd": 1067660.0,
       "leverage": 5,
-      "unrealized_pnl": 119280.0,
-      "liquidation_price": 2006.1748042586
+      "unrealized_pnl": 121360.0,
+      "liquidation_price": 2009.0865872441
     },
     {
       "coin": "USELESS",
       "side": "SHORT",
       "size": 1596914.0,
       "entry_price": 0.22456,
-      "position_value_usd": 356287.48254,
+      "position_value_usd": 354514.908,
       "leverage": 3,
-      "unrealized_pnl": 2315.5253,
-      "liquidation_price": 1.9604987937
+      "unrealized_pnl": 4088.09984,
+      "liquidation_price": 1.9640552526
     }
   ],
-  "timestamp_ms": 1790972752857
+  "timestamp_ms": 1790973069529
 }
