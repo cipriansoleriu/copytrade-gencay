@@ -1,56 +1,56 @@
 {
-  "account_value": 1039239.539606,
+  "account_value": 1038578.322502,
   "positions": [
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 45.0,
       "entry_price": 84210.0,
-      "position_value_usd": 3800880.0,
+      "position_value_usd": 3803040.0,
       "leverage": 20,
-      "unrealized_pnl": -11425.90403,
-      "liquidation_price": 155042.1722280823
+      "unrealized_pnl": -13585.90403,
+      "liquidation_price": 154942.4805539644
     },
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 600.0,
       "entry_price": 2667.8,
-      "position_value_usd": 1600200.0,
+      "position_value_usd": 1601220.0,
       "leverage": 20,
-      "unrealized_pnl": 480.0,
-      "liquidation_price": 7921.441130951
+      "unrealized_pnl": -540.0,
+      "liquidation_price": 7912.1457030065
     },
     {
       "coin": "HYPE",
       "side": "SHORT",
       "size": 5040.0,
       "entry_price": 93.6803,
-      "position_value_usd": 444774.96,
+      "position_value_usd": 446342.4,
       "leverage": 10,
-      "unrealized_pnl": 27373.97701,
-      "liquidation_price": 695.9054573209
+      "unrealized_pnl": 25806.53701,
+      "liquidation_price": 694.9448772184
     },
     {
       "coin": "XMR",
       "side": "SHORT",
       "size": 2000.0,
       "entry_price": 594.51,
-      "position_value_usd": 1080900.0,
+      "position_value_usd": 1082440.0,
       "leverage": 5,
-      "unrealized_pnl": 108120.0,
-      "liquidation_price": 2002.1399873373
+      "unrealized_pnl": 106580.0,
+      "liquidation_price": 1999.8512592
     },
     {
       "coin": "USELESS",
       "side": "SHORT",
       "size": 1735721.0,
       "entry_price": 0.22456,
-      "position_value_usd": 386024.3504,
+      "position_value_usd": 387985.71513,
       "leverage": 3,
-      "unrealized_pnl": 3749.15736,
-      "liquidation_price": 1.8104027322
+      "unrealized_pnl": 1787.79263,
+      "liquidation_price": 1.8082096824
     }
   ],
-  "timestamp_ms": 1790983553897
+  "timestamp_ms": 1790983870540
 }
