@@ -1,56 +1,56 @@
 {
-  "account_value": 1024317.104006,
+  "account_value": 1021811.580956,
   "positions": [
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 45.0,
       "entry_price": 84210.0,
-      "position_value_usd": 3787830.0,
+      "position_value_usd": 3789720.0,
       "leverage": 20,
-      "unrealized_pnl": 1624.09597,
-      "liquidation_price": 155586.5818900631
+      "unrealized_pnl": -265.90403,
+      "liquidation_price": 155492.2830521591
     },
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 600.0,
       "entry_price": 2667.8,
-      "position_value_usd": 1599420.0,
+      "position_value_usd": 1599720.0,
       "leverage": 20,
-      "unrealized_pnl": 1260.0,
-      "liquidation_price": 7982.2617032124
+      "unrealized_pnl": 960.0,
+      "liquidation_price": 7972.6144551699
     },
     {
       "coin": "HYPE",
       "side": "SHORT",
       "size": 5040.0,
       "entry_price": 93.6803,
-      "position_value_usd": 435496.32,
+      "position_value_usd": 435960.0,
       "leverage": 10,
-      "unrealized_pnl": 36652.61701,
-      "liquidation_price": 701.248469079
+      "unrealized_pnl": 36188.93701,
+      "liquidation_price": 700.1669778088
     },
     {
       "coin": "XMR",
       "side": "SHORT",
       "size": 2000.0,
       "entry_price": 594.51,
-      "position_value_usd": 1066640.0,
+      "position_value_usd": 1068440.0,
       "leverage": 5,
-      "unrealized_pnl": 122380.0,
-      "liquidation_price": 2012.2908010755
+      "unrealized_pnl": 120580.0,
+      "liquidation_price": 2010.3680211655
     },
     {
       "coin": "USELESS",
       "side": "SHORT",
       "size": 1596914.0,
       "entry_price": 0.22456,
-      "position_value_usd": 351975.81474,
+      "position_value_usd": 354091.72579,
       "leverage": 3,
-      "unrealized_pnl": 6627.1931,
-      "liquidation_price": 1.9668511783
+      "unrealized_pnl": 4511.28205,
+      "liquidation_price": 1.9648429015
     }
   ],
-  "timestamp_ms": 1790970656723
+  "timestamp_ms": 1790970951393
 }
