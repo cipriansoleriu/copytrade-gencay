@@ -1,56 +1,56 @@
 {
-  "account_value": 3106205.933333,
+  "account_value": 3128658.493333,
   "positions": [
     {
       "coin": "ETH",
       "side": "SHORT",
-      "size": 600.0,
+      "size": 100.0,
       "entry_price": 2641.64,
-      "position_value_usd": 1643400.0,
+      "position_value_usd": 274460.0,
       "leverage": 20,
-      "unrealized_pnl": -58410.48758,
-      "liquidation_price": 7273.963931933
+      "unrealized_pnl": -10295.081281,
+      "liquidation_price": 29469.7059480098
     },
     {
       "coin": "GRASS",
       "side": "LONG",
       "size": 5150000.0,
       "entry_price": 0.38256,
-      "position_value_usd": 3738694.0,
+      "position_value_usd": 3704652.5,
       "leverage": 3,
-      "unrealized_pnl": 1768482.136417,
-      "liquidation_price": 0.0792653376
+      "unrealized_pnl": 1734440.636417,
+      "liquidation_price": 0.0841746664
     },
     {
       "coin": "HYPE",
       "side": "LONG",
       "size": 6000.0,
       "entry_price": 48.0945,
-      "position_value_usd": 536124.0,
+      "position_value_usd": 537294.0,
       "leverage": 10,
-      "unrealized_pnl": 247556.980798,
+      "unrealized_pnl": 248726.980798,
       "liquidation_price": 0.0
     },
     {
       "coin": "ZEC",
       "side": "LONG",
-      "size": 1300.0,
-      "entry_price": 1361.3468,
-      "position_value_usd": 1775410.0,
+      "size": 2500.0,
+      "entry_price": 1366.5944,
+      "position_value_usd": 3456250.0,
       "leverage": 10,
-      "unrealized_pnl": 5659.116,
-      "liquidation_price": 0.0
+      "unrealized_pnl": 39763.839,
+      "liquidation_price": 234.7270287592
     },
     {
       "coin": "AERO",
       "side": "LONG",
       "size": 5460000.0,
       "entry_price": 0.459278,
-      "position_value_usd": 4393443.6,
+      "position_value_usd": 4398248.4,
       "leverage": 3,
-      "unrealized_pnl": 1885783.826258,
-      "liquidation_price": 0.1946824338
+      "unrealized_pnl": 1890588.626258,
+      "liquidation_price": 0.2064277348
     }
   ],
-  "timestamp_ms": 1790915145644
+  "timestamp_ms": 1790915469248
 }
