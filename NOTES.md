@@ -2,6 +2,33 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-10-03
+
+### 06:13 UTC — Daily refresh (Job A)
+- Leaderboard: 47038 traders fetched, 5 shortlisted
+- Shortlist change: +5 new, -5 dropped
+-   +0x60a8c761f39696b3b419f31dcda20b405cb685f6
+-   +0x45f717946a3fb49054ebebecbb1ab8ce9325f166
+-   +0xf02d028ffeddc120a3ec59602a6617303ca55eb3
+-   +0xb3e475368ed0fa0ad23c04de0423d48a0758806f
+-   +0x880ac484a1743862989a441d6d867238c7aa311c
+-   -0xa2ce501d9c0c5e23d34272f84402cfb7835b3126
+-   -0xeadc152ac1014ace57c6b353f89adf5faffe9d55
+-   -0x19f5c3bc2e0978d9a1da389d7d4cfe33cd770fe9
+-   -0xce508465b243216fcf372d3146fd62e8f7a7b8e2
+-   -0x88560b720239179d7f3f9e49ca934a4861593d7f
+- #1 0x60a8c761... acc=$28,342,684 month=$1,112,172 edge=223bps
+- #2 0x45f71794... acc=$3,250,748 month=$641,772 edge=594bps
+- #3 0xf02d028f... acc=$15,112,664 month=$1,032,852 edge=537bps
+- #4 0xb3e47536... acc=$6,456,772 month=$385,830 edge=265bps
+- #5 0x880ac484... acc=$21,755,932 month=$4,126,381 edge=1004bps
+- Current positions across the shortlist:
+-   0x60a8c761... 3 positions: SHORT BTC x10, LONG FARTCOIN x10, SHORT LIT x3
+-   0x45f71794... 1 positions: SHORT ZEC x2
+-   0xf02d028f... 3 positions: SHORT BTC x10, SHORT ETH x20, SHORT HYPE x10
+-   0xb3e47536... 4 positions: LONG MNT x5, SHORT PURR x3, SHORT HYPE x10, SHORT LIT x3
+-   0x880ac484... 8 positions: SHORT BTC x11, SHORT ZRO x5, SHORT FARTCOIN x3, SHORT VVV x3, SHORT PUMP x5, SHORT ZEC x10, SHORT MON x5, SHORT XMR x5
+
 ## 2026-10-02
 
 ### 19:41 UTC — Position poll (Job B)
