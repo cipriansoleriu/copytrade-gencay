@@ -1,56 +1,56 @@
 {
-  "account_value": 987066.073333,
+  "account_value": 986507.922,
   "positions": [
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 45.0,
       "entry_price": 84210.0,
-      "position_value_usd": 3807720.0,
+      "position_value_usd": 3807855.0,
       "leverage": 20,
-      "unrealized_pnl": -18265.90403,
-      "liquidation_price": 154613.3851471276
+      "unrealized_pnl": -18400.90403,
+      "liquidation_price": 154612.5425113416
     },
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 600.0,
       "entry_price": 2667.8,
-      "position_value_usd": 1606956.0,
+      "position_value_usd": 1607340.0,
       "leverage": 20,
-      "unrealized_pnl": -6276.0,
-      "liquidation_price": 7889.4623868725
+      "unrealized_pnl": -6660.0,
+      "liquidation_price": 7889.8163082892
     },
     {
       "coin": "HYPE",
       "side": "SHORT",
       "size": 5040.0,
       "entry_price": 93.6803,
-      "position_value_usd": 445006.8,
+      "position_value_usd": 444825.36,
       "leverage": 10,
-      "unrealized_pnl": 27142.13701,
-      "liquidation_price": 690.9510583458
+      "unrealized_pnl": 27323.57701,
+      "liquidation_price": 690.881974428
     },
     {
       "coin": "XMR",
       "side": "SHORT",
       "size": 2000.0,
       "entry_price": 594.51,
-      "position_value_usd": 1094660.0,
+      "position_value_usd": 1095200.0,
       "leverage": 5,
-      "unrealized_pnl": 94360.0,
-      "liquidation_price": 1996.9917548936
+      "unrealized_pnl": 93820.0,
+      "liquidation_price": 1997.1821730332
     },
     {
       "coin": "USELESS",
       "side": "SHORT",
       "size": 2000000.0,
       "entry_price": 0.22456,
-      "position_value_usd": 440100.0,
+      "position_value_usd": 439572.0,
       "leverage": 3,
-      "unrealized_pnl": 9020.0,
-      "liquidation_price": 1.5868739403
+      "unrealized_pnl": 9548.0,
+      "liquidation_price": 1.586534906
     }
   ],
-  "timestamp_ms": 1791009348402
+  "timestamp_ms": 1791009656278
 }
