@@ -1,56 +1,56 @@
 {
-  "account_value": 1098404.538666,
+  "account_value": 1096358.0,
   "positions": [
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 45.0,
       "entry_price": 84210.0,
-      "position_value_usd": 3817980.0,
+      "position_value_usd": 3818070.0,
       "leverage": 20,
-      "unrealized_pnl": -28525.90403,
-      "liquidation_price": 151546.1764240988
+      "unrealized_pnl": -28615.90403,
+      "liquidation_price": 151577.285469059
     },
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 600.0,
       "entry_price": 2667.8,
-      "position_value_usd": 1612080.0,
+      "position_value_usd": 1612116.0,
       "leverage": 20,
-      "unrealized_pnl": -11400.0,
-      "liquidation_price": 7652.6789433382
+      "unrealized_pnl": -11436.0,
+      "liquidation_price": 7654.9060689281
     },
     {
       "coin": "HYPE",
       "side": "SHORT",
       "size": 5040.0,
       "entry_price": 93.6803,
-      "position_value_usd": 449920.8,
+      "position_value_usd": 449852.76,
       "leverage": 10,
-      "unrealized_pnl": 22228.13701,
-      "liquidation_price": 663.5553199779
+      "unrealized_pnl": 22296.17701,
+      "liquidation_price": 663.7924399441
     },
     {
       "coin": "XMR",
       "side": "SHORT",
       "size": 2000.0,
       "entry_price": 594.51,
-      "position_value_usd": 1126500.0,
+      "position_value_usd": 1124686.0,
       "leverage": 5,
-      "unrealized_pnl": 62520.0,
-      "liquidation_price": 1944.6672333286
+      "unrealized_pnl": 64334.0,
+      "liquidation_price": 1944.3630882655
     },
     {
       "coin": "USELESS",
       "side": "SHORT",
       "size": 3100000.0,
       "entry_price": 0.22712,
-      "position_value_usd": 747255.0,
+      "position_value_usd": 747751.0,
       "leverage": 3,
-      "unrealized_pnl": -43181.44166,
-      "liquidation_price": 1.0813591005
+      "unrealized_pnl": -43677.44166,
+      "liquidation_price": 1.0818858141
     }
   ],
-  "timestamp_ms": 1791059149450
+  "timestamp_ms": 1791059469856
 }
