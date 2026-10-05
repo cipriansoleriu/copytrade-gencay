@@ -4,6 +4,14 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-05
 
+### 06:16 UTC — Position poll (Job B)
+- 4 signals (4 applied to the paper book)
+- NEW SHORT HYPE x3 — 0xcd067372...
+- NEW SHORT CASHCAT x3 — 0xcd067372...
+- NEW SHORT PONS x2 — 0xcd067372...
+- NEW SHORT USELESS x3 — 0xcd067372...
+- Portfolio: $10,660.41 (+6.60%)
+
 ### 06:13 UTC — Daily refresh (Job A)
 - Leaderboard: 47230 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped

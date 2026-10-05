@@ -1,5 +1,5 @@
 {
-  "cash": 91.11195560394195,
+  "cash": 74.21125728913324,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x08c14b32c8a48894e4b933090ebcc9ce33b21135:BTC:SHORT": {
@@ -2795,6 +2795,50 @@
       "margin": 3.4505276469324877,
       "leverage": 3,
       "opened_at": "2026-10-04T06:16:11.285984+00:00"
+    },
+    "0xcd0673721a489b1cea0e2580fa304bcb6cca3186:HYPE:SHORT": {
+      "trader": "0xcd0673721a489b1cea0e2580fa304bcb6cca3186",
+      "coin": "HYPE",
+      "side": "SHORT",
+      "size": 0.14939857803832993,
+      "entry_price": 91.47873775000001,
+      "notional": 13.666793340591294,
+      "margin": 4.555597780197098,
+      "leverage": 3,
+      "opened_at": "2026-10-05T06:16:06.332924+00:00"
+    },
+    "0xcd0673721a489b1cea0e2580fa304bcb6cca3186:CASHCAT:SHORT": {
+      "trader": "0xcd0673721a489b1cea0e2580fa304bcb6cca3186",
+      "coin": "CASHCAT",
+      "side": "SHORT",
+      "size": 80.90653450771181,
+      "entry_price": 0.1604747225,
+      "notional": 12.983453673561728,
+      "margin": 4.327817891187243,
+      "leverage": 3,
+      "opened_at": "2026-10-05T06:16:06.332944+00:00"
+    },
+    "0xcd0673721a489b1cea0e2580fa304bcb6cca3186:PONS:SHORT": {
+      "trader": "0xcd0673721a489b1cea0e2580fa304bcb6cca3186",
+      "coin": "PONS",
+      "side": "SHORT",
+      "size": 21.508130552526783,
+      "entry_price": 0.3823137475,
+      "notional": 8.222853993255761,
+      "margin": 4.1114269966278805,
+      "leverage": 2,
+      "opened_at": "2026-10-05T06:16:06.332952+00:00"
+    },
+    "0xcd0673721a489b1cea0e2580fa304bcb6cca3186:USELESS:SHORT": {
+      "trader": "0xcd0673721a489b1cea0e2580fa304bcb6cca3186",
+      "coin": "USELESS",
+      "side": "SHORT",
+      "size": 49.53282345241177,
+      "entry_price": 0.23656166,
+      "notional": 11.71756694038946,
+      "margin": 3.905855646796487,
+      "leverage": 3,
+      "opened_at": "2026-10-05T06:16:06.332957+00:00"
     }
   },
   "equity_history": [
@@ -61202,7 +61246,12 @@
       "ts": "2026-10-05T06:11:07.287156+00:00",
       "equity": 10639.049511327252,
       "cash": 91.11195560394195
+    },
+    {
+      "ts": "2026-10-05T06:16:06.333034+00:00",
+      "equity": 10660.411178442548,
+      "cash": 74.21125728913324
     }
   ],
-  "last_processed_signal_index": 542
+  "last_processed_signal_index": 546
 }
