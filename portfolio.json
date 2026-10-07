@@ -1,5 +1,5 @@
 {
-  "cash": 76.63925092724658,
+  "cash": 79.98939730390038,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x08c14b32c8a48894e4b933090ebcc9ce33b21135:BTC:SHORT": {
@@ -2333,17 +2333,6 @@
       "margin": 7.967888397697518,
       "leverage": 3,
       "opened_at": "2026-09-28T06:15:57.531808+00:00"
-    },
-    "0x5740affc8faf8913f9f2d5fbb9bdc6e8119ea9da:AZTEC:LONG": {
-      "trader": "0x5740affc8faf8913f9f2d5fbb9bdc6e8119ea9da",
-      "coin": "AZTEC",
-      "side": "LONG",
-      "size": 1150.970251863821,
-      "entry_price": 0.018743367,
-      "notional": 21.57305783676603,
-      "margin": 7.19101927892201,
-      "leverage": 3,
-      "opened_at": "2026-09-28T06:15:57.531816+00:00"
     },
     "0x5740affc8faf8913f9f2d5fbb9bdc6e8119ea9da:GRAM:LONG": {
       "trader": "0x5740affc8faf8913f9f2d5fbb9bdc6e8119ea9da",
@@ -65168,7 +65157,12 @@
       "ts": "2026-10-07T22:31:26.832439+00:00",
       "equity": 10589.489233982042,
       "cash": 76.63925092724658
+    },
+    {
+      "ts": "2026-10-07T22:36:04.846179+00:00",
+      "equity": 10592.030570671473,
+      "cash": 79.98939730390038
     }
   ],
-  "last_processed_signal_index": 591
+  "last_processed_signal_index": 592
 }
