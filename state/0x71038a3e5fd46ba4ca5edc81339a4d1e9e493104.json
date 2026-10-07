@@ -1,14 +1,14 @@
 {
-  "account_value": 903012.125833,
+  "account_value": 906170.459166,
   "positions": [
     {
       "coin": "XPL",
       "side": "LONG",
       "size": 10000000.0,
       "entry_price": 0.089549,
-      "position_value_usd": 885660.0,
+      "position_value_usd": 886380.0,
       "leverage": 10,
-      "unrealized_pnl": -9839.0,
+      "unrealized_pnl": -9119.0,
       "liquidation_price": 0.0
     },
     {
@@ -16,21 +16,21 @@
       "side": "SHORT",
       "size": 2000.0,
       "entry_price": 594.51,
-      "position_value_usd": 1140100.0,
+      "position_value_usd": 1140520.0,
       "leverage": 5,
-      "unrealized_pnl": 48920.0,
-      "liquidation_price": 1918.5791029295
+      "unrealized_pnl": 48500.0,
+      "liquidation_price": 1919.224953215
     },
     {
       "coin": "USELESS",
       "side": "SHORT",
       "size": 3100000.0,
       "entry_price": 0.22712,
-      "position_value_usd": 662439.0,
+      "position_value_usd": 662532.0,
       "leverage": 3,
-      "unrealized_pnl": 41634.55834,
-      "liquidation_price": 1.0339934175
+      "unrealized_pnl": 41541.55834,
+      "liquidation_price": 1.034288543
     }
   ],
-  "timestamp_ms": 1791356760837
+  "timestamp_ms": 1791357058128
 }
