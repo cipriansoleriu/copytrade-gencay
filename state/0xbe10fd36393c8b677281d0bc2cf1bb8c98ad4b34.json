@@ -1,24 +1,24 @@
 {
-  "account_value": 783460.139048,
+  "account_value": 664545.825894,
   "positions": [
     {
       "coin": "ETH",
       "side": "LONG",
-      "size": 1250.0,
-      "entry_price": 2539.88,
-      "position_value_usd": 3216237.5,
+      "size": 1500.0,
+      "entry_price": 2545.15,
+      "position_value_usd": 3859050.0,
       "leverage": 25,
-      "unrealized_pnl": 41382.353269,
-      "liquidation_price": 1014.6634529102
+      "unrealized_pnl": 41318.841309,
+      "liquidation_price": 1227.8585748796
     },
     {
       "coin": "TAO",
       "side": "LONG",
       "size": 3300.813,
       "entry_price": 306.526,
-      "position_value_usd": 962186.9895,
+      "position_value_usd": 961427.80251,
       "leverage": 5,
-      "unrealized_pnl": -49598.9243,
+      "unrealized_pnl": -50358.11129,
       "liquidation_price": 0.0
     },
     {
@@ -26,31 +26,11 @@
       "side": "LONG",
       "size": 10000935.0,
       "entry_price": 0.086126,
-      "position_value_usd": 863610.740055,
+      "position_value_usd": 863270.708265,
       "leverage": 10,
-      "unrealized_pnl": 2268.841178,
-      "liquidation_price": 0.0
-    },
-    {
-      "coin": "ASTER",
-      "side": "LONG",
-      "size": 276525.0,
-      "entry_price": 0.714695,
-      "position_value_usd": 196078.347,
-      "leverage": 5,
-      "unrealized_pnl": -1552.958652,
-      "liquidation_price": 0.0
-    },
-    {
-      "coin": "PONS",
-      "side": "LONG",
-      "size": 1065454.0,
-      "entry_price": 0.413998,
-      "position_value_usd": 430390.1433,
-      "leverage": 3,
-      "unrealized_pnl": -10706.35522,
+      "unrealized_pnl": 1928.809388,
       "liquidation_price": 0.0
     }
   ],
-  "timestamp_ms": 1791372962442
+  "timestamp_ms": 1791373269443
 }
