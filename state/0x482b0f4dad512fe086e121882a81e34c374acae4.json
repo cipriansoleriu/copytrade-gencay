@@ -1,24 +1,24 @@
 {
-  "account_value": 1121530.992605,
+  "account_value": 1113184.687038,
   "positions": [
     {
       "coin": "BTC",
       "side": "LONG",
       "size": 5.63103,
       "entry_price": 75982.7,
-      "position_value_usd": 463371.82767,
+      "position_value_usd": 462639.79377,
       "leverage": 40,
-      "unrealized_pnl": 35510.886184,
+      "unrealized_pnl": 34778.852284,
       "liquidation_price": 0.0
     },
     {
       "coin": "ETH",
       "side": "LONG",
-      "size": 191.3921,
-      "entry_price": 2540.16,
-      "position_value_usd": 484413.4051,
+      "size": 203.906,
+      "entry_price": 2539.03,
+      "position_value_usd": 515209.2902,
       "leverage": 25,
-      "unrealized_pnl": -1754.7367,
+      "unrealized_pnl": -2516.01987,
       "liquidation_price": 0.0
     },
     {
@@ -26,31 +26,31 @@
       "side": "SHORT",
       "size": 22018.57,
       "entry_price": 82.5675,
-      "position_value_usd": 2481052.4676,
+      "position_value_usd": 2477309.3107,
       "leverage": 20,
-      "unrealized_pnl": -663032.78907,
-      "liquidation_price": 141.5620567892
+      "unrealized_pnl": -659289.63217,
+      "liquidation_price": 141.0823784659
     },
     {
       "coin": "PURR",
       "side": "LONG",
       "size": 10080859.0,
       "entry_price": 0.11396,
-      "position_value_usd": 1203352.13883,
+      "position_value_usd": 1191859.95957,
       "leverage": 3,
-      "unrealized_pnl": 54528.139013,
-      "liquidation_price": 0.041776597
+      "unrealized_pnl": 43035.959753,
+      "liquidation_price": 0.0414685667
     },
     {
       "coin": "HYPE",
       "side": "LONG",
       "size": 45009.97,
       "entry_price": 52.5944,
-      "position_value_usd": 3832508.92556,
+      "position_value_usd": 3833409.12496,
       "leverage": 10,
-      "unrealized_pnl": 1465235.279865,
-      "liquidation_price": 69.9036551562
+      "unrealized_pnl": 1466135.479265,
+      "liquidation_price": 70.0871076133
     }
   ],
-  "timestamp_ms": 1791463551932
+  "timestamp_ms": 1791463847145
 }
