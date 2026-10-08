@@ -7707,5 +7707,31 @@
     "leverage": 3,
     "unrealized_pnl": -11.552189,
     "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-10-08T04:51:00.931428+00:00",
+    "trader": "0x880ac484a1743862989a441d6d867238c7aa311c",
+    "type": "NEW",
+    "coin": "VVV",
+    "side": "LONG",
+    "size": 17.19,
+    "entry_price": 24.743,
+    "position_value_usd": 426.03696,
+    "leverage": 3,
+    "unrealized_pnl": 0.70479,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-10-08T04:51:00.931428+00:00",
+    "trader": "0x880ac484a1743862989a441d6d867238c7aa311c",
+    "type": "CLOSED",
+    "coin": "VVV",
+    "side": "SHORT",
+    "size": 54.58,
+    "entry_price": 29.4515,
+    "position_value_usd": 1347.68936,
+    "leverage": 3,
+    "unrealized_pnl": 259.77657,
+    "liquidation_price": 240443.972989321
   }
 ]
