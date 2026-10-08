@@ -4,6 +4,29 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-08
 
+### 06:13 UTC — Daily refresh (Job A)
+- Leaderboard: 47185 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+-   +0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66
+-   +0x675462411d40a169c3397ac1dc00786dc9c7d3a1
+-   +0x015354106478dda69c4aae3c0cf801290b738052
+-   +0x08c14b32c8a48894e4b933090ebcc9ce33b21135
+-   -0xcd0673721a489b1cea0e2580fa304bcb6cca3186
+-   -0x2669f508f456efae73c86d99d373f885c7b32b39
+-   -0xfd6a531508649697c6e133adcb82efcd0c737737
+-   -0x6f97d329b072e0f7b74575565d806a4351b8f824
+- #1 0x77375a8c... acc=$51,683,631 month=$17,311,739 edge=6535bps
+- #2 0x880ac484... acc=$18,336,220 month=$4,469,476 edge=1125bps
+- #3 0x67546241... acc=$764,477 month=$55,668 edge=49bps
+- #4 0x01535410... acc=$12,035,951 month=$1,500,601 edge=1470bps
+- #5 0x08c14b32... acc=$3,259,158 month=$4,029,241 edge=3050bps
+- Current positions across the shortlist:
+-   0x77375a8c... 8 positions: SHORT BTC x15, SHORT ETH x15, SHORT SOL x10, SHORT AVAX x10, SHORT BNB x10, SHORT XRP x10, SHORT ADA x10, LONG NEAR x10
+-   0x880ac484... 8 positions: SHORT BTC x11, SHORT ETH x12, SHORT ZRO x5, SHORT FARTCOIN x3, SHORT PUMP x5, SHORT ZEC x10, SHORT MON x5, SHORT XMR x5
+-   0x67546241... 26 positions: SHORT LINK x10, SHORT BCH x10, SHORT AAVE x10, SHORT UNI x10, SHORT BSV x3, SHORT NEAR x10, SHORT JUP x10, SHORT CAKE x3, SHORT ETC x5, SHORT ONDO x10, SHORT TAO x5, SHORT ENA x10, SHORT PURR x3, SHORT SPX x5, SHORT NIL x3, SHORT PUMP x10, SHORT SKY x3, SHORT MON x5, SHORT MET x3, SHORT CC x3, SHORT AERO x3, SHORT STABLE x3, SHORT XMR x5, SHORT DASH x5, SHORT CASHCAT x3, SHORT USELESS x3
+-   0x01535410... 2 positions: SHORT ZEC x1, SHORT PONS x1
+-   0x08c14b32... 10 positions: SHORT BTC x20, LONG ARB x10, LONG LDO x5, LONG AAVE x10, LONG ZRO x5, LONG ETHFI x5, SHORT ENA x10, LONG EIGEN x5, SHORT WLFI x5, LONG MEGA x3
+
 ### 06:06 UTC — Position poll (Job B)
 - 1 signals (1 applied to the paper book)
 - CLOSED LONG VVV x3 — 0x880ac484...
