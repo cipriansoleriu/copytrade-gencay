@@ -1,44 +1,44 @@
 {
-  "account_value": 1368123.385284,
+  "account_value": 1382872.189595,
   "positions": [
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 727.1669,
       "entry_price": 2759.35,
-      "position_value_usd": 1843368.0915,
+      "position_value_usd": 1847462.041147,
       "leverage": 20,
-      "unrealized_pnl": 163144.14789,
-      "liquidation_price": 6125.6615039443
+      "unrealized_pnl": 159050.198243,
+      "liquidation_price": 6148.2871947144
     },
     {
       "coin": "SOL",
       "side": "SHORT",
       "size": 0.01,
       "entry_price": 84.9189,
-      "position_value_usd": 1.1253,
+      "position_value_usd": 1.127816,
       "leverage": 20,
-      "unrealized_pnl": -0.276111,
-      "liquidation_price": 259827468.497561
+      "unrealized_pnl": -0.278627,
+      "liquidation_price": 261057310.49034148
     },
     {
       "coin": "AAVE",
       "side": "LONG",
       "size": 43303.83,
       "entry_price": 77.3532,
-      "position_value_usd": 7348659.951,
+      "position_value_usd": 7370311.866,
       "leverage": 10,
-      "unrealized_pnl": 3998969.910205,
-      "liquidation_price": 104.9620675896
+      "unrealized_pnl": 4020621.825205,
+      "liquidation_price": 105.1556433056
     },
     {
       "coin": "ZRO",
       "side": "LONG",
       "size": 1026710.8,
       "entry_price": 1.05124,
-      "position_value_usd": 2056501.7324,
+      "position_value_usd": 2059992.54912,
       "leverage": 5,
-      "unrealized_pnl": 977176.435967,
+      "unrealized_pnl": 980667.252687,
       "liquidation_price": 0.0
     },
     {
@@ -46,9 +46,9 @@
       "side": "LONG",
       "size": 0.01,
       "entry_price": 32.7375,
-      "position_value_usd": 0.85697,
+      "position_value_usd": 0.858024,
       "leverage": 10,
-      "unrealized_pnl": 0.529595,
+      "unrealized_pnl": 0.530649,
       "liquidation_price": 0.0
     },
     {
@@ -56,11 +56,11 @@
       "side": "SHORT",
       "size": 344261.0,
       "entry_price": 4.05557,
-      "position_value_usd": 1212934.7813,
+      "position_value_usd": 1219234.7576,
       "leverage": 5,
-      "unrealized_pnl": 183240.093,
-      "liquidation_price": 10.556099371
+      "unrealized_pnl": 176940.1167,
+      "liquidation_price": 10.607687745
     }
   ],
-  "timestamp_ms": 1791465367418
+  "timestamp_ms": 1791465657315
 }
