@@ -1,5 +1,5 @@
 {
-  "cash": 53.12596356427841,
+  "cash": 58.73717950422693,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x08c14b32c8a48894e4b933090ebcc9ce33b21135:BTC:SHORT": {
@@ -2344,17 +2344,6 @@
       "margin": 7.355291889461337,
       "leverage": 3,
       "opened_at": "2026-09-29T15:55:52.474887+00:00"
-    },
-    "0xfeb63b9e4a871b644816d94a1d19517a87ce5fa0:ETHFI:LONG": {
-      "trader": "0xfeb63b9e4a871b644816d94a1d19517a87ce5fa0",
-      "coin": "ETHFI",
-      "side": "LONG",
-      "size": 34.139943008071484,
-      "entry_price": 0.78277119,
-      "notional": 26.723763814960293,
-      "margin": 8.90792127165343,
-      "leverage": 3,
-      "opened_at": "2026-10-01T06:16:08.724297+00:00"
     },
     "0xfdf891f2b214a4c9374d26595ec6d4080262e381:ZEC:LONG": {
       "trader": "0xfdf891f2b214a4c9374d26595ec6d4080262e381",
@@ -67964,7 +67953,12 @@
       "ts": "2026-10-09T13:36:02.598464+00:00",
       "equity": 10430.830968206583,
       "cash": 53.12596356427841
+    },
+    {
+      "ts": "2026-10-09T13:41:10.030709+00:00",
+      "equity": 10405.571266613706,
+      "cash": 58.73717950422693
     }
   ],
-  "last_processed_signal_index": 665
+  "last_processed_signal_index": 668
 }
