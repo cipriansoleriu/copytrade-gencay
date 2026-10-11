@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-11
 
+### 06:16 UTC — Position poll (Job B)
+- 1 signals (1 applied to the paper book)
+- NEW LONG NEAR x2 — 0xe81309ec...
+- Portfolio: $10,180.06 (+1.80%)
+
 ### 06:13 UTC — Daily refresh (Job A)
 - Leaderboard: 47176 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
