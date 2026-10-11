@@ -2,6 +2,29 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-10-11
+
+### 06:13 UTC — Daily refresh (Job A)
+- Leaderboard: 47176 traders fetched, 5 shortlisted
+- Shortlist change: +3 new, -3 dropped
+-   +0xfdf891f2b214a4c9374d26595ec6d4080262e381
+-   +0xe81309ec9b79309e4d108ae3a92d1aa618cd6d74
+-   +0x6859da14835424957a1e6b397d8026b1d9ff7e1e
+-   -0x015354106478dda69c4aae3c0cf801290b738052
+-   -0x08c14b32c8a48894e4b933090ebcc9ce33b21135
+-   -0x880ac484a1743862989a441d6d867238c7aa311c
+- #1 0xcd067372... acc=$4,793,831 month=$559,711 edge=835bps
+- #2 0xfdf891f2... acc=$4,401,764 month=$3,359,005 edge=4518bps
+- #3 0xe81309ec... acc=$18,257,916 month=$1,919,626 edge=690bps
+- #4 0xcafe9392... acc=$5,980,120 month=$1,121,141 edge=1384bps
+- #5 0x6859da14... acc=$9,574,473 month=$348,184 edge=179bps
+- Current positions across the shortlist:
+-   0xcd067372... 4 positions: SHORT HYPE x3, SHORT CASHCAT x3, SHORT PONS x2, SHORT USELESS x3
+-   0xfdf891f2... 4 positions: LONG GRASS x3, LONG HYPE x10, LONG ZEC x10, LONG AERO x3
+-   0xe81309ec... 1 positions: LONG NEAR x2
+-   0xcafe9392... 2 positions: LONG BTC x10, SHORT MEGA x3
+-   0x6859da14... 21 positions: SHORT BTC x35, SHORT ETH x25, SHORT SOL x20, SHORT AVAX x10, SHORT SUI x10, SHORT AAVE x10, SHORT WLD x10, SHORT JUP x10, SHORT TAO x5, SHORT MNT x5, SHORT PURR x3, SHORT HYPE x10, SHORT FARTCOIN x10, SHORT SPX x5, SHORT VVV x3, SHORT PUMP x9, SHORT XPL x10, SHORT AERO x3, SHORT LIT x5, SHORT CASHCAT x3, SHORT PONS x3
+
 ## 2026-10-10
 
 ### 19:11 UTC — Position poll (Job B)
