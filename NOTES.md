@@ -2,6 +2,31 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-10-12
+
+### 06:13 UTC — Daily refresh (Job A)
+- Leaderboard: 47417 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+-   +0x153c8444380512cabdc34f6cea09c322e14e319a
+-   +0x0121525f755c9e7bbc525bba6672716ab46ced57
+-   +0xab11bfc2e491378b79675dc3e996ed01ea034d5f
+-   +0x5f94a51948d2376ad34a6fadfa2544e651b74b96
+-   -0xcd0673721a489b1cea0e2580fa304bcb6cca3186
+-   -0xe81309ec9b79309e4d108ae3a92d1aa618cd6d74
+-   -0xcafe9392d902f6f517b1573371923ebf7ffa7b3b
+-   -0x6859da14835424957a1e6b397d8026b1d9ff7e1e
+- #1 0xfdf891f2... acc=$5,702,929 month=$4,667,207 edge=6175bps
+- #2 0x153c8444... acc=$7,288,438 month=$4,961,384 edge=9458bps
+- #3 0x0121525f... acc=$1,679,017 month=$1,053,327 edge=1885bps
+- #4 0xab11bfc2... acc=$4,471,538 month=$830,019 edge=1077bps
+- #5 0x5f94a519... acc=$6,876,785 month=$2,164,064 edge=2525bps
+- Current positions across the shortlist:
+-   0xfdf891f2... 4 positions: LONG GRASS x3, LONG HYPE x10, LONG ZEC x10, LONG AERO x3
+-   0x153c8444... 11 positions: LONG OP x5, LONG kPEPE x10, LONG CFX x5, LONG WLD x10, LONG kSHIB x10, LONG FET x5, LONG NEAR x10, LONG IMX x5, LONG kBONK x10, LONG PNUT x3, LONG GRAM x5
+-   0x0121525f... 3 positions: LONG ONDO x5, LONG W x3, LONG IO x3
+-   0xab11bfc2... no open positions
+-   0x5f94a519... 16 positions: SHORT ATOM x5, SHORT SUI x10, SHORT APT x10, SHORT DOT x10, SHORT ADA x10, LONG NEAR x10, LONG ETHFI x5, LONG ENA x10, LONG GRASS x3, SHORT HYPE x10, SHORT TRUMP x8, LONG PUMP x10, SHORT XPL x10, SHORT WLFI x5, LONG ZEC x10, LONG LIT x5
+
 ## 2026-10-11
 
 ### 21:25 UTC — Position poll (Job B)
