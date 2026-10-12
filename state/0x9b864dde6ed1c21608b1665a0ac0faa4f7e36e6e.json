@@ -1,16 +1,26 @@
 {
-  "account_value": 1096566.700774,
+  "account_value": 1133242.298305,
   "positions": [
     {
       "coin": "ZEC",
       "side": "LONG",
       "size": 2659.98,
       "entry_price": 632.9798,
-      "position_value_usd": 3270445.41,
+      "position_value_usd": 3278425.35,
       "leverage": 3,
-      "unrealized_pnl": 1586731.605092,
-      "liquidation_price": 720.9239481864
+      "unrealized_pnl": 1594711.545092,
+      "liquidation_price": 728.6273577122
+    },
+    {
+      "coin": "AZTEC",
+      "side": "LONG",
+      "size": 6311543.0,
+      "entry_price": 0.019091,
+      "position_value_usd": 121301.544917,
+      "leverage": 3,
+      "unrealized_pnl": 804.778095,
+      "liquidation_price": 0.0
     }
   ],
-  "timestamp_ms": 1791839159105
+  "timestamp_ms": 1791839463778
 }
