@@ -1,26 +1,36 @@
 {
-  "account_value": 1070918.536532,
+  "account_value": 1129111.178209,
   "positions": [
+    {
+      "coin": "STRK",
+      "side": "LONG",
+      "size": 277210.9,
+      "entry_price": 0.09023,
+      "position_value_usd": 24971.157872,
+      "leverage": 3,
+      "unrealized_pnl": -41.665821,
+      "liquidation_price": 0.0
+    },
     {
       "coin": "ZEC",
       "side": "LONG",
       "size": 2659.98,
       "entry_price": 632.9798,
-      "position_value_usd": 3213787.836,
+      "position_value_usd": 3227087.736,
       "leverage": 3,
-      "unrealized_pnl": 1530074.031092,
-      "liquidation_price": 729.4441505551
+      "unrealized_pnl": 1543373.931092,
+      "liquidation_price": 730.0318688969
     },
     {
       "coin": "AZTEC",
       "side": "LONG",
       "size": 6833482.0,
       "entry_price": 0.019115,
-      "position_value_usd": 131052.517796,
+      "position_value_usd": 132330.37893,
       "leverage": 3,
-      "unrealized_pnl": 428.146907,
+      "unrealized_pnl": 1706.008041,
       "liquidation_price": 0.0
     }
   ],
-  "timestamp_ms": 1791842490039
+  "timestamp_ms": 1791842756485
 }
