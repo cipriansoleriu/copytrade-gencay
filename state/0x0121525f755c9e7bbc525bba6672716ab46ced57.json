@@ -1,16 +1,26 @@
 {
-  "account_value": 456250.836978,
+  "account_value": 705140.492579,
   "positions": [
     {
       "coin": "ONDO",
       "side": "LONG",
       "size": 3122048.0,
       "entry_price": 0.503121,
-      "position_value_usd": 1518376.82432,
+      "position_value_usd": 1514755.24864,
       "leverage": 5,
-      "unrealized_pnl": -52393.08083,
+      "unrealized_pnl": -56014.65651,
       "liquidation_price": 0.3581070359
+    },
+    {
+      "coin": "LIT",
+      "side": "SHORT",
+      "size": 1840.0,
+      "entry_price": 3.5724,
+      "position_value_usd": 6559.32032,
+      "leverage": 2,
+      "unrealized_pnl": 13.89568,
+      "liquidation_price": 4.8709674007
     }
   ],
-  "timestamp_ms": 1791842751182
+  "timestamp_ms": 1791843061277
 }
