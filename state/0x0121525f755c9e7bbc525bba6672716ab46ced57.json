@@ -1,36 +1,26 @@
 {
-  "account_value": 904422.419213,
+  "account_value": 631554.30813,
   "positions": [
-    {
-      "coin": "ETH",
-      "side": "SHORT",
-      "size": 1022.0768,
-      "entry_price": 2446.0,
-      "position_value_usd": 2539554.22496,
-      "leverage": 25,
-      "unrealized_pnl": -39554.37216,
-      "liquidation_price": 2493.611666928
-    },
     {
       "coin": "ONDO",
       "side": "LONG",
       "size": 3122048.0,
       "entry_price": 0.503121,
-      "position_value_usd": 1486094.848,
+      "position_value_usd": 1486001.18656,
       "leverage": 5,
-      "unrealized_pnl": -84675.05715,
-      "liquidation_price": 0.3311497397
+      "unrealized_pnl": -84768.71859,
+      "liquidation_price": 0.3311560208
     },
     {
       "coin": "LIT",
       "side": "SHORT",
-      "size": 182735.0,
+      "size": 69884.0,
       "entry_price": 3.482742,
-      "position_value_usd": 615268.745,
+      "position_value_usd": 237703.4376,
       "leverage": 2,
-      "unrealized_pnl": 21150.1602,
-      "liquidation_price": 4.7544594832
+      "unrealized_pnl": 5684.521634,
+      "liquidation_price": 4.7539468267
     }
   ],
-  "timestamp_ms": 1791860140451
+  "timestamp_ms": 1791860475116
 }
