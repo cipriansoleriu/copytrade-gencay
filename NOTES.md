@@ -2,6 +2,31 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-10-14
+
+### 06:13 UTC — Daily refresh (Job A)
+- Leaderboard: 47285 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+-   +0xfdf891f2b214a4c9374d26595ec6d4080262e381
+-   +0xd260b2216b735277da6771564a01c04856e78321
+-   +0xcac1f1c3e4599e044dc2a9d38a9b6ef1af1bdae8
+-   +0x28cee4465f95720cb8464d56faea656751119040
+-   -0x08bf75d17046412ae08c95b6106993f714487872
+-   -0x4ba3979955f52158c0e4e3378b18985475182ce2
+-   -0xcd0673721a489b1cea0e2580fa304bcb6cca3186
+-   -0x015354106478dda69c4aae3c0cf801290b738052
+- #1 0xfdf891f2... acc=$4,531,690 month=$3,730,295 edge=4296bps
+- #2 0xcafe9392... acc=$7,165,349 month=$2,063,874 edge=2452bps
+- #3 0xd260b221... acc=$14,174,976 month=$1,741,491 edge=724bps
+- #4 0xcac1f1c3... acc=$1,581,641 month=$57,330 edge=67bps
+- #5 0x28cee446... acc=$2,448,095 month=$132,859 edge=170bps
+- Current positions across the shortlist:
+-   0xfdf891f2... 6 positions: LONG GRASS x3, LONG HYPE x10, LONG ZEC x10, LONG AERO x3, LONG CASHCAT x3, LONG PONS x3
+-   0xcafe9392... 2 positions: LONG BTC x10, SHORT MEGA x3
+-   0xd260b221... 1 positions: SHORT SOL x20
+-   0xcac1f1c3... 2 positions: LONG BTC x40, SHORT HYPE x10
+-   0x28cee446... 2 positions: SHORT ENA x10, SHORT HYPE x10
+
 ## 2026-10-13
 
 ### 16:25 UTC — Position poll (Job B)
