@@ -1,15 +1,15 @@
 {
-  "account_value": 1374244.799203,
+  "account_value": 1368643.012897,
   "positions": [
     {
       "coin": "LINK",
       "side": "LONG",
       "size": 400000.0,
       "entry_price": 11.92953,
-      "position_value_usd": 4994400.0,
+      "position_value_usd": 4990000.0,
       "leverage": 5,
-      "unrealized_pnl": 222587.605982,
-      "liquidation_price": 9.8710157643
+      "unrealized_pnl": 218187.605982,
+      "liquidation_price": 9.9369021854
     },
     {
       "coin": "XRP",
@@ -19,28 +19,38 @@
       "position_value_usd": 133000.0,
       "leverage": 5,
       "unrealized_pnl": 14521.644919,
-      "liquidation_price": 11.0245757032
+      "liquidation_price": 10.7395333615
     },
     {
       "coin": "NEAR",
       "side": "LONG",
       "size": 50000.0,
       "entry_price": 2.4,
-      "position_value_usd": 240875.0,
+      "position_value_usd": 241115.0,
       "leverage": 10,
-      "unrealized_pnl": 120875.0,
+      "unrealized_pnl": 121115.0,
       "liquidation_price": 3.1857061832
+    },
+    {
+      "coin": "HYPE",
+      "side": "LONG",
+      "size": 3000.0,
+      "entry_price": 79.9552,
+      "position_value_usd": 239643.0,
+      "leverage": 10,
+      "unrealized_pnl": -222.84671,
+      "liquidation_price": 75.7413261832
     },
     {
       "coin": "VVV",
       "side": "LONG",
       "size": 10000.0,
       "entry_price": 23.0,
-      "position_value_usd": 227711.0,
+      "position_value_usd": 226600.0,
       "leverage": 3,
-      "unrealized_pnl": -2289.0,
+      "unrealized_pnl": -3400.0,
       "liquidation_price": 0.0
     }
   ],
-  "timestamp_ms": 1791999967173
+  "timestamp_ms": 1792000268668
 }
