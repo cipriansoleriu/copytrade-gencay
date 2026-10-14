@@ -9423,5 +9423,31 @@
     "leverage": 2,
     "unrealized_pnl": -66792.309157,
     "liquidation_price": 3226.8524196829
+  },
+  {
+    "ts": "2026-10-14T18:15:58.944248+00:00",
+    "trader": "0x77eeda199553e33b246e4b4666849b9ad0972902",
+    "type": "CLOSED",
+    "coin": "AVAX",
+    "side": "LONG",
+    "size": 1.01,
+    "entry_price": 9.8725,
+    "position_value_usd": 9.97678,
+    "leverage": 10,
+    "unrealized_pnl": 0.005555,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-10-14T18:15:58.944248+00:00",
+    "trader": "0x77eeda199553e33b246e4b4666849b9ad0972902",
+    "type": "CLOSED",
+    "coin": "ARB",
+    "side": "LONG",
+    "size": 109.3,
+    "entry_price": 0.1829,
+    "position_value_usd": 19.981133,
+    "leverage": 10,
+    "unrealized_pnl": -0.009837,
+    "liquidation_price": 0.0
   }
 ]
