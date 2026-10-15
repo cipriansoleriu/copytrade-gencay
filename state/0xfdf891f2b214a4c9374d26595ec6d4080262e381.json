@@ -1,24 +1,24 @@
 {
-  "account_value": 3601255.386003,
+  "account_value": 3546250.372003,
   "positions": [
     {
       "coin": "GRASS",
       "side": "LONG",
       "size": 5285000.0,
       "entry_price": 0.38844,
-      "position_value_usd": 3630900.7,
+      "position_value_usd": 3623501.7,
       "leverage": 3,
-      "unrealized_pnl": 1577975.639558,
-      "liquidation_price": 0.2634551087
+      "unrealized_pnl": 1570576.639558,
+      "liquidation_price": 0.2730601092
     },
     {
       "coin": "HYPE",
       "side": "LONG",
       "size": 6000.0,
       "entry_price": 48.0945,
-      "position_value_usd": 488236.8,
+      "position_value_usd": 487662.0,
       "leverage": 10,
-      "unrealized_pnl": 199669.780798,
+      "unrealized_pnl": 199094.980798,
       "liquidation_price": 0.0
     },
     {
@@ -26,29 +26,29 @@
       "side": "LONG",
       "size": 3380.0,
       "entry_price": 1337.7168,
-      "position_value_usd": 4006778.074,
+      "position_value_usd": 3984807.06,
       "leverage": 10,
-      "unrealized_pnl": -514704.867,
-      "liquidation_price": 604.4810945696
+      "unrealized_pnl": -536675.881,
+      "liquidation_price": 613.075113048
     },
     {
       "coin": "AERO",
       "side": "LONG",
       "size": 5460000.0,
       "entry_price": 0.459278,
-      "position_value_usd": 4898111.4,
+      "position_value_usd": 4876599.0,
       "leverage": 3,
-      "unrealized_pnl": 2390451.626258,
-      "liquidation_price": 0.4871009065
+      "unrealized_pnl": 2368939.226258,
+      "liquidation_price": 0.4938131826
     },
     {
       "coin": "CASHCAT",
       "side": "LONG",
       "size": 2190000.0,
       "entry_price": 0.115941,
-      "position_value_usd": 255441.6,
+      "position_value_usd": 251893.8,
       "leverage": 3,
-      "unrealized_pnl": 1530.19069,
+      "unrealized_pnl": -2017.60931,
       "liquidation_price": 0.0
     },
     {
@@ -62,5 +62,5 @@
       "liquidation_price": 0.0
     }
   ],
-  "timestamp_ms": 1792080677948
+  "timestamp_ms": 1792080981832
 }
