@@ -1,26 +1,36 @@
 {
-  "account_value": 339561.126421,
+  "account_value": 348589.6473,
   "positions": [
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 1069.7294,
       "entry_price": 2299.66,
-      "position_value_usd": 2612600.11362,
+      "position_value_usd": 2608749.08778,
       "leverage": 25,
-      "unrealized_pnl": -152583.918943,
-      "liquidation_price": 4108.1076857729
+      "unrealized_pnl": -148732.893103,
+      "liquidation_price": 4078.932195362
+    },
+    {
+      "coin": "ZRO",
+      "side": "SHORT",
+      "size": 151839.1,
+      "entry_price": 2.09804,
+      "position_value_usd": 318892.47782,
+      "leverage": 5,
+      "unrealized_pnl": -327.79216,
+      "liquidation_price": 12.8154702747
     },
     {
       "coin": "CASHCAT",
       "side": "SHORT",
       "size": 195316.0,
       "entry_price": 0.204795,
-      "position_value_usd": 22070.708,
+      "position_value_usd": 21676.16968,
       "leverage": 3,
-      "unrealized_pnl": 17929.15608,
-      "liquidation_price": 8.0895364494
+      "unrealized_pnl": 18323.6944,
+      "liquidation_price": 7.9650510332
     }
   ],
-  "timestamp_ms": 1792078868936
+  "timestamp_ms": 1792079171730
 }
