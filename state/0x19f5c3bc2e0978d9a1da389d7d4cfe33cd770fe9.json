@@ -1,14 +1,14 @@
 {
-  "account_value": 101895.025184,
+  "account_value": 96329.790744,
   "positions": [
     {
       "coin": "REZ",
       "side": "LONG",
       "size": 8000000.0,
       "entry_price": 0.003691,
-      "position_value_usd": 29568.0,
+      "position_value_usd": 29504.0,
       "leverage": 3,
-      "unrealized_pnl": 34.204237,
+      "unrealized_pnl": -29.795763,
       "liquidation_price": 0.0
     },
     {
@@ -16,11 +16,11 @@
       "side": "LONG",
       "size": 211585940.0,
       "entry_price": 0.004149,
-      "position_value_usd": 947058.66744,
+      "position_value_usd": 941557.433,
       "leverage": 10,
-      "unrealized_pnl": 69165.517007,
-      "liquidation_price": 0.0007727022
+      "unrealized_pnl": 63664.282567,
+      "liquidation_price": 0.0007729676
     }
   ],
-  "timestamp_ms": 1792154160948
+  "timestamp_ms": 1792154470605
 }
