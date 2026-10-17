@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-17
 
+### 00:06 UTC — Position poll (Job B)
+- 1 signals (1 applied to the paper book)
+- CLOSED LONG SUI x10 — 0xce508465...
+- Portfolio: $10,589.09 (+5.89%)
+
 ### 00:01 UTC — Position poll (Job B)
 - 1 signals (0 applied to the paper book)
 - CLOSED LONG BTC x20 — 0xce508465...
