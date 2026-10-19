@@ -1,24 +1,24 @@
 {
-  "account_value": 1256589.818388,
+  "account_value": 1533064.495189,
   "positions": [
     {
       "coin": "NEAR",
       "side": "LONG",
       "size": 750341.2,
       "entry_price": 3.21344,
-      "position_value_usd": 3715464.52004,
+      "position_value_usd": 3720341.73784,
       "leverage": 10,
-      "unrealized_pnl": 1304285.593726,
-      "liquidation_price": 2.6318244606
+      "unrealized_pnl": 1309162.811526,
+      "liquidation_price": 2.6382354596
     },
     {
       "coin": "ENA",
       "side": "LONG",
       "size": 5373596.0,
       "entry_price": 0.160593,
-      "position_value_usd": 1009698.6884,
+      "position_value_usd": 1010289.78396,
       "leverage": 5,
-      "unrealized_pnl": 146735.977646,
+      "unrealized_pnl": 147327.073206,
       "liquidation_price": 0.0
     },
     {
@@ -26,29 +26,19 @@
       "side": "LONG",
       "size": 32403.82,
       "entry_price": 68.2545,
-      "position_value_usd": 2541237.17968,
+      "position_value_usd": 2539779.00778,
       "leverage": 10,
-      "unrealized_pnl": 329530.323661,
-      "liquidation_price": 24.7050805604
-    },
-    {
-      "coin": "SYRUP",
-      "side": "LONG",
-      "size": 58082.0,
-      "entry_price": 0.213311,
-      "position_value_usd": 10915.117932,
-      "leverage": 3,
-      "unrealized_pnl": -1474.467526,
-      "liquidation_price": 0.0
+      "unrealized_pnl": 328072.151761,
+      "liquidation_price": 24.6580196585
     },
     {
       "coin": "PUMP",
       "side": "LONG",
       "size": 265144799.0,
       "entry_price": 0.003941,
-      "position_value_usd": 1179364.065952,
+      "position_value_usd": 1175386.893967,
       "leverage": 10,
-      "unrealized_pnl": 134238.794961,
+      "unrealized_pnl": 130261.622976,
       "liquidation_price": 0.0
     },
     {
@@ -56,10 +46,10 @@
       "side": "LONG",
       "size": 3100.27,
       "entry_price": 904.5433,
-      "position_value_usd": 3531517.557,
+      "position_value_usd": 3529657.395,
       "leverage": 10,
-      "unrealized_pnl": 727188.909864,
-      "liquidation_price": 577.6333548002
+      "unrealized_pnl": 725328.747864,
+      "liquidation_price": 577.011814387
     },
     {
       "coin": "LIT",
@@ -72,5 +62,5 @@
       "liquidation_price": 0.0
     }
   ],
-  "timestamp_ms": 1792428672031
+  "timestamp_ms": 1792428963132
 }

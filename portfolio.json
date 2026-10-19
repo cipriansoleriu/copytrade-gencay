@@ -1,5 +1,5 @@
 {
-  "cash": -610.9528906471819,
+  "cash": -601.9609263926944,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x08c14b32c8a48894e4b933090ebcc9ce33b21135:BTC:SHORT": {
@@ -1816,17 +1816,6 @@
       "margin": 14.52615101126559,
       "leverage": 3,
       "opened_at": "2026-09-18T06:15:57.955995+00:00"
-    },
-    "0x4cae5bed586f6e73ae54ebd40a4ac4ed2c477c34:SYRUP:LONG": {
-      "trader": "0x4cae5bed586f6e73ae54ebd40a4ac4ed2c477c34",
-      "coin": "SYRUP",
-      "side": "LONG",
-      "size": 195.32602120241742,
-      "entry_price": 0.2119509225,
-      "notional": 41.39953038210693,
-      "margin": 13.799843460702311,
-      "leverage": 3,
-      "opened_at": "2026-09-18T06:15:57.956006+00:00"
     },
     "0x4cae5bed586f6e73ae54ebd40a4ac4ed2c477c34:PUMP:LONG": {
       "trader": "0x4cae5bed586f6e73ae54ebd40a4ac4ed2c477c34",
@@ -83495,7 +83484,12 @@
       "ts": "2026-10-19T16:51:22.797082+00:00",
       "equity": 10747.086758812564,
       "cash": -610.9528906471819
+    },
+    {
+      "ts": "2026-10-19T16:56:13.257695+00:00",
+      "equity": 10755.047917866797,
+      "cash": -601.9609263926944
     }
   ],
-  "last_processed_signal_index": 944
+  "last_processed_signal_index": 945
 }
