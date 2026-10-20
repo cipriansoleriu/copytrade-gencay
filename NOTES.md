@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-20
 
+### 06:51 UTC — Position poll (Job B)
+- 1 signals (1 applied to the paper book)
+- CLOSED SHORT SOL x20 — 0xd260b221...
+- Portfolio: $10,766.96 (+7.67%)
+
 ### 06:13 UTC — Daily refresh (Job A)
 - Leaderboard: 47466 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
