@@ -1,34 +1,54 @@
 {
-  "account_value": 7151664.924979,
+  "account_value": 6968538.977745,
   "positions": [
     {
       "coin": "BTC",
       "side": "LONG",
       "size": 300.49417,
       "entry_price": 70766.9,
-      "position_value_usd": 25413392.94524,
+      "position_value_usd": 25377033.15067,
       "leverage": 20,
-      "unrealized_pnl": 4148348.035216,
-      "liquidation_price": 48604.2326873746
+      "unrealized_pnl": 4111988.240646,
+      "liquidation_price": 48742.0308082179
     },
     {
       "coin": "ETH",
       "side": "LONG",
       "size": 10016.8752,
       "entry_price": 2162.83,
-      "position_value_usd": 25124326.37664,
+      "position_value_usd": 25105294.31376,
       "leverage": 10,
-      "unrealized_pnl": 3459524.32748,
-      "liquidation_price": 1420.9528043933
+      "unrealized_pnl": 3440492.2646,
+      "liquidation_price": 1426.8758513083
+    },
+    {
+      "coin": "DOGE",
+      "side": "LONG",
+      "size": 142517.0,
+      "entry_price": 0.083553,
+      "position_value_usd": 11895.89399,
+      "leverage": 10,
+      "unrealized_pnl": -11.886615,
+      "liquidation_price": 0.0
     },
     {
       "coin": "SUI",
       "side": "LONG",
       "size": 2500010.4,
       "entry_price": 0.85967,
-      "position_value_usd": 2621760.90648,
+      "position_value_usd": 2616260.8836,
       "leverage": 10,
-      "unrealized_pnl": 472554.375851,
+      "unrealized_pnl": 467054.352971,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "LINK",
+      "side": "LONG",
+      "size": 1068.8,
+      "entry_price": 12.64671,
+      "position_value_usd": 13522.4576,
+      "leverage": 5,
+      "unrealized_pnl": 5.6508,
       "liquidation_price": 0.0
     },
     {
@@ -36,11 +56,11 @@
       "side": "LONG",
       "size": 100000.0,
       "entry_price": 71.0145,
-      "position_value_usd": 8213500.0,
+      "position_value_usd": 8193110.0,
       "leverage": 5,
-      "unrealized_pnl": 1112047.004197,
+      "unrealized_pnl": 1091657.004197,
       "liquidation_price": 0.0
     }
   ],
-  "timestamp_ms": 1792596374020
+  "timestamp_ms": 1792596692704
 }
