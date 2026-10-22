@@ -4,6 +4,25 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-22
 
+### 06:13 UTC — Daily refresh (Job A)
+- Leaderboard: 47665 traders fetched, 5 shortlisted
+- Shortlist change: +2 new, -2 dropped
+-   +0x089fe537f4b2af55fa990bc64ff4125800bba4f8
+-   +0x9b28837deb55b014f7a37f2812d6ec042ce87ca1
+-   -0xacb66d1996501bcc82a0e7819c9e041599f5efbd
+-   -0xf02d028ffeddc120a3ec59602a6617303ca55eb3
+- #1 0xe4d1fa7e... acc=$1,623,967 month=$1,071,878 edge=223bps
+- #2 0x089fe537... acc=$21,409,998 month=$807,803 edge=298bps
+- #3 0x03ef8f73... acc=$12,694,299 month=$1,491,432 edge=2976bps
+- #4 0x77375a8c... acc=$48,584,830 month=$5,622,071 edge=2557bps
+- #5 0x9b28837d... acc=$1,917,588 month=$390,413 edge=185bps
+- Current positions across the shortlist:
+-   0xe4d1fa7e... no open positions
+-   0x089fe537... no open positions
+-   0x03ef8f73... 1 positions: SHORT HYPE x10
+-   0x77375a8c... 8 positions: SHORT BTC x15, SHORT ETH x15, SHORT SOL x10, SHORT AVAX x10, SHORT BNB x10, SHORT XRP x10, SHORT ADA x10, LONG NEAR x10
+-   0x9b28837d... no open positions
+
 ### 04:36 UTC — Position poll (Job B)
 - 1 signals (1 applied to the paper book)
 - CLOSED SHORT ETHFI x5 — 0x50f49b9f...
