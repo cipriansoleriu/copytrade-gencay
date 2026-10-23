@@ -1,56 +1,56 @@
 {
-  "account_value": 1018080.946428,
+  "account_value": 1015623.194474,
   "positions": [
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 9.21214,
       "entry_price": 81414.2,
-      "position_value_usd": 751176.31988,
+      "position_value_usd": 749619.46822,
       "leverage": 40,
-      "unrealized_pnl": -1176.60716,
-      "liquidation_price": 142405.5786897628
+      "unrealized_pnl": 380.2445,
+      "liquidation_price": 142175.6196535827
     },
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 208.3333,
       "entry_price": 2400.0,
-      "position_value_usd": 499291.58678,
+      "position_value_usd": 497666.58704,
       "leverage": 25,
-      "unrealized_pnl": 708.33322,
-      "liquidation_price": 5068.0938645609
+      "unrealized_pnl": 2333.33296,
+      "liquidation_price": 5057.6181807671
     },
     {
       "coin": "SOL",
       "side": "SHORT",
       "size": 25413.33,
       "entry_price": 85.3103,
-      "position_value_usd": 2645527.653,
+      "position_value_usd": 2636887.1208,
       "leverage": 20,
-      "unrealized_pnl": -477508.21847,
-      "liquidation_price": 125.8935312051
+      "unrealized_pnl": -468867.68627,
+      "liquidation_price": 125.5317034932
     },
     {
       "coin": "PURR",
       "side": "LONG",
       "size": 12098131.0,
       "entry_price": 0.113181,
-      "position_value_usd": 1158807.379704,
+      "position_value_usd": 1157670.15539,
       "leverage": 3,
-      "unrealized_pnl": -210475.43136,
-      "liquidation_price": 0.0394752341
+      "unrealized_pnl": -211612.655674,
+      "liquidation_price": 0.0394376312
     },
     {
       "coin": "HYPE",
       "side": "LONG",
       "size": 45009.97,
       "entry_price": 52.5944,
-      "position_value_usd": 3499210.09771,
+      "position_value_usd": 3486067.18647,
       "leverage": 10,
-      "unrealized_pnl": 1131936.452015,
-      "liquidation_price": 64.4665881204
+      "unrealized_pnl": 1118793.540775,
+      "liquidation_price": 64.1878853548
     }
   ],
-  "timestamp_ms": 1792717294416
+  "timestamp_ms": 1792717564737
 }
