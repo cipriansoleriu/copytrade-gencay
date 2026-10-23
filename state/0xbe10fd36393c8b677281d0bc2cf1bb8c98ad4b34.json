@@ -1,24 +1,24 @@
 {
-  "account_value": 465544.647682,
+  "account_value": 465242.663942,
   "positions": [
     {
       "coin": "ETH",
       "side": "LONG",
       "size": 1000.0,
       "entry_price": 2548.38,
-      "position_value_usd": 2386900.0,
+      "position_value_usd": 2386000.0,
       "leverage": 25,
-      "unrealized_pnl": -161485.550665,
-      "liquidation_price": 953.833571348
+      "unrealized_pnl": -162385.550665,
+      "liquidation_price": 954.0340544112
     },
     {
       "coin": "TAO",
       "side": "LONG",
       "size": 3500.813,
       "entry_price": 305.589,
-      "position_value_usd": 901984.46945,
+      "position_value_usd": 902054.48571,
       "leverage": 5,
-      "unrealized_pnl": -167827.91028,
+      "unrealized_pnl": -167757.89402,
       "liquidation_price": 0.0
     },
     {
@@ -26,11 +26,11 @@
       "side": "LONG",
       "size": 600000.0,
       "entry_price": 0.724463,
-      "position_value_usd": 416088.0,
+      "position_value_usd": 416616.0,
       "leverage": 5,
-      "unrealized_pnl": -18590.19887,
+      "unrealized_pnl": -18062.19887,
       "liquidation_price": 0.0
     }
   ],
-  "timestamp_ms": 1792713706918
+  "timestamp_ms": 1792713971628
 }
