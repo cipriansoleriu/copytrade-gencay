@@ -1,56 +1,46 @@
 {
-  "account_value": 325505.829582,
+  "account_value": 205146.193795,
   "positions": [
     {
       "coin": "SUI",
       "side": "SHORT",
       "size": 200000.0,
       "entry_price": 0.96054,
-      "position_value_usd": 185152.0,
+      "position_value_usd": 185230.0,
       "leverage": 10,
-      "unrealized_pnl": 6956.748286,
-      "liquidation_price": 17.1773621538
+      "unrealized_pnl": 6878.748286,
+      "liquidation_price": 17.177946187
     },
     {
       "coin": "kBONK",
       "side": "SHORT",
       "size": 100000000.0,
       "entry_price": 0.002479,
-      "position_value_usd": 302300.0,
+      "position_value_usd": 302500.0,
       "leverage": 10,
-      "unrealized_pnl": -54343.505666,
-      "liquidation_price": 0.0355262043
+      "unrealized_pnl": -54543.505666,
+      "liquidation_price": 0.0355285924
     },
     {
       "coin": "HYPE",
       "side": "SHORT",
       "size": 1000.0,
       "entry_price": 92.7068,
-      "position_value_usd": 75524.0,
+      "position_value_usd": 75606.0,
       "leverage": 10,
-      "unrealized_pnl": 17182.84211,
-      "liquidation_price": 3325.8444307676
-    },
-    {
-      "coin": "PENGU",
-      "side": "SHORT",
-      "size": 1511151.0,
-      "entry_price": 0.008824,
-      "position_value_usd": 11300.387178,
-      "leverage": 5,
-      "unrealized_pnl": 2034.797218,
-      "liquidation_price": 2.0606008137
+      "unrealized_pnl": 17100.84211,
+      "liquidation_price": 3325.9652373971
     },
     {
       "coin": "XMR",
       "side": "SHORT",
       "size": 1223.389,
       "entry_price": 568.231,
-      "position_value_usd": 742064.948785,
+      "position_value_usd": 742682.76023,
       "leverage": 5,
-      "unrealized_pnl": -46896.57552,
-      "liquidation_price": 3142.6173864486
+      "unrealized_pnl": -47514.386965,
+      "liquidation_price": 3143.1526652007
     }
   ],
-  "timestamp_ms": 1792862474594
+  "timestamp_ms": 1792862777561
 }
