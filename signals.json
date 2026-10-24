@@ -13869,5 +13869,31 @@
     "leverage": 3,
     "unrealized_pnl": 76904.368753,
     "liquidation_price": 4.8243565306
+  },
+  {
+    "ts": "2026-10-24T09:26:26.743393+00:00",
+    "trader": "0xbe10fd36393c8b677281d0bc2cf1bb8c98ad4b34",
+    "type": "CLOSED",
+    "coin": "ETH",
+    "side": "LONG",
+    "size": 1000.0,
+    "entry_price": 2548.38,
+    "position_value_usd": 2362100.0,
+    "leverage": 25,
+    "unrealized_pnl": -186285.550665,
+    "liquidation_price": 999.7997517112
+  },
+  {
+    "ts": "2026-10-24T09:26:26.743393+00:00",
+    "trader": "0xbe10fd36393c8b677281d0bc2cf1bb8c98ad4b34",
+    "type": "CLOSED",
+    "coin": "ASTER",
+    "side": "LONG",
+    "size": 600000.0,
+    "entry_price": 0.724463,
+    "position_value_usd": 415662.0,
+    "leverage": 5,
+    "unrealized_pnl": -19016.19887,
+    "liquidation_price": 0.0
   }
 ]
