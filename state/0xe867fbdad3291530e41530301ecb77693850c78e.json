@@ -1,26 +1,26 @@
 {
-  "account_value": 89407.99878,
+  "account_value": 92294.0,
   "positions": [
     {
       "coin": "ZEC",
       "side": "LONG",
       "size": 250.0,
       "entry_price": 1426.3372,
-      "position_value_usd": 323075.0,
+      "position_value_usd": 322775.0,
       "leverage": 10,
-      "unrealized_pnl": -33509.301779,
+      "unrealized_pnl": -33809.301779,
       "liquidation_price": 0.0
     },
     {
       "coin": "XMR",
       "side": "LONG",
-      "size": 289.071,
+      "size": 500.0,
       "entry_price": 600.66,
-      "position_value_usd": 173650.73112,
+      "position_value_usd": 300110.0,
       "leverage": 5,
-      "unrealized_pnl": 17.34426,
+      "unrealized_pnl": -220.0,
       "liquidation_price": 0.0
     }
   ],
-  "timestamp_ms": 1793124140596
+  "timestamp_ms": 1793124385848
 }
