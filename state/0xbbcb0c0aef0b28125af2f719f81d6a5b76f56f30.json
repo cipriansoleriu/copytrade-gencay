@@ -1,26 +1,26 @@
 {
-  "account_value": 209014.180392,
+  "account_value": 210473.980392,
   "positions": [
     {
       "coin": "HYPE",
       "side": "SHORT",
       "size": 20000.0,
       "entry_price": 81.227,
-      "position_value_usd": 1626040.0,
+      "position_value_usd": 1624540.0,
       "leverage": 10,
-      "unrealized_pnl": -1499.846101,
-      "liquidation_price": 298.4665557161
+      "unrealized_pnl": 0.153899,
+      "liquidation_price": 298.3730032684
     },
     {
       "coin": "ZEC",
       "side": "SHORT",
       "size": 500.0,
       "entry_price": 1221.6044,
-      "position_value_usd": 656259.8,
+      "position_value_usd": 656300.0,
       "leverage": 5,
-      "unrealized_pnl": -45457.561864,
-      "liquidation_price": 9999.1018286457
+      "unrealized_pnl": -45497.761864,
+      "liquidation_price": 9998.4401307371
     }
   ],
-  "timestamp_ms": 1793144777399
+  "timestamp_ms": 1793145088051
 }
