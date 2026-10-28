@@ -1,46 +1,46 @@
 {
-  "account_value": 515368.750511,
+  "account_value": 521410.202591,
   "positions": [
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 169.0046,
       "entry_price": 2363.59,
-      "position_value_usd": 399070.56198,
+      "position_value_usd": 400456.3997,
       "leverage": 20,
-      "unrealized_pnl": 387.846632,
-      "liquidation_price": 5681.7024160301
+      "unrealized_pnl": -997.991088,
+      "liquidation_price": 5722.7060257415
     },
     {
       "coin": "SOL",
       "side": "SHORT",
       "size": 2889.06,
       "entry_price": 103.7065,
-      "position_value_usd": 296475.3372,
+      "position_value_usd": 297313.1646,
       "leverage": 20,
-      "unrealized_pnl": 3139.0704,
-      "liquidation_price": 295.9098244746
+      "unrealized_pnl": 2301.243,
+      "liquidation_price": 298.1094134846
     },
     {
       "coin": "ENA",
       "side": "LONG",
       "size": 3969204.0,
       "entry_price": 0.204192,
-      "position_value_usd": 843297.08184,
+      "position_value_usd": 847385.36196,
       "leverage": 5,
-      "unrealized_pnl": 32816.72123,
-      "liquidation_price": 0.0606632781
+      "unrealized_pnl": 36905.00135,
+      "liquidation_price": 0.0601936164
     },
     {
       "coin": "0G",
       "side": "LONG",
       "size": 3368417.0,
       "entry_price": 0.221464,
-      "position_value_usd": 673178.13745,
+      "position_value_usd": 677354.97453,
       "leverage": 3,
-      "unrealized_pnl": -72805.560739,
+      "unrealized_pnl": -68628.723659,
       "liquidation_price": 0.0
     }
   ],
-  "timestamp_ms": 1793222170528
+  "timestamp_ms": 1793222488979
 }

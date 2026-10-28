@@ -1,56 +1,56 @@
 {
-  "account_value": 1250275.444437,
+  "account_value": 1246581.254607,
   "positions": [
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 9.21214,
       "entry_price": 81414.2,
-      "position_value_usd": 749462.86184,
+      "position_value_usd": 750080.07522,
       "leverage": 40,
-      "unrealized_pnl": 536.85088,
-      "liquidation_price": 165323.5355675457
+      "unrealized_pnl": -80.3625,
+      "liquidation_price": 164742.8993109388
     },
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 208.3333,
       "entry_price": 2400.0,
-      "position_value_usd": 491937.42129,
+      "position_value_usd": 493645.75435,
       "leverage": 25,
-      "unrealized_pnl": 8062.49871,
-      "liquidation_price": 6046.8991862427
+      "unrealized_pnl": 6354.16565,
+      "liquidation_price": 6026.6723943429
     },
     {
       "coin": "SOL",
       "side": "SHORT",
       "size": 30310.49,
       "entry_price": 88.0305,
-      "position_value_usd": 3110462.4838,
+      "position_value_usd": 3119252.5259,
       "leverage": 20,
-      "unrealized_pnl": -442214.19667,
-      "liquidation_price": 127.828682338
+      "unrealized_pnl": -451004.23877,
+      "liquidation_price": 127.9242493759
     },
     {
       "coin": "PURR",
       "side": "LONG",
       "size": 13140536.0,
       "entry_price": 0.1122,
-      "position_value_usd": 1343751.21136,
+      "position_value_usd": 1347299.15608,
       "leverage": 3,
-      "unrealized_pnl": -130621.327654,
-      "liquidation_price": 0.0307387438
+      "unrealized_pnl": -127073.382934,
+      "liquidation_price": 0.0315603827
     },
     {
       "coin": "HYPE",
       "side": "LONG",
       "size": 45009.97,
       "entry_price": 52.5944,
-      "position_value_usd": 3654674.53409,
+      "position_value_usd": 3657465.15223,
       "leverage": 10,
-      "unrealized_pnl": 1287400.888395,
-      "liquidation_price": 62.8808311071
+      "unrealized_pnl": 1290191.506535,
+      "liquidation_price": 63.0841025518
     }
   ],
-  "timestamp_ms": 1793222171593
+  "timestamp_ms": 1793222490266
 }
