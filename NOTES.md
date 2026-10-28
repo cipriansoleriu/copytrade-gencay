@@ -4,6 +4,12 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-28
 
+### 07:16 UTC — Position poll (Job B)
+- 2 signals (0 applied to the paper book)
+- NEW LONG PENDLE x5 — 0xaf0fdd39...
+- NEW SHORT HYPE x5 — 0xaf0fdd39...
+- Portfolio: $10,034.01 (+0.34%)
+
 ### 07:13 UTC — Daily refresh (Job A)
 - Leaderboard: 47887 traders fetched, 5 shortlisted
 - Shortlist change: +5 new, -5 dropped
