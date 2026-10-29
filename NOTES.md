@@ -4,6 +4,14 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-29
 
+### 07:16 UTC — Position poll (Job B)
+- 4 signals (0 applied to the paper book)
+- NEW LONG kPEPE x4 — 0x4b673377...
+- NEW SHORT TRUMP x10 — 0xa20fb0c9...
+- CLOSED SHORT SEI x5 — 0xa20fb0c9...
+- CLOSED SHORT TAO x5 — 0xc435249d...
+- Portfolio: $9,983.30 (-0.17%)
+
 ### 07:13 UTC — Daily refresh (Job A)
 - Leaderboard: 47740 traders fetched, 5 shortlisted
 - Shortlist change: +5 new, -5 dropped

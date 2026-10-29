@@ -14259,5 +14259,57 @@
     "leverage": 5,
     "unrealized_pnl": 18.00545,
     "liquidation_price": 159320.7259644516
+  },
+  {
+    "ts": "2026-10-29T07:16:20.741325+00:00",
+    "trader": "0x4b67337795c5e1ca1aaea307f57b79419c632c88",
+    "type": "NEW",
+    "coin": "kPEPE",
+    "side": "LONG",
+    "size": 653642026.0,
+    "entry_price": 0.004576,
+    "position_value_usd": 3276053.834312,
+    "leverage": 4,
+    "unrealized_pnl": 284511.504341,
+    "liquidation_price": 0.0038413952
+  },
+  {
+    "ts": "2026-10-29T07:16:21.380761+00:00",
+    "trader": "0xa20fb0c9e04063eec5be286e9269028d966646fa",
+    "type": "NEW",
+    "coin": "TRUMP",
+    "side": "SHORT",
+    "size": 7.4,
+    "entry_price": 1.6911,
+    "position_value_usd": 12.3321,
+    "leverage": 10,
+    "unrealized_pnl": 0.18204,
+    "liquidation_price": 242594.3528214929
+  },
+  {
+    "ts": "2026-10-29T07:16:21.380761+00:00",
+    "trader": "0xa20fb0c9e04063eec5be286e9269028d966646fa",
+    "type": "CLOSED",
+    "coin": "SEI",
+    "side": "SHORT",
+    "size": 327780.0,
+    "entry_price": 0.075795,
+    "position_value_usd": 16939.01484,
+    "leverage": 5,
+    "unrealized_pnl": 7905.07026,
+    "liquidation_price": 5.2057792847
+  },
+  {
+    "ts": "2026-10-29T07:16:21.640328+00:00",
+    "trader": "0xc435249d0e837efa5eb431ad74c9fa8889f2c905",
+    "type": "CLOSED",
+    "coin": "TAO",
+    "side": "SHORT",
+    "size": 3.492,
+    "entry_price": 291.421,
+    "position_value_usd": 896.3964,
+    "leverage": 5,
+    "unrealized_pnl": 121.24858,
+    "liquidation_price": 735883.6504347599
   }
 ]
