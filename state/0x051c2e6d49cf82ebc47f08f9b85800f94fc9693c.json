@@ -1,46 +1,56 @@
 {
-  "account_value": 977802.864638,
+  "account_value": 1341270.139533,
   "positions": [
     {
       "coin": "BTC",
       "side": "LONG",
-      "size": 24.97955,
-      "entry_price": 80069.7,
-      "position_value_usd": 1991002.526615,
+      "size": 37.66081,
+      "entry_price": 79657.1,
+      "position_value_usd": 2970006.79822,
       "leverage": 21,
-      "unrealized_pnl": -9103.225485,
-      "liquidation_price": 10964.4023789891
+      "unrealized_pnl": -29946.40316,
+      "liquidation_price": 40294.0086262522
+    },
+    {
+      "coin": "ETH",
+      "side": "LONG",
+      "size": 442.3852,
+      "entry_price": 2259.27,
+      "position_value_usd": 999657.83644,
+      "leverage": 8,
+      "unrealized_pnl": 189.39704,
+      "liquidation_price": 0.0
     },
     {
       "coin": "SOL",
       "side": "LONG",
       "size": 25139.7,
       "entry_price": 89.7608,
-      "position_value_usd": 2467511.8344,
+      "position_value_usd": 2425930.7706,
       "leverage": 20,
-      "unrealized_pnl": 210950.506247,
-      "liquidation_price": 28.9733301791
+      "unrealized_pnl": 169369.442447,
+      "liquidation_price": 37.9800537597
     },
     {
       "coin": "STRK",
       "side": "LONG",
       "size": 45960116.1,
       "entry_price": 0.06535,
-      "position_value_usd": 2048442.374577,
+      "position_value_usd": 1972148.581851,
       "leverage": 5,
-      "unrealized_pnl": -955233.117469,
-      "liquidation_price": 0.0035766617
+      "unrealized_pnl": -1031526.910195,
+      "liquidation_price": 0.0082339073
     },
     {
       "coin": "XPL",
       "side": "LONG",
       "size": 24951445.0,
       "entry_price": 0.080466,
-      "position_value_usd": 1852021.005125,
+      "position_value_usd": 1748297.84826,
       "leverage": 6,
-      "unrealized_pnl": -155729.167394,
-      "liquidation_price": 0.0026901606
+      "unrealized_pnl": -259452.324259,
+      "liquidation_price": 0.0095569798
     }
   ],
-  "timestamp_ms": 1793306473705
+  "timestamp_ms": 1793306802609
 }

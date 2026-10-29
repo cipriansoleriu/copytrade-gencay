@@ -14363,5 +14363,31 @@
     "leverage": 5,
     "unrealized_pnl": 56659.147592,
     "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-10-29T20:46:43.627385+00:00",
+    "trader": "0x47f5a6397b79deaaca5c456503e7c1a49357b942",
+    "type": "CLOSED",
+    "coin": "ETC",
+    "side": "SHORT",
+    "size": 5116.95,
+    "entry_price": 9.4387,
+    "position_value_usd": 37224.78786,
+    "leverage": 5,
+    "unrealized_pnl": 11072.586081,
+    "liquidation_price": 415.820797563
+  },
+  {
+    "ts": "2026-10-29T20:46:43.627385+00:00",
+    "trader": "0x47f5a6397b79deaaca5c456503e7c1a49357b942",
+    "type": "CLOSED",
+    "coin": "HBAR",
+    "side": "SHORT",
+    "size": 1840674.0,
+    "entry_price": 0.109358,
+    "position_value_usd": 130455.929076,
+    "leverage": 5,
+    "unrealized_pnl": 70837.261684,
+    "liquidation_price": 1.206604413
   }
 ]
