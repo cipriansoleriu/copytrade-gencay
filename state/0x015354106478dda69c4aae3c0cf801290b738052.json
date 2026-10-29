@@ -1,16 +1,26 @@
 {
-  "account_value": 5039700.597598,
+  "account_value": 6023580.955573,
   "positions": [
+    {
+      "coin": "UNI",
+      "side": "SHORT",
+      "size": 151315.6,
+      "entry_price": 6.59669,
+      "position_value_usd": 998864.53872,
+      "leverage": 1,
+      "unrealized_pnl": -682.38639,
+      "liquidation_price": 12.6097514051
+    },
     {
       "coin": "ZEC",
       "side": "SHORT",
       "size": 3698.18,
       "entry_price": 1307.8245,
-      "position_value_usd": 4686333.696,
+      "position_value_usd": 4707043.504,
       "leverage": 1,
-      "unrealized_pnl": 150237.051323,
+      "unrealized_pnl": 129527.243323,
       "liquidation_price": 2504.7157800396
     }
   ],
-  "timestamp_ms": 1793310383437
+  "timestamp_ms": 1793310685269
 }
