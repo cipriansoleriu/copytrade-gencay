@@ -1,36 +1,46 @@
 {
-  "account_value": 1216058.246556,
+  "account_value": 997539.551662,
   "positions": [
     {
       "coin": "SOL",
       "side": "LONG",
       "size": 25139.7,
       "entry_price": 89.7608,
-      "position_value_usd": 2467210.158,
+      "position_value_usd": 2461553.7255,
       "leverage": 20,
-      "unrealized_pnl": 210648.829847,
-      "liquidation_price": 38.9873386449
+      "unrealized_pnl": 204992.397347,
+      "liquidation_price": 39.4592830725
     },
     {
       "coin": "STRK",
       "side": "LONG",
       "size": 45960116.1,
       "entry_price": 0.06535,
-      "position_value_usd": 2063149.611729,
+      "position_value_usd": 2071422.432627,
       "leverage": 5,
-      "unrealized_pnl": -940525.880317,
-      "liquidation_price": 0.0098377929
+      "unrealized_pnl": -932253.059419,
+      "liquidation_price": 0.0104307826
     },
     {
       "coin": "XPL",
       "side": "LONG",
       "size": 24951445.0,
       "entry_price": 0.080466,
-      "position_value_usd": 1932464.463805,
+      "position_value_usd": 1921361.07078,
       "leverage": 6,
-      "unrealized_pnl": -75285.708714,
-      "liquidation_price": 0.0162816468
+      "unrealized_pnl": -86389.101739,
+      "liquidation_price": 0.0165573286
+    },
+    {
+      "coin": "AZTEC",
+      "side": "LONG",
+      "size": 3541889.0,
+      "entry_price": 0.014785,
+      "position_value_usd": 52706.850209,
+      "leverage": 3,
+      "unrealized_pnl": 337.037427,
+      "liquidation_price": 0.0
     }
   ],
-  "timestamp_ms": 1793345500089
+  "timestamp_ms": 1793345766699
 }
