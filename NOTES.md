@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-30
 
+### 00:41 UTC — Position poll (Job B)
+- 1 signals (1 applied to the paper book)
+- CLOSED SHORT BTC x20 — 0xb829fd12...
+- Portfolio: $9,780.90 (-2.19%)
+
 ### 00:16 UTC — Position poll (Job B)
 - 1 signals (1 applied to the paper book)
 - CLOSED LONG PUMP x10 — 0x4cae5bed...
