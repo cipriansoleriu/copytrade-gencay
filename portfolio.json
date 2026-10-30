@@ -1,5 +1,5 @@
 {
-  "cash": -469.2373855599241,
+  "cash": -459.6993783978644,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x08c14b32c8a48894e4b933090ebcc9ce33b21135:BTC:SHORT": {
@@ -1761,17 +1761,6 @@
       "margin": 14.52615101126559,
       "leverage": 3,
       "opened_at": "2026-09-18T06:15:57.955995+00:00"
-    },
-    "0x4cae5bed586f6e73ae54ebd40a4ac4ed2c477c34:PUMP:LONG": {
-      "trader": "0x4cae5bed586f6e73ae54ebd40a4ac4ed2c477c34",
-      "coin": "PUMP",
-      "side": "LONG",
-      "size": 9203.909836933928,
-      "entry_price": 0.0042731355,
-      "notional": 39.32955386300158,
-      "margin": 13.109851287667192,
-      "leverage": 3,
-      "opened_at": "2026-09-18T06:15:57.956031+00:00"
     },
     "0x4cae5bed586f6e73ae54ebd40a4ac4ed2c477c34:ZEC:LONG": {
       "trader": "0x4cae5bed586f6e73ae54ebd40a4ac4ed2c477c34",
@@ -98067,7 +98056,12 @@
       "ts": "2026-10-30T00:11:34.401383+00:00",
       "equity": 9808.77393438979,
       "cash": -469.2373855599241
+    },
+    {
+      "ts": "2026-10-30T00:16:37.701460+00:00",
+      "equity": 9792.985091979323,
+      "cash": -459.6993783978644
     }
   ],
-  "last_processed_signal_index": 1117
+  "last_processed_signal_index": 1118
 }
