@@ -14584,5 +14584,31 @@
     "leverage": 10,
     "unrealized_pnl": 24714.295702,
     "liquidation_price": 1898474.3360236445
+  },
+  {
+    "ts": "2026-10-30T01:06:23.621032+00:00",
+    "trader": "0x3ee505ba316879d246a8fd2b3d7ee63b51b44fab",
+    "type": "CLOSED",
+    "coin": "ETH",
+    "side": "SHORT",
+    "size": 227.1669,
+    "entry_price": 2759.35,
+    "position_value_usd": 504651.26835,
+    "leverage": 20,
+    "unrealized_pnl": 122183.045826,
+    "liquidation_price": 5594.2647822752
+  },
+  {
+    "ts": "2026-10-30T01:06:26.773071+00:00",
+    "trader": "0x880ac484a1743862989a441d6d867238c7aa311c",
+    "type": "CLOSED",
+    "coin": "FARTCOIN",
+    "side": "SHORT",
+    "size": 3450.9,
+    "entry_price": 0.18142,
+    "position_value_usd": 393.644163,
+    "leverage": 3,
+    "unrealized_pnl": 232.429919,
+    "liquidation_price": 2227.0368475884
   }
 ]
