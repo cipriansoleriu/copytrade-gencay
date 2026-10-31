@@ -2,6 +2,29 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-10-31
+
+### 07:14 UTC — Daily refresh (Job A)
+- Leaderboard: 48246 traders fetched, 5 shortlisted
+- Shortlist change: +3 new, -3 dropped
+-   +0xacb66d1996501bcc82a0e7819c9e041599f5efbd
+-   +0x781e95fdc049433565cf8e05265361b8402196b7
+-   +0x641edd3f198101eb13ce9228a415cbf02b62b6c8
+-   -0xba5d9cc840745aeeeeedac5712e32f13ab8ea352
+-   -0xfb1898bb5955fdd11704e397104c6a0e0725eb17
+-   -0x47f5a6397b79deaaca5c456503e7c1a49357b942
+- #1 0xca4903c2... acc=$17,713,915 month=$8,847,514 edge=2674bps
+- #2 0xacb66d19... acc=$6,510,326 month=$2,834,729 edge=2608bps
+- #3 0x5b5d5120... acc=$207,097,702 month=$124,849,432 edge=4878bps
+- #4 0x781e95fd... acc=$3,861,374 month=$2,246,872 edge=2070bps
+- #5 0x641edd3f... acc=$1,055,453 month=$534,064 edge=851bps
+- Current positions across the shortlist:
+-   0xca4903c2... 5 positions: SHORT BTC x40, SHORT ETH x25, SHORT SOL x20, SHORT DOGE x10, SHORT XRP x20
+-   0xacb66d19... 14 positions: SHORT BTC x20, SHORT ETH x10, SHORT SOL x20, SHORT OP x5, SHORT XRP x20, LONG WLD x10, LONG JUP x10, SHORT ENS x5, SHORT STRK x5, SHORT HBAR x5, SHORT EIGEN x5, SHORT PAXG x10, LONG PUMP x10, LONG ASTER x5
+-   0x5b5d5120... 22 positions: SHORT BTC x5, SHORT ETH x5, SHORT SOL x7, SHORT BNB x3, SHORT DOGE x3, SHORT INJ x3, SHORT SUI x3, SHORT LINK x3, SHORT XRP x5, SHORT WLD x2, SHORT ZRO x3, SHORT NEAR x3, SHORT ONDO x3, SHORT ENA x3, SHORT PURR x3, SHORT HYPE x5, SHORT FARTCOIN x3, SHORT VVV x3, SHORT PUMP x5, SHORT XPL x3, SHORT ZEC x3, SHORT XMR x3
+-   0x781e95fd... 9 positions: SHORT BTC x40, SHORT TRX x10, SHORT NEAR x10, SHORT TAO x5, SHORT HYPE x10, SHORT PAXG x10, SHORT XPL x10, SHORT MON x5, SHORT AERO x3
+-   0x641edd3f... 16 positions: SHORT BNB x10, SHORT SUI x10, SHORT WLD x10, SHORT NEAR x10, SHORT STRK x5, SHORT BOME x3, SHORT REZ x3, SHORT GRIFFAIN x3, SHORT VVV x3, SHORT NIL x3, SHORT ZORA x3, SHORT PUMP x10, SHORT 0G x3, SHORT MON x5, SHORT MEGA x3, SHORT CHIP x3
+
 ## 2026-10-30
 
 ### 22:31 UTC — Position poll (Job B)
