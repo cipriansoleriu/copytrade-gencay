@@ -4,6 +4,13 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-01
 
+### 07:16 UTC — Position poll (Job B)
+- 3 signals (0 applied to the paper book)
+- NEW LONG ZRO x3 — 0x106b01c7...
+- NEW LONG HYPE x5 — 0xaf0fdd39...
+- NEW LONG LIT x5 — 0xaf0fdd39...
+- Portfolio: $10,268.32 (+2.68%)
+
 ### 07:13 UTC — Daily refresh (Job A)
 - Leaderboard: 48257 traders fetched, 5 shortlisted
 - Shortlist change: +5 new, -5 dropped
