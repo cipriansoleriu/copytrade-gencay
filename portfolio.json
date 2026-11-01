@@ -1,5 +1,5 @@
 {
-  "cash": -436.86620630781835,
+  "cash": -407.0332968145972,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x08c14b32c8a48894e4b933090ebcc9ce33b21135:BTC:SHORT": {
@@ -2279,17 +2279,6 @@
       "leverage": 3,
       "opened_at": "2026-10-05T06:16:06.332957+00:00"
     },
-    "0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66:BTC:SHORT": {
-      "trader": "0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66",
-      "coin": "BTC",
-      "side": "SHORT",
-      "size": 0.00013893123482040305,
-      "entry_price": 85082.93725,
-      "notional": 11.820677534289368,
-      "margin": 3.940225844763123,
-      "leverage": 3,
-      "opened_at": "2026-10-06T06:16:10.077830+00:00"
-    },
     "0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66:ETH:SHORT": {
       "trader": "0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66",
       "coin": "ETH",
@@ -2300,61 +2289,6 @@
       "margin": 3.7432145525249667,
       "leverage": 3,
       "opened_at": "2026-10-06T06:16:10.077851+00:00"
-    },
-    "0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66:SOL:SHORT": {
-      "trader": "0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66",
-      "coin": "SOL",
-      "side": "SHORT",
-      "size": 0.08949396909242492,
-      "entry_price": 119.20536750000001,
-      "notional": 10.668161474696156,
-      "margin": 3.5560538248987186,
-      "leverage": 3,
-      "opened_at": "2026-10-06T06:16:10.077859+00:00"
-    },
-    "0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66:AVAX:SHORT": {
-      "trader": "0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66",
-      "coin": "AVAX",
-      "side": "SHORT",
-      "size": 0.9035262475043578,
-      "entry_price": 11.21688875,
-      "notional": 10.134753400961348,
-      "margin": 3.3782511336537824,
-      "leverage": 3,
-      "opened_at": "2026-10-06T06:16:10.077864+00:00"
-    },
-    "0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66:BNB:SHORT": {
-      "trader": "0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66",
-      "coin": "BNB",
-      "side": "SHORT",
-      "size": 0.0123720703921638,
-      "entry_price": 778.2057025,
-      "notional": 9.628015730913281,
-      "margin": 3.209338576971094,
-      "leverage": 3,
-      "opened_at": "2026-10-06T06:16:10.077869+00:00"
-    },
-    "0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66:XRP:SHORT": {
-      "trader": "0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66",
-      "coin": "XRP",
-      "side": "SHORT",
-      "size": 6.132478163603574,
-      "entry_price": 1.4915038750000003,
-      "notional": 9.146614944367617,
-      "margin": 3.048871648122539,
-      "leverage": 3,
-      "opened_at": "2026-10-06T06:16:10.077873+00:00"
-    },
-    "0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66:ADA:SHORT": {
-      "trader": "0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66",
-      "coin": "ADA",
-      "side": "SHORT",
-      "size": 32.50502332226193,
-      "entry_price": 0.26732127250000004,
-      "notional": 8.689284197149236,
-      "margin": 2.896428065716412,
-      "leverage": 3,
-      "opened_at": "2026-10-06T06:16:10.077877+00:00"
     },
     "0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66:NEAR:LONG": {
       "trader": "0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66",
@@ -101492,7 +101426,12 @@
       "ts": "2026-11-01T10:21:36.329803+00:00",
       "equity": 10271.05283116381,
       "cash": -436.86620630781835
+    },
+    {
+      "ts": "2026-11-01T10:26:34.846406+00:00",
+      "equity": 10264.401795910457,
+      "cash": -407.0332968145972
     }
   ],
-  "last_processed_signal_index": 1185
+  "last_processed_signal_index": 1191
 }
