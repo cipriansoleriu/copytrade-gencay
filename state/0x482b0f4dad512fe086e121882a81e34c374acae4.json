@@ -1,44 +1,44 @@
 {
-  "account_value": 1201042.46503,
+  "account_value": 1212500.666082,
   "positions": [
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 9.21214,
       "entry_price": 81414.2,
-      "position_value_usd": 716133.33932,
+      "position_value_usd": 716316.660906,
       "leverage": 40,
-      "unrealized_pnl": 33866.3734,
-      "liquidation_price": 241551.9294353584
+      "unrealized_pnl": 33683.051814,
+      "liquidation_price": 242689.036987505
     },
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 208.3333,
       "entry_price": 2400.0,
-      "position_value_usd": 470545.758046,
+      "position_value_usd": 470708.25802,
       "leverage": 25,
-      "unrealized_pnl": 29454.161954,
-      "liquidation_price": 9448.9285036592
+      "unrealized_pnl": 29291.66198,
+      "liquidation_price": 9498.7462563735
     },
     {
       "coin": "SOL",
       "side": "SHORT",
       "size": 30310.49,
       "entry_price": 88.0305,
-      "position_value_usd": 2848246.43481,
+      "position_value_usd": 2849519.47539,
       "leverage": 20,
-      "unrealized_pnl": -179998.14768,
-      "liquidation_price": 143.1491180273
+      "unrealized_pnl": -181271.18826,
+      "liquidation_price": 143.5265253975
     },
     {
       "coin": "PURR",
       "side": "LONG",
       "size": 13140536.0,
       "entry_price": 0.1122,
-      "position_value_usd": 1551739.615168,
+      "position_value_usd": 1553474.16592,
       "leverage": 3,
-      "unrealized_pnl": 77367.076154,
+      "unrealized_pnl": 79101.626906,
       "liquidation_price": 0.0
     },
     {
@@ -46,11 +46,11 @@
       "side": "LONG",
       "size": 45009.97,
       "entry_price": 52.5944,
-      "position_value_usd": 3917892.83865,
+      "position_value_usd": 3929235.35109,
       "leverage": 10,
-      "unrealized_pnl": 1550619.192955,
-      "liquidation_price": 51.3116230672
+      "unrealized_pnl": 1561961.705395,
+      "liquidation_price": 51.3199221883
     }
   ],
-  "timestamp_ms": 1793560878565
+  "timestamp_ms": 1793561178789
 }
