@@ -15572,5 +15572,70 @@
     "leverage": 10,
     "unrealized_pnl": -3194.785608,
     "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-11-02T07:16:31.556219+00:00",
+    "trader": "0x138bda71236352d996b903b090f09fdb25f442d7",
+    "type": "NEW",
+    "coin": "CASHCAT",
+    "side": "LONG",
+    "size": 4061087.0,
+    "entry_price": 0.112706,
+    "position_value_usd": 403773.574975,
+    "leverage": 2,
+    "unrealized_pnl": -53935.817865,
+    "liquidation_price": 0.0607093068
+  },
+  {
+    "ts": "2026-11-02T07:16:32.511432+00:00",
+    "trader": "0x47f5a6397b79deaaca5c456503e7c1a49357b942",
+    "type": "NEW",
+    "coin": "DOT",
+    "side": "SHORT",
+    "size": 1637.7,
+    "entry_price": 0.95423,
+    "position_value_usd": 1560.711723,
+    "leverage": 10,
+    "unrealized_pnl": 2.030748,
+    "liquidation_price": 1113.7113132331
+  },
+  {
+    "ts": "2026-11-02T07:16:32.511432+00:00",
+    "trader": "0x47f5a6397b79deaaca5c456503e7c1a49357b942",
+    "type": "CLOSED",
+    "coin": "IOTA",
+    "side": "LONG",
+    "size": 332463.0,
+    "entry_price": 0.033829,
+    "position_value_usd": 13140.932538,
+    "leverage": 3,
+    "unrealized_pnl": 1893.750643,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-11-02T07:16:33.022873+00:00",
+    "trader": "0xc435249d0e837efa5eb431ad74c9fa8889f2c905",
+    "type": "NEW",
+    "coin": "PENDLE",
+    "side": "SHORT",
+    "size": 100000.0,
+    "entry_price": 1.875906,
+    "position_value_usd": 181260.0,
+    "leverage": 5,
+    "unrealized_pnl": 6330.6555,
+    "liquidation_price": 17.3217153477
+  },
+  {
+    "ts": "2026-11-02T07:16:33.022873+00:00",
+    "trader": "0xc435249d0e837efa5eb431ad74c9fa8889f2c905",
+    "type": "CLOSED",
+    "coin": "ASTER",
+    "side": "SHORT",
+    "size": 589923.0,
+    "entry_price": 0.725882,
+    "position_value_usd": 410320.94265,
+    "leverage": 5,
+    "unrealized_pnl": 17894.01297,
+    "liquidation_price": 4.5265019229
   }
 ]
