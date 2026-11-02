@@ -1,36 +1,36 @@
 {
-  "account_value": 346020.636792,
+  "account_value": 344028.360592,
   "positions": [
     {
       "coin": "XRP",
       "side": "SHORT",
       "size": 400609.0,
       "entry_price": 1.248098,
-      "position_value_usd": 499278.9967,
+      "position_value_usd": 500000.0929,
       "leverage": 20,
-      "unrealized_pnl": 720.4947,
-      "liquidation_price": 2.3707208265
+      "unrealized_pnl": -0.6015,
+      "liquidation_price": 2.3673642344
     },
     {
       "coin": "kBONK",
       "side": "SHORT",
       "size": 100000000.0,
       "entry_price": 0.002479,
-      "position_value_usd": 276300.0,
+      "position_value_usd": 276700.0,
       "leverage": 10,
-      "unrealized_pnl": -28343.505666,
-      "liquidation_price": 0.0071602803
+      "unrealized_pnl": -28743.505666,
+      "liquidation_price": 0.0071441144
     },
     {
       "coin": "XMR",
       "side": "SHORT",
       "size": 2177.95,
       "entry_price": 618.94,
-      "position_value_usd": 1314349.266,
+      "position_value_usd": 1315220.446,
       "leverage": 5,
-      "unrealized_pnl": 33671.440976,
-      "liquidation_price": 796.2026939595
+      "unrealized_pnl": 32800.260976,
+      "liquidation_price": 795.7188680077
     }
   ],
-  "timestamp_ms": 1793649091428
+  "timestamp_ms": 1793649375413
 }
