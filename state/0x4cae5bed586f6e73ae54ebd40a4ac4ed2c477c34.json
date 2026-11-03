@@ -1,24 +1,24 @@
 {
-  "account_value": 642435.848476,
+  "account_value": 583875.058558,
   "positions": [
     {
       "coin": "NEAR",
       "side": "LONG",
-      "size": 180000.0,
+      "size": 80000.0,
       "entry_price": 3.78417,
-      "position_value_usd": 675702.0,
+      "position_value_usd": 300600.0,
       "leverage": 10,
-      "unrealized_pnl": -5448.9329,
-      "liquidation_price": 1.2039257791
+      "unrealized_pnl": -2133.747915,
+      "liquidation_price": 0.0
     },
     {
       "coin": "ENA",
       "side": "LONG",
       "size": 145000.0,
       "entry_price": 0.168714,
-      "position_value_usd": 24219.35,
+      "position_value_usd": 24225.15,
       "leverage": 10,
-      "unrealized_pnl": -244.19332,
+      "unrealized_pnl": -238.39332,
       "liquidation_price": 0.0
     },
     {
@@ -26,31 +26,31 @@
       "side": "LONG",
       "size": 32003.82,
       "entry_price": 79.9336,
-      "position_value_usd": 2659613.45346,
+      "position_value_usd": 2655228.93012,
       "leverage": 10,
-      "unrealized_pnl": 101430.704705,
-      "liquidation_price": 68.7611070707
+      "unrealized_pnl": 97046.181365,
+      "liquidation_price": 67.3239719224
     },
     {
       "coin": "ZEC",
       "side": "LONG",
-      "size": 1000.0,
+      "size": 500.0,
       "entry_price": 1135.5791,
-      "position_value_usd": 1130500.0,
+      "position_value_usd": 564700.0,
       "leverage": 10,
-      "unrealized_pnl": -5079.148361,
-      "liquidation_price": 671.5046402316
+      "unrealized_pnl": -3089.574068,
+      "liquidation_price": 128.1906979368
     },
     {
       "coin": "LIT",
       "side": "LONG",
       "size": 376624.0,
       "entry_price": 2.969746,
-      "position_value_usd": 1151791.5168,
+      "position_value_usd": 1150661.6448,
       "leverage": 5,
-      "unrealized_pnl": 33313.57673,
-      "liquidation_price": 1.7717840999
+      "unrealized_pnl": 32183.70473,
+      "liquidation_price": 1.6521666815
     }
   ],
-  "timestamp_ms": 1793694374925
+  "timestamp_ms": 1793694714517
 }
