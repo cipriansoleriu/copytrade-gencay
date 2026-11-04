@@ -1,5 +1,5 @@
 {
-  "cash": -351.6910973829943,
+  "cash": -344.7735451447129,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x08c14b32c8a48894e4b933090ebcc9ce33b21135:BTC:SHORT": {
@@ -2389,17 +2389,6 @@
       "leverage": 3,
       "opened_at": "2026-10-08T06:16:14.047515+00:00"
     },
-    "0x675462411d40a169c3397ac1dc00786dc9c7d3a1:TAO:SHORT": {
-      "trader": "0x675462411d40a169c3397ac1dc00786dc9c7d3a1",
-      "coin": "TAO",
-      "side": "SHORT",
-      "size": 0.027103024515684276,
-      "entry_price": 283.9429575,
-      "notional": 7.6957129381783975,
-      "margin": 2.5652376460594657,
-      "leverage": 3,
-      "opened_at": "2026-10-08T06:16:14.047519+00:00"
-    },
     "0x675462411d40a169c3397ac1dc00786dc9c7d3a1:ENA:SHORT": {
       "trader": "0x675462411d40a169c3397ac1dc00786dc9c7d3a1",
       "coin": "ENA",
@@ -2432,17 +2421,6 @@
       "margin": 1.9849319906781868,
       "leverage": 3,
       "opened_at": "2026-10-08T06:16:14.047538+00:00"
-    },
-    "0x675462411d40a169c3397ac1dc00786dc9c7d3a1:SKY:SHORT": {
-      "trader": "0x675462411d40a169c3397ac1dc00786dc9c7d3a1",
-      "coin": "SKY",
-      "side": "SHORT",
-      "size": 71.48487062356115,
-      "entry_price": 0.079136412,
-      "notional": 5.657056173432832,
-      "margin": 1.8856853911442775,
-      "leverage": 3,
-      "opened_at": "2026-10-08T06:16:14.047541+00:00"
     },
     "0x675462411d40a169c3397ac1dc00786dc9c7d3a1:MET:SHORT": {
       "trader": "0x675462411d40a169c3397ac1dc00786dc9c7d3a1",
@@ -105798,7 +105776,12 @@
       "ts": "2026-11-04T13:16:28.990621+00:00",
       "equity": 10306.490372878425,
       "cash": -351.6910973829943
+    },
+    {
+      "ts": "2026-11-04T13:21:50.212685+00:00",
+      "equity": 10306.204013605837,
+      "cash": -344.7735451447129
     }
   ],
-  "last_processed_signal_index": 1238
+  "last_processed_signal_index": 1240
 }
