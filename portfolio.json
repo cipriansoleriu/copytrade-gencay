@@ -1,5 +1,5 @@
 {
-  "cash": -344.7735451447129,
+  "cash": -317.9576950449742,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x08c14b32c8a48894e4b933090ebcc9ce33b21135:BTC:SHORT": {
@@ -1728,28 +1728,6 @@
       "margin": 14.948218689963731,
       "leverage": 3,
       "opened_at": "2026-09-17T06:15:58.951373+00:00"
-    },
-    "0x4cae5bed586f6e73ae54ebd40a4ac4ed2c477c34:ENA:LONG": {
-      "trader": "0x4cae5bed586f6e73ae54ebd40a4ac4ed2c477c34",
-      "coin": "ENA",
-      "side": "LONG",
-      "size": 279.866511578938,
-      "entry_price": 0.1639069125,
-      "notional": 45.87205582504923,
-      "margin": 15.29068527501641,
-      "leverage": 3,
-      "opened_at": "2026-09-18T06:15:57.955991+00:00"
-    },
-    "0x4cae5bed586f6e73ae54ebd40a4ac4ed2c477c34:HYPE:LONG": {
-      "trader": "0x4cae5bed586f6e73ae54ebd40a4ac4ed2c477c34",
-      "coin": "HYPE",
-      "side": "LONG",
-      "size": 0.4967544800438918,
-      "entry_price": 87.72634125,
-      "notional": 43.57845303379677,
-      "margin": 14.52615101126559,
-      "leverage": 3,
-      "opened_at": "2026-09-18T06:15:57.955995+00:00"
     },
     "0x4cae5bed586f6e73ae54ebd40a4ac4ed2c477c34:ZEC:LONG": {
       "trader": "0x4cae5bed586f6e73ae54ebd40a4ac4ed2c477c34",
@@ -107306,7 +107284,12 @@
       "ts": "2026-11-05T15:06:33.605290+00:00",
       "equity": 10290.073742505145,
       "cash": -344.7735451447129
+    },
+    {
+      "ts": "2026-11-05T15:11:45.889900+00:00",
+      "equity": 10247.158909651253,
+      "cash": -317.9576950449742
     }
   ],
-  "last_processed_signal_index": 1259
+  "last_processed_signal_index": 1261
 }
