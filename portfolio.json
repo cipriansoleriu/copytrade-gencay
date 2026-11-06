@@ -1,5 +1,5 @@
 {
-  "cash": -302.66263336683545,
+  "cash": -294.1395829791032,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x08c14b32c8a48894e4b933090ebcc9ce33b21135:BTC:SHORT": {
@@ -1189,17 +1189,6 @@
       "margin": 4.25496226586485,
       "leverage": 3,
       "opened_at": "2026-09-08T06:15:42.945568+00:00"
-    },
-    "0xeadc152ac1014ace57c6b353f89adf5faffe9d55:kPEPE:LONG": {
-      "trader": "0xeadc152ac1014ace57c6b353f89adf5faffe9d55",
-      "coin": "kPEPE",
-      "side": "LONG",
-      "size": 3203.8266717584675,
-      "entry_price": 0.003595797,
-      "notional": 11.520310334829082,
-      "margin": 3.8401034449430274,
-      "leverage": 3,
-      "opened_at": "2026-09-08T06:15:42.945578+00:00"
     },
     "0xeadc152ac1014ace57c6b353f89adf5faffe9d55:LINK:LONG": {
       "trader": "0xeadc152ac1014ace57c6b353f89adf5faffe9d55",
@@ -108569,7 +108558,12 @@
       "ts": "2026-11-06T13:46:41.208919+00:00",
       "equity": 10696.494205801386,
       "cash": -302.66263336683545
+    },
+    {
+      "ts": "2026-11-06T13:51:43.491638+00:00",
+      "equity": 10697.236180291151,
+      "cash": -294.1395829791032
     }
   ],
-  "last_processed_signal_index": 1278
+  "last_processed_signal_index": 1279
 }
