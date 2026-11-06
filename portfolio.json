@@ -1,5 +1,5 @@
 {
-  "cash": -308.4102648902752,
+  "cash": -302.66263336683545,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x08c14b32c8a48894e4b933090ebcc9ce33b21135:BTC:SHORT": {
@@ -1465,17 +1465,6 @@
       "leverage": 3,
       "opened_at": "2026-09-08T06:15:42.945695+00:00"
     },
-    "0xeadc152ac1014ace57c6b353f89adf5faffe9d55:ASTER:LONG": {
-      "trader": "0xeadc152ac1014ace57c6b353f89adf5faffe9d55",
-      "coin": "ASTER",
-      "side": "LONG",
-      "size": 3.9632660357806193,
-      "entry_price": 0.765992805,
-      "notional": 3.035833267708827,
-      "margin": 1.011944422569609,
-      "leverage": 3,
-      "opened_at": "2026-09-08T06:15:42.945699+00:00"
-    },
     "0xeadc152ac1014ace57c6b353f89adf5faffe9d55:APEX:LONG": {
       "trader": "0xeadc152ac1014ace57c6b353f89adf5faffe9d55",
       "coin": "APEX",
@@ -2751,17 +2740,6 @@
       "margin": 3.3744176823546623,
       "leverage": 3,
       "opened_at": "2026-10-12T06:16:12.424459+00:00"
-    },
-    "0x153c8444380512cabdc34f6cea09c322e14e319a:kPEPE:LONG": {
-      "trader": "0x153c8444380512cabdc34f6cea09c322e14e319a",
-      "coin": "kPEPE",
-      "side": "LONG",
-      "size": 2256.9345509707664,
-      "entry_price": 0.0042611294999999995,
-      "notional": 9.617090394710786,
-      "margin": 3.2056967982369287,
-      "leverage": 3,
-      "opened_at": "2026-10-12T06:16:12.424488+00:00"
     },
     "0x153c8444380512cabdc34f6cea09c322e14e319a:CFX:LONG": {
       "trader": "0x153c8444380512cabdc34f6cea09c322e14e319a",
@@ -108351,7 +108329,12 @@
       "ts": "2026-11-06T09:46:40.370394+00:00",
       "equity": 10621.818055750187,
       "cash": -308.4102648902752
+    },
+    {
+      "ts": "2026-11-06T09:51:45.014695+00:00",
+      "equity": 10621.691882384705,
+      "cash": -302.66263336683545
     }
   ],
-  "last_processed_signal_index": 1276
+  "last_processed_signal_index": 1278
 }
