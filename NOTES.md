@@ -2,6 +2,31 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-11-07
+
+### 07:13 UTC — Daily refresh (Job A)
+- Leaderboard: 48344 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+-   +0xcafe9392d902f6f517b1573371923ebf7ffa7b3b
+-   +0xb829fd12a23c88e0f1eb85238799f8fd400a3a81
+-   +0x03ef8f736498047c3349bb2c18311d1bb4a79054
+-   +0xceec48581b3145a575508719f45da07dc57fa7ce
+-   -0xf02d028ffeddc120a3ec59602a6617303ca55eb3
+-   -0xd47587702a91731dc1089b5db0932cf820151a91
+-   -0xca4903c207a0df58bf37d4bc8bbc5210726f53c8
+-   -0x9c16bc8f1104e4d2f72267eb981fa12de7cc4a6f
+- #1 0x6891ed9e... acc=$3,455,439 month=$609,958 edge=898bps
+- #2 0xcafe9392... acc=$7,173,573 month=$3,160,648 edge=3967bps
+- #3 0xb829fd12... acc=$6,548,094 month=$1,156,145 edge=283bps
+- #4 0x03ef8f73... acc=$12,730,725 month=$1,158,382 edge=1472bps
+- #5 0xceec4858... acc=$14,964,635 month=$2,142,336 edge=1260bps
+- Current positions across the shortlist:
+-   0x6891ed9e... 1 positions: SHORT HYPE x10
+-   0xcafe9392... 2 positions: LONG BTC x10, SHORT MEGA x3
+-   0xb829fd12... 3 positions: SHORT BTC x20, LONG ETH x20, SHORT HYPE x10
+-   0x03ef8f73... 1 positions: SHORT HYPE x10
+-   0xceec4858... 1 positions: SHORT HYPE x10
+
 ## 2026-11-06
 
 ### 18:02 UTC — Position poll (Job B)
