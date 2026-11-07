@@ -16664,5 +16664,31 @@
     "leverage": 3,
     "unrealized_pnl": 42.259133,
     "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-11-07T09:56:26.869546+00:00",
+    "trader": "0x4cae5bed586f6e73ae54ebd40a4ac4ed2c477c34",
+    "type": "CLOSED",
+    "coin": "ENA",
+    "side": "LONG",
+    "size": 100000.0,
+    "entry_price": 0.164283,
+    "position_value_usd": 16222.0,
+    "leverage": 10,
+    "unrealized_pnl": -206.38052,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-11-07T09:56:26.869546+00:00",
+    "trader": "0x4cae5bed586f6e73ae54ebd40a4ac4ed2c477c34",
+    "type": "CLOSED",
+    "coin": "PUMP",
+    "side": "LONG",
+    "size": 9500000.0,
+    "entry_price": 0.004052,
+    "position_value_usd": 36974.0,
+    "leverage": 10,
+    "unrealized_pnl": -1524.995411,
+    "liquidation_price": 0.0
   }
 ]

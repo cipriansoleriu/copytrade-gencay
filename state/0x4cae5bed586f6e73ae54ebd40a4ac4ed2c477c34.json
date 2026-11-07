@@ -1,44 +1,24 @@
 {
-  "account_value": 777358.191044,
+  "account_value": 790802.215331,
   "positions": [
     {
       "coin": "NEAR",
       "side": "LONG",
       "size": 170000.0,
       "entry_price": 3.74482,
-      "position_value_usd": 630853.0,
+      "position_value_usd": 629443.7,
       "leverage": 10,
-      "unrealized_pnl": -5767.70591,
-      "liquidation_price": 1.1827381438
-    },
-    {
-      "coin": "ENA",
-      "side": "LONG",
-      "size": 100000.0,
-      "entry_price": 0.164283,
-      "position_value_usd": 16222.0,
-      "leverage": 10,
-      "unrealized_pnl": -206.38052,
-      "liquidation_price": 0.0
+      "unrealized_pnl": -7177.00591,
+      "liquidation_price": 1.3990971155
     },
     {
       "coin": "HYPE",
       "side": "LONG",
-      "size": 5000.0,
+      "size": 3000.0,
       "entry_price": 78.5257,
-      "position_value_usd": 391770.0,
+      "position_value_usd": 234948.0,
       "leverage": 10,
-      "unrealized_pnl": -858.513484,
-      "liquidation_price": 0.0
-    },
-    {
-      "coin": "PUMP",
-      "side": "LONG",
-      "size": 9500000.0,
-      "entry_price": 0.004052,
-      "position_value_usd": 36974.0,
-      "leverage": 10,
-      "unrealized_pnl": -1524.995411,
+      "unrealized_pnl": -629.108054,
       "liquidation_price": 0.0
     },
     {
@@ -46,21 +26,21 @@
       "side": "LONG",
       "size": 3101.32,
       "entry_price": 1277.3648,
-      "position_value_usd": 4103046.36,
+      "position_value_usd": 4087849.892,
       "leverage": 10,
-      "unrealized_pnl": 141529.108205,
-      "liquidation_price": 1184.4178751106
+      "unrealized_pnl": 126332.640205,
+      "liquidation_price": 1191.8320913774
     },
     {
       "coin": "LIT",
       "side": "LONG",
       "size": 519398.0,
       "entry_price": 3.183268,
-      "position_value_usd": 1745644.7382,
+      "position_value_usd": 1711728.0488,
       "leverage": 5,
-      "unrealized_pnl": 92261.534515,
-      "liquidation_price": 2.487456899
+      "unrealized_pnl": 58344.845115,
+      "liquidation_price": 2.4997698469
     }
   ],
-  "timestamp_ms": 1794045091683
+  "timestamp_ms": 1794045386630
 }
