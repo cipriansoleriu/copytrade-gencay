@@ -16885,5 +16885,44 @@
     "leverage": 5,
     "unrealized_pnl": -33084.65813,
     "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-11-08T21:56:39.174607+00:00",
+    "trader": "0xeadc152ac1014ace57c6b353f89adf5faffe9d55",
+    "type": "CLOSED",
+    "coin": "AAVE",
+    "side": "LONG",
+    "size": 0.14,
+    "entry_price": 89.9326,
+    "position_value_usd": 17.8262,
+    "leverage": 10,
+    "unrealized_pnl": 5.23563,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-11-08T21:56:39.174607+00:00",
+    "trader": "0xeadc152ac1014ace57c6b353f89adf5faffe9d55",
+    "type": "CLOSED",
+    "coin": "PONS",
+    "side": "LONG",
+    "size": 640000.0,
+    "entry_price": 0.707778,
+    "position_value_usd": 99251.2,
+    "leverage": 3,
+    "unrealized_pnl": -353726.750168,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-11-08T21:56:39.174607+00:00",
+    "trader": "0xeadc152ac1014ace57c6b353f89adf5faffe9d55",
+    "type": "CLOSED",
+    "coin": "USELESS",
+    "side": "LONG",
+    "size": 640000.0,
+    "entry_price": 0.275899,
+    "position_value_usd": 80288.0,
+    "leverage": 3,
+    "unrealized_pnl": -96287.850952,
+    "liquidation_price": 0.0
   }
 ]

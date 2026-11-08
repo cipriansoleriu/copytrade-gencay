@@ -1,5 +1,5 @@
 {
-  "cash": -291.49285354175106,
+  "cash": -290.63150919251876,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x08c14b32c8a48894e4b933090ebcc9ce33b21135:BTC:SHORT": {
@@ -1223,17 +1223,6 @@
       "leverage": 3,
       "opened_at": "2026-09-08T06:15:42.945598+00:00"
     },
-    "0xeadc152ac1014ace57c6b353f89adf5faffe9d55:AAVE:LONG": {
-      "trader": "0xeadc152ac1014ace57c6b353f89adf5faffe9d55",
-      "coin": "AAVE",
-      "side": "LONG",
-      "size": 0.07120971437638593,
-      "entry_price": 131.77085250000002,
-      "notional": 9.38336476965788,
-      "margin": 3.127788256552627,
-      "leverage": 3,
-      "opened_at": "2026-09-08T06:15:42.945604+00:00"
-    },
     "0xeadc152ac1014ace57c6b353f89adf5faffe9d55:WLD:LONG": {
       "trader": "0xeadc152ac1014ace57c6b353f89adf5faffe9d55",
       "coin": "WLD",
@@ -1487,17 +1476,6 @@
       "leverage": 3,
       "opened_at": "2026-09-08T06:15:42.945710+00:00"
     },
-    "0xeadc152ac1014ace57c6b353f89adf5faffe9d55:PONS:LONG": {
-      "trader": "0xeadc152ac1014ace57c6b353f89adf5faffe9d55",
-      "coin": "PONS",
-      "side": "LONG",
-      "size": 3.5100116965700003,
-      "entry_price": 0.70447206,
-      "notional": 2.472705170506763,
-      "margin": 0.8242350568355876,
-      "leverage": 3,
-      "opened_at": "2026-09-08T06:15:42.945715+00:00"
-    },
     "0xfd6a531508649697c6e133adcb82efcd0c737737:BTC:LONG": {
       "trader": "0xfd6a531508649697c6e133adcb82efcd0c737737",
       "coin": "BTC",
@@ -1519,17 +1497,6 @@
       "margin": 0.743872138794118,
       "leverage": 3,
       "opened_at": "2026-09-08T06:15:42.945722+00:00"
-    },
-    "0xeadc152ac1014ace57c6b353f89adf5faffe9d55:USELESS:LONG": {
-      "trader": "0xeadc152ac1014ace57c6b353f89adf5faffe9d55",
-      "coin": "USELESS",
-      "side": "LONG",
-      "size": 9.777267745394546,
-      "entry_price": 0.2864381475,
-      "notional": 2.8005824606023157,
-      "margin": 0.9335274868674386,
-      "leverage": 3,
-      "opened_at": "2026-09-08T17:40:46.056732+00:00"
     },
     "0x5f94a51948d2376ad34a6fadfa2544e651b74b96:XPL:SHORT": {
       "trader": "0x5f94a51948d2376ad34a6fadfa2544e651b74b96",
@@ -111880,7 +111847,12 @@
       "ts": "2026-11-08T21:51:44.411422+00:00",
       "equity": 10704.601445236241,
       "cash": -291.49285354175106
+    },
+    {
+      "ts": "2026-11-08T21:56:40.528746+00:00",
+      "equity": 10681.718902603567,
+      "cash": -290.63150919251876
     }
   ],
-  "last_processed_signal_index": 1298
+  "last_processed_signal_index": 1301
 }
