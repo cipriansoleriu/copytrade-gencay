@@ -1,5 +1,5 @@
 {
-  "cash": -273.2860703547443,
+  "cash": -265.680018793698,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x08c14b32c8a48894e4b933090ebcc9ce33b21135:BTC:SHORT": {
@@ -1190,17 +1190,6 @@
       "leverage": 3,
       "opened_at": "2026-09-08T06:15:42.945568+00:00"
     },
-    "0xeadc152ac1014ace57c6b353f89adf5faffe9d55:LINK:LONG": {
-      "trader": "0xeadc152ac1014ace57c6b353f89adf5faffe9d55",
-      "coin": "LINK",
-      "side": "LONG",
-      "size": 0.8610197493317278,
-      "entry_price": 12.710852249999999,
-      "notional": 10.944294818087627,
-      "margin": 3.6480982726958757,
-      "leverage": 3,
-      "opened_at": "2026-09-08T06:15:42.945583+00:00"
-    },
     "0xeadc152ac1014ace57c6b353f89adf5faffe9d55:CFX:LONG": {
       "trader": "0xeadc152ac1014ace57c6b353f89adf5faffe9d55",
       "coin": "CFX",
@@ -1244,17 +1233,6 @@
       "margin": 2.8228289015387453,
       "leverage": 3,
       "opened_at": "2026-09-08T06:15:42.945614+00:00"
-    },
-    "0xeadc152ac1014ace57c6b353f89adf5faffe9d55:ZRO:LONG": {
-      "trader": "0xeadc152ac1014ace57c6b353f89adf5faffe9d55",
-      "coin": "ZRO",
-      "side": "LONG",
-      "size": 7.025505087991958,
-      "entry_price": 1.1451222749999999,
-      "notional": 8.045062369385425,
-      "margin": 2.6816874564618085,
-      "leverage": 3,
-      "opened_at": "2026-09-08T06:15:42.945618+00:00"
     },
     "0xeadc152ac1014ace57c6b353f89adf5faffe9d55:ADA:LONG": {
       "trader": "0xeadc152ac1014ace57c6b353f89adf5faffe9d55",
@@ -1354,17 +1332,6 @@
       "margin": 1.6056253396758962,
       "leverage": 3,
       "opened_at": "2026-09-08T06:15:42.945656+00:00"
-    },
-    "0xeadc152ac1014ace57c6b353f89adf5faffe9d55:ENA:LONG": {
-      "trader": "0xeadc152ac1014ace57c6b353f89adf5faffe9d55",
-      "coin": "ENA",
-      "side": "LONG",
-      "size": 27.77268934877859,
-      "entry_price": 0.1647673425,
-      "notional": 4.576032218076304,
-      "margin": 1.5253440726921015,
-      "leverage": 3,
-      "opened_at": "2026-09-08T06:15:42.945659+00:00"
     },
     "0xeadc152ac1014ace57c6b353f89adf5faffe9d55:MNT:LONG": {
       "trader": "0xeadc152ac1014ace57c6b353f89adf5faffe9d55",
@@ -112389,7 +112356,12 @@
       "ts": "2026-11-09T07:26:16.590620+00:00",
       "equity": 10897.366544956925,
       "cash": -273.2860703547443
+    },
+    {
+      "ts": "2026-11-09T07:31:43.095457+00:00",
+      "equity": 10889.703745763789,
+      "cash": -265.680018793698
     }
   ],
-  "last_processed_signal_index": 1320
+  "last_processed_signal_index": 1324
 }
