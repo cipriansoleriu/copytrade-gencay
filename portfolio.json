@@ -1,5 +1,5 @@
 {
-  "cash": -287.27122110187213,
+  "cash": -273.2860703547443,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x08c14b32c8a48894e4b933090ebcc9ce33b21135:BTC:SHORT": {
@@ -1882,17 +1882,6 @@
       "margin": 8.329163318015786,
       "leverage": 3,
       "opened_at": "2026-09-29T06:16:10.090447+00:00"
-    },
-    "0x73ce82fb75868af2a687e9889fcf058dd1cf8ce9:XRP:SHORT": {
-      "trader": "0x73ce82fb75868af2a687e9889fcf058dd1cf8ce9",
-      "coin": "XRP",
-      "side": "SHORT",
-      "size": 15.822251391739629,
-      "entry_price": 1.500299475,
-      "notional": 23.738115456344985,
-      "margin": 7.912705152114995,
-      "leverage": 3,
-      "opened_at": "2026-09-29T06:16:10.090470+00:00"
     },
     "0x73ce82fb75868af2a687e9889fcf058dd1cf8ce9:NEAR:LONG": {
       "trader": "0x73ce82fb75868af2a687e9889fcf058dd1cf8ce9",
@@ -112125,7 +112114,12 @@
       "ts": "2026-11-09T02:51:45.931900+00:00",
       "equity": 10872.881580245645,
       "cash": -287.27122110187213
+    },
+    {
+      "ts": "2026-11-09T02:56:36.241526+00:00",
+      "equity": 10867.512357754833,
+      "cash": -273.2860703547443
     }
   ],
-  "last_processed_signal_index": 1308
+  "last_processed_signal_index": 1309
 }
