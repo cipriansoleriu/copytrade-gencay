@@ -1,34 +1,24 @@
 {
-  "account_value": 1008981.416948,
+  "account_value": 787461.898389,
   "positions": [
-    {
-      "coin": "AVAX",
-      "side": "SHORT",
-      "size": 26000.0,
-      "entry_price": 8.3389,
-      "position_value_usd": 206141.0,
-      "leverage": 10,
-      "unrealized_pnl": 10671.062007,
-      "liquidation_price": 147.4308304194
-    },
     {
       "coin": "AAVE",
       "side": "SHORT",
       "size": 4400.0,
       "entry_price": 132.6885,
-      "position_value_usd": 569316.0,
+      "position_value_usd": 568920.0,
       "leverage": 10,
-      "unrealized_pnl": 14513.615653,
-      "liquidation_price": 953.7219524781
+      "unrealized_pnl": 14909.615653,
+      "liquidation_price": 955.5775661675
     },
     {
       "coin": "MNT",
       "side": "LONG",
       "size": 120000.0,
       "entry_price": 0.99279,
-      "position_value_usd": 53893.2,
+      "position_value_usd": 53902.8,
       "leverage": 5,
-      "unrealized_pnl": -65241.8406,
+      "unrealized_pnl": -65232.2406,
       "liquidation_price": 0.0
     },
     {
@@ -36,31 +26,31 @@
       "side": "SHORT",
       "size": 367406.0,
       "entry_price": 0.290832,
-      "position_value_usd": 33627.568962,
+      "position_value_usd": 33660.268096,
       "leverage": 3,
-      "unrealized_pnl": 73225.878448,
-      "liquidation_price": 8.9763969581
+      "unrealized_pnl": 73193.179314,
+      "liquidation_price": 8.9974563021
     },
     {
       "coin": "HYPE",
       "side": "SHORT",
       "size": 15000.0,
       "entry_price": 61.8371,
-      "position_value_usd": 1109535.0,
+      "position_value_usd": 1109539.5,
       "leverage": 10,
-      "unrealized_pnl": -181977.697563,
-      "liquidation_price": 315.7730393936
+      "unrealized_pnl": -181982.197563,
+      "liquidation_price": 316.3440527425
     },
     {
       "coin": "LIT",
       "side": "SHORT",
       "size": 585000.0,
       "entry_price": 3.497095,
-      "position_value_usd": 1802970.0,
+      "position_value_usd": 1803847.5,
       "leverage": 3,
-      "unrealized_pnl": 242830.943853,
-      "liquidation_price": 9.0002806845
+      "unrealized_pnl": 241953.443853,
+      "liquidation_price": 9.015749193
     }
   ],
-  "timestamp_ms": 1794204382741
+  "timestamp_ms": 1794204700284
 }
