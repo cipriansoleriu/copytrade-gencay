@@ -1,5 +1,5 @@
 {
-  "cash": -262.62869226489755,
+  "cash": -256.47241606449234,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x08c14b32c8a48894e4b933090ebcc9ce33b21135:BTC:SHORT": {
@@ -1156,17 +1156,6 @@
       "margin": 5.262440957497585,
       "leverage": 3,
       "opened_at": "2026-09-06T06:15:49.844591+00:00"
-    },
-    "0xeadc152ac1014ace57c6b353f89adf5faffe9d55:AVAX:LONG": {
-      "trader": "0xeadc152ac1014ace57c6b353f89adf5faffe9d55",
-      "coin": "AVAX",
-      "side": "LONG",
-      "size": 1.7533425688432567,
-      "entry_price": 8.066831399999998,
-      "notional": 14.14391888930144,
-      "margin": 4.714639629767147,
-      "leverage": 3,
-      "opened_at": "2026-09-08T06:15:42.945543+00:00"
     },
     "0xeadc152ac1014ace57c6b353f89adf5faffe9d55:LTC:LONG": {
       "trader": "0xeadc152ac1014ace57c6b353f89adf5faffe9d55",
@@ -112825,7 +112814,12 @@
       "ts": "2026-11-09T15:26:35.195578+00:00",
       "equity": 10810.068709309044,
       "cash": -262.62869226489755
+    },
+    {
+      "ts": "2026-11-09T15:31:31.973433+00:00",
+      "equity": 10788.71302848559,
+      "cash": -256.47241606449234
     }
   ],
-  "last_processed_signal_index": 1329
+  "last_processed_signal_index": 1331
 }
