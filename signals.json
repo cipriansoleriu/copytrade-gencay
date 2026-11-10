@@ -18029,5 +18029,70 @@
     "leverage": 20,
     "unrealized_pnl": 36.110671,
     "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-11-10T22:41:28.203939+00:00",
+    "trader": "0x6859da14835424957a1e6b397d8026b1d9ff7e1e",
+    "type": "CLOSED",
+    "coin": "INIT",
+    "side": "SHORT",
+    "size": 70000.0,
+    "entry_price": 0.20471,
+    "position_value_usd": 12435.5,
+    "leverage": 3,
+    "unrealized_pnl": 1894.21522,
+    "liquidation_price": 55.6652389545
+  },
+  {
+    "ts": "2026-11-10T22:41:28.699996+00:00",
+    "trader": "0x77eeda199553e33b246e4b4666849b9ad0972902",
+    "type": "CLOSED",
+    "coin": "GMX",
+    "side": "LONG",
+    "size": 1464.98,
+    "entry_price": 7.622,
+    "position_value_usd": 11197.281634,
+    "leverage": 3,
+    "unrealized_pnl": 31.116136,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-11-10T22:41:28.699996+00:00",
+    "trader": "0x77eeda199553e33b246e4b4666849b9ad0972902",
+    "type": "CLOSED",
+    "coin": "DOT",
+    "side": "LONG",
+    "size": 32527.4,
+    "entry_price": 0.84387,
+    "position_value_usd": 27367.253264,
+    "leverage": 10,
+    "unrealized_pnl": -81.698478,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-11-10T22:41:28.699996+00:00",
+    "trader": "0x77eeda199553e33b246e4b4666849b9ad0972902",
+    "type": "CLOSED",
+    "coin": "JTO",
+    "side": "LONG",
+    "size": 44724.0,
+    "entry_price": 0.332742,
+    "position_value_usd": 14897.5644,
+    "leverage": 5,
+    "unrealized_pnl": 15.96847,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-11-10T22:41:28.699996+00:00",
+    "trader": "0x77eeda199553e33b246e4b4666849b9ad0972902",
+    "type": "CLOSED",
+    "coin": "AERO",
+    "side": "LONG",
+    "size": 25016.0,
+    "entry_price": 0.546715,
+    "position_value_usd": 13600.648848,
+    "leverage": 3,
+    "unrealized_pnl": -75.983982,
+    "liquidation_price": 0.0
   }
 ]
