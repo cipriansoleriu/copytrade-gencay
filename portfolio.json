@@ -1,5 +1,5 @@
 {
-  "cash": -256.47241606449234,
+  "cash": -254.1588608961168,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x08c14b32c8a48894e4b933090ebcc9ce33b21135:BTC:SHORT": {
@@ -1211,17 +1211,6 @@
       "margin": 2.971398843724996,
       "leverage": 3,
       "opened_at": "2026-09-08T06:15:42.945609+00:00"
-    },
-    "0xeadc152ac1014ace57c6b353f89adf5faffe9d55:TRX:LONG": {
-      "trader": "0xeadc152ac1014ace57c6b353f89adf5faffe9d55",
-      "coin": "TRX",
-      "side": "LONG",
-      "size": 25.065533196107534,
-      "entry_price": 0.3378538425,
-      "notional": 8.468486704616236,
-      "margin": 2.8228289015387453,
-      "leverage": 3,
-      "opened_at": "2026-09-08T06:15:42.945614+00:00"
     },
     "0xeadc152ac1014ace57c6b353f89adf5faffe9d55:ADA:LONG": {
       "trader": "0xeadc152ac1014ace57c6b353f89adf5faffe9d55",
@@ -113349,7 +113338,12 @@
       "ts": "2026-11-10T00:36:28.446795+00:00",
       "equity": 10661.807404765972,
       "cash": -256.47241606449234
+    },
+    {
+      "ts": "2026-11-10T00:41:44.274789+00:00",
+      "equity": 10645.841193758144,
+      "cash": -254.1588608961168
     }
   ],
-  "last_processed_signal_index": 1331
+  "last_processed_signal_index": 1332
 }
