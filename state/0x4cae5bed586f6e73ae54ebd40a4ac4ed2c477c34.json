@@ -1,46 +1,36 @@
 {
-  "account_value": 233424.925006,
+  "account_value": 165394.400531,
   "positions": [
     {
       "coin": "NEAR",
       "side": "LONG",
-      "size": 220500.0,
+      "size": 180500.0,
       "entry_price": 3.64514,
-      "position_value_usd": 804560.4,
+      "position_value_usd": 657146.35,
       "leverage": 10,
-      "unrealized_pnl": 806.730996,
-      "liquidation_price": 2.68502637
+      "unrealized_pnl": -801.664731,
+      "liquidation_price": 2.3299925181
     },
     {
       "coin": "ENA",
       "side": "LONG",
       "size": 1883717.0,
       "entry_price": 0.154807,
-      "position_value_usd": 287021.95929,
+      "position_value_usd": 286061.26362,
       "leverage": 10,
-      "unrealized_pnl": -4590.95584,
-      "liquidation_price": 0.0395547069
-    },
-    {
-      "coin": "HYPE",
-      "side": "LONG",
-      "size": 2000.0,
-      "entry_price": 73.771,
-      "position_value_usd": 145772.0,
-      "leverage": 10,
-      "unrealized_pnl": -1770.009385,
-      "liquidation_price": 0.0
+      "unrealized_pnl": -5551.65151,
+      "liquidation_price": 0.0262664525
     },
     {
       "coin": "ZEC",
       "side": "LONG",
-      "size": 1002.64,
+      "size": 587.68,
       "entry_price": 1173.9926,
-      "position_value_usd": 1148624.384,
+      "position_value_usd": 664372.24,
       "leverage": 10,
-      "unrealized_pnl": -28467.615467,
-      "liquidation_price": 933.6474692591
+      "unrealized_pnl": -25559.765714,
+      "liquidation_price": 727.9293825068
     }
   ],
-  "timestamp_ms": 1794324708738
+  "timestamp_ms": 1794324989787
 }
