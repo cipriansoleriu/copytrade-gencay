@@ -18172,5 +18172,83 @@
     "leverage": 40,
     "unrealized_pnl": 50783.03715,
     "liquidation_price": 421635.3482275556
+  },
+  {
+    "ts": "2026-11-12T07:16:05.633512+00:00",
+    "trader": "0xbfc79c444c41a74516bf31237ebf586a231480b4",
+    "type": "NEW",
+    "coin": "XMR",
+    "side": "SHORT",
+    "size": 400.0,
+    "entry_price": 583.324,
+    "position_value_usd": 220268.0,
+    "leverage": 5,
+    "unrealized_pnl": 13061.833533,
+    "liquidation_price": 7246.3644832864
+  },
+  {
+    "ts": "2026-11-12T07:16:05.633512+00:00",
+    "trader": "0xbfc79c444c41a74516bf31237ebf586a231480b4",
+    "type": "CLOSED",
+    "coin": "JUP",
+    "side": "SHORT",
+    "size": 282809.0,
+    "entry_price": 0.217006,
+    "position_value_usd": 72823.3175,
+    "leverage": 10,
+    "unrealized_pnl": -11452.05641,
+    "liquidation_price": 16.1459957804
+  },
+  {
+    "ts": "2026-11-12T07:16:06.405826+00:00",
+    "trader": "0x6bb971430554e3af58fbd469bce46ab2359a2d23",
+    "type": "NEW",
+    "coin": "ETH",
+    "side": "SHORT",
+    "size": 0.4856,
+    "entry_price": 2753.55,
+    "position_value_usd": 993.44048,
+    "leverage": 25,
+    "unrealized_pnl": 343.68744,
+    "liquidation_price": 2629283.5683407634
+  },
+  {
+    "ts": "2026-11-12T07:16:06.405826+00:00",
+    "trader": "0x6bb971430554e3af58fbd469bce46ab2359a2d23",
+    "type": "NEW",
+    "coin": "PURR",
+    "side": "SHORT",
+    "size": 4305910.0,
+    "entry_price": 0.129513,
+    "position_value_usd": 386894.62532,
+    "leverage": 3,
+    "unrealized_pnl": 170777.907917,
+    "liquidation_price": 0.3488917968
+  },
+  {
+    "ts": "2026-11-12T07:16:06.405826+00:00",
+    "trader": "0x6bb971430554e3af58fbd469bce46ab2359a2d23",
+    "type": "NEW",
+    "coin": "HYPE",
+    "side": "SHORT",
+    "size": 22900.0,
+    "entry_price": 84.7244,
+    "position_value_usd": 1626969.43,
+    "leverage": 10,
+    "unrealized_pnl": 313220.28691,
+    "liquidation_price": 125.1661590773
+  },
+  {
+    "ts": "2026-11-12T07:16:06.405826+00:00",
+    "trader": "0x6bb971430554e3af58fbd469bce46ab2359a2d23",
+    "type": "NEW",
+    "coin": "XMR",
+    "side": "SHORT",
+    "size": 1000.0,
+    "entry_price": 640.13,
+    "position_value_usd": 550670.0,
+    "leverage": 5,
+    "unrealized_pnl": 89460.14029,
+    "liquidation_price": 1733.6721759209
   }
 ]
