@@ -1,36 +1,46 @@
 {
-  "account_value": 1282166.487601,
+  "account_value": 1287716.694254,
   "positions": [
     {
       "coin": "LINK",
       "side": "LONG",
       "size": 500011.6,
       "entry_price": 11.91921,
-      "position_value_usd": 5023116.5336,
+      "position_value_usd": 5027366.6322,
       "leverage": 5,
-      "unrealized_pnl": -936631.651491,
-      "liquidation_price": 8.1550813365
+      "unrealized_pnl": -932381.552891,
+      "liquidation_price": 8.157081201
     },
     {
       "coin": "NEAR",
       "side": "LONG",
       "size": 100000.0,
       "entry_price": 3.43206,
-      "position_value_usd": 341250.0,
+      "position_value_usd": 341330.0,
       "leverage": 10,
-      "unrealized_pnl": -1956.04083,
+      "unrealized_pnl": -1876.04083,
       "liquidation_price": 2.7703841747
+    },
+    {
+      "coin": "VVV",
+      "side": "LONG",
+      "size": 302.12,
+      "entry_price": 18.8928,
+      "position_value_usd": 5712.394324,
+      "leverage": 3,
+      "unrealized_pnl": 4.473424,
+      "liquidation_price": 0.0
     },
     {
       "coin": "ZEC",
       "side": "LONG",
       "size": 300.0,
       "entry_price": 1050.3056,
-      "position_value_usd": 281940.0,
+      "position_value_usd": 283158.0,
       "leverage": 5,
-      "unrealized_pnl": -33151.709,
+      "unrealized_pnl": -31933.709,
       "liquidation_price": 797.1931423474
     }
   ],
-  "timestamp_ms": 1794508301772
+  "timestamp_ms": 1794508598397
 }
