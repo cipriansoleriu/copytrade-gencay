@@ -1,34 +1,34 @@
 {
-  "account_value": 2675114.525368,
+  "account_value": 2613158.486552,
   "positions": [
     {
       "coin": "BTC",
       "side": "LONG",
       "size": 300.49417,
       "entry_price": 70766.9,
-      "position_value_usd": 21456726.110016,
+      "position_value_usd": 21420426.41428,
       "leverage": 20,
-      "unrealized_pnl": 191681.199992,
-      "liquidation_price": 58679.2482440221
+      "unrealized_pnl": 155381.504256,
+      "liquidation_price": 58760.7634245713
     },
     {
       "coin": "ETH",
       "side": "LONG",
       "size": 10016.8752,
       "entry_price": 2162.83,
-      "position_value_usd": 20205239.303424,
+      "position_value_usd": 20180998.46544,
       "leverage": 10,
-      "unrealized_pnl": -1459562.745736,
-      "liquidation_price": 1632.4472362175
+      "unrealized_pnl": -1483803.58372,
+      "liquidation_price": 1636.1428955735
     },
     {
       "coin": "DOGE",
       "side": "LONG",
       "size": 6000000.0,
       "entry_price": 0.083372,
-      "position_value_usd": 398310.0,
+      "position_value_usd": 398094.0,
       "leverage": 10,
-      "unrealized_pnl": -101923.531043,
+      "unrealized_pnl": -102139.531043,
       "liquidation_price": 0.0
     },
     {
@@ -36,9 +36,9 @@
       "side": "LONG",
       "size": 2500010.4,
       "entry_price": 0.85967,
-      "position_value_usd": 2011783.368984,
+      "position_value_usd": 2010558.363888,
       "leverage": 10,
-      "unrealized_pnl": -137423.161645,
+      "unrealized_pnl": -138648.166741,
       "liquidation_price": 0.0
     },
     {
@@ -46,9 +46,9 @@
       "side": "LONG",
       "size": 50000.0,
       "entry_price": 12.70441,
-      "position_value_usd": 505800.0,
+      "position_value_usd": 505825.5,
       "leverage": 5,
-      "unrealized_pnl": -129420.6499,
+      "unrealized_pnl": -129395.1499,
       "liquidation_price": 0.0
     },
     {
@@ -62,5 +62,5 @@
       "liquidation_price": 0.0
     }
   ],
-  "timestamp_ms": 1794526335742
+  "timestamp_ms": 1794526591337
 }
