@@ -1,24 +1,24 @@
 {
-  "account_value": 963637.901877,
+  "account_value": 968026.035315,
   "positions": [
     {
       "coin": "AVAX",
       "side": "SHORT",
       "size": 30000.01,
       "entry_price": 8.4331,
-      "position_value_usd": 252984.084328,
+      "position_value_usd": 252480.08416,
       "leverage": 10,
-      "unrealized_pnl": 9.019638,
-      "liquidation_price": 120.9984074328
+      "unrealized_pnl": 513.019806,
+      "liquidation_price": 121.1238764094
     },
     {
       "coin": "MNT",
       "side": "LONG",
       "size": 120000.0,
       "entry_price": 0.99279,
-      "position_value_usd": 48774.0,
+      "position_value_usd": 48759.6,
       "leverage": 5,
-      "unrealized_pnl": -70361.0406,
+      "unrealized_pnl": -70375.4406,
       "liquidation_price": 0.0
     },
     {
@@ -26,30 +26,30 @@
       "side": "SHORT",
       "size": 367406.0,
       "entry_price": 0.290832,
-      "position_value_usd": 34060.37323,
+      "position_value_usd": 34043.83996,
       "leverage": 3,
-      "unrealized_pnl": 72793.07418,
-      "liquidation_price": 8.364949911
+      "unrealized_pnl": 72809.60745,
+      "liquidation_price": 8.3753600033
     },
     {
       "coin": "HYPE",
       "side": "SHORT",
       "size": 15000.0,
       "entry_price": 61.8371,
-      "position_value_usd": 1094280.0,
+      "position_value_usd": 1092855.0,
       "leverage": 10,
-      "unrealized_pnl": -166722.697563,
-      "liquidation_price": 298.0832899094
+      "unrealized_pnl": -165297.697563,
+      "liquidation_price": 298.2728279575
     },
     {
       "coin": "LIT",
       "side": "SHORT",
       "size": 585000.0,
       "entry_price": 3.497095,
-      "position_value_usd": 1889842.5,
+      "position_value_usd": 1887385.5,
       "leverage": 3,
-      "unrealized_pnl": 155958.443853,
-      "liquidation_price": 8.7407063964
+      "unrealized_pnl": 158415.443853,
+      "liquidation_price": 8.7434706143
     },
     {
       "coin": "XTEN",
@@ -62,5 +62,5 @@
       "liquidation_price": 0.3688833016
     }
   ],
-  "timestamp_ms": 1794600699557
+  "timestamp_ms": 1794600982322
 }
