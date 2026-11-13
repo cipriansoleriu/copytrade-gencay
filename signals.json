@@ -18406,5 +18406,44 @@
     "leverage": 10,
     "unrealized_pnl": 8113.712918,
     "liquidation_price": 10.2996586713
+  },
+  {
+    "ts": "2026-11-13T01:31:37.356815+00:00",
+    "trader": "0x675462411d40a169c3397ac1dc00786dc9c7d3a1",
+    "type": "CLOSED",
+    "coin": "BSV",
+    "side": "SHORT",
+    "size": 550.0,
+    "entry_price": 21.3811,
+    "position_value_usd": 8680.65,
+    "leverage": 3,
+    "unrealized_pnl": 3078.95529,
+    "liquidation_price": 442.7570187117
+  },
+  {
+    "ts": "2026-11-13T01:31:37.356815+00:00",
+    "trader": "0x675462411d40a169c3397ac1dc00786dc9c7d3a1",
+    "type": "CLOSED",
+    "coin": "NIL",
+    "side": "SHORT",
+    "size": 204000.0,
+    "entry_price": 0.1322,
+    "position_value_usd": 11328.732,
+    "leverage": 3,
+    "unrealized_pnl": 15640.17453,
+    "liquidation_price": 1.2066884426
+  },
+  {
+    "ts": "2026-11-13T01:31:37.356815+00:00",
+    "trader": "0x675462411d40a169c3397ac1dc00786dc9c7d3a1",
+    "type": "CLOSED",
+    "coin": "CHIP",
+    "side": "SHORT",
+    "size": 785000.0,
+    "entry_price": 0.06406,
+    "position_value_usd": 25005.39,
+    "leverage": 3,
+    "unrealized_pnl": 25281.904306,
+    "liquidation_price": 0.3310077711
   }
 ]

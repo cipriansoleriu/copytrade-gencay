@@ -1,5 +1,5 @@
 {
-  "cash": -207.51246141023603,
+  "cash": -197.90398287222263,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x08c14b32c8a48894e4b933090ebcc9ce33b21135:BTC:SHORT": {
@@ -2037,17 +2037,6 @@
       "leverage": 3,
       "opened_at": "2026-10-08T06:16:14.047474+00:00"
     },
-    "0x675462411d40a169c3397ac1dc00786dc9c7d3a1:BSV:SHORT": {
-      "trader": "0x675462411d40a169c3397ac1dc00786dc9c7d3a1",
-      "coin": "BSV",
-      "side": "SHORT",
-      "size": 0.5438221244705708,
-      "entry_price": 19.250869750000003,
-      "notional": 10.469048885351247,
-      "margin": 3.4896829617837493,
-      "leverage": 3,
-      "opened_at": "2026-10-08T06:16:14.047478+00:00"
-    },
     "0x675462411d40a169c3397ac1dc00786dc9c7d3a1:NEAR:SHORT": {
       "trader": "0x675462411d40a169c3397ac1dc00786dc9c7d3a1",
       "coin": "NEAR",
@@ -2102,17 +2091,6 @@
       "margin": 2.4369757637564926,
       "leverage": 3,
       "opened_at": "2026-10-08T06:16:14.047522+00:00"
-    },
-    "0x675462411d40a169c3397ac1dc00786dc9c7d3a1:NIL:SHORT": {
-      "trader": "0x675462411d40a169c3397ac1dc00786dc9c7d3a1",
-      "coin": "NIL",
-      "side": "SHORT",
-      "size": 73.88741304865668,
-      "entry_price": 0.0848345615,
-      "notional": 6.268206286352168,
-      "margin": 2.0894020954507226,
-      "leverage": 3,
-      "opened_at": "2026-10-08T06:16:14.047532+00:00"
     },
     "0x675462411d40a169c3397ac1dc00786dc9c7d3a1:PUMP:SHORT": {
       "trader": "0x675462411d40a169c3397ac1dc00786dc9c7d3a1",
@@ -117569,7 +117547,12 @@
       "ts": "2026-11-13T01:26:26.559434+00:00",
       "equity": 10505.246849317868,
       "cash": -207.51246141023603
+    },
+    {
+      "ts": "2026-11-13T01:31:44.258783+00:00",
+      "equity": 10495.01494223141,
+      "cash": -197.90398287222263
     }
   ],
-  "last_processed_signal_index": 1415
+  "last_processed_signal_index": 1418
 }

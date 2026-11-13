@@ -2,6 +2,15 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-11-13
+
+### 01:31 UTC — Position poll (Job B)
+- 3 signals (2 applied to the paper book)
+- CLOSED SHORT BSV x3 — 0x67546241...
+- CLOSED SHORT NIL x3 — 0x67546241...
+- CLOSED SHORT CHIP x3 — 0x67546241...
+- Portfolio: $10,495.01 (+4.95%)
+
 ## 2026-11-12
 
 ### 21:26 UTC — Position poll (Job B)
