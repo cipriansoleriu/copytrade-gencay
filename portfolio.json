@@ -1,5 +1,5 @@
 {
-  "cash": -121.14445704344269,
+  "cash": -120.8567238256867,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x08c14b32c8a48894e4b933090ebcc9ce33b21135:BTC:SHORT": {
@@ -1288,17 +1288,6 @@
       "margin": 1.4490768690574967,
       "leverage": 3,
       "opened_at": "2026-09-08T06:15:42.945663+00:00"
-    },
-    "0xeadc152ac1014ace57c6b353f89adf5faffe9d55:HBAR:LONG": {
-      "trader": "0xeadc152ac1014ace57c6b353f89adf5faffe9d55",
-      "coin": "HBAR",
-      "side": "LONG",
-      "size": 50.80062979788015,
-      "entry_price": 0.0812956275,
-      "notional": 4.129869076813865,
-      "margin": 1.3766230256046217,
-      "leverage": 3,
-      "opened_at": "2026-09-08T06:15:42.945667+00:00"
     },
     "0xeadc152ac1014ace57c6b353f89adf5faffe9d55:POPCAT:LONG": {
       "trader": "0xeadc152ac1014ace57c6b353f89adf5faffe9d55",
@@ -119188,7 +119177,12 @@
       "ts": "2026-11-14T08:16:21.667767+00:00",
       "equity": 10338.916622953291,
       "cash": -121.14445704344269
+    },
+    {
+      "ts": "2026-11-14T08:21:48.657215+00:00",
+      "equity": 10332.475535075384,
+      "cash": -120.8567238256867
     }
   ],
-  "last_processed_signal_index": 1464
+  "last_processed_signal_index": 1465
 }
