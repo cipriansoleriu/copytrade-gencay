@@ -1,24 +1,24 @@
 {
-  "account_value": 1118436.430815,
+  "account_value": 1118082.376542,
   "positions": [
     {
       "coin": "AVAX",
       "side": "SHORT",
       "size": 30000.01,
       "entry_price": 8.4331,
-      "position_value_usd": 242637.080879,
+      "position_value_usd": 242496.080832,
       "leverage": 10,
-      "unrealized_pnl": 10356.023087,
-      "liquidation_price": 125.8140557879
+      "unrealized_pnl": 10497.023134,
+      "liquidation_price": 125.8016357231
     },
     {
       "coin": "MNT",
       "side": "LONG",
       "size": 120000.0,
       "entry_price": 0.99279,
-      "position_value_usd": 47985.6,
+      "position_value_usd": 47994.0,
       "leverage": 5,
-      "unrealized_pnl": -71149.4406,
+      "unrealized_pnl": -71141.0406,
       "liquidation_price": 0.0
     },
     {
@@ -26,30 +26,30 @@
       "side": "SHORT",
       "size": 367406.0,
       "entry_price": 0.290832,
-      "position_value_usd": 33755.42625,
+      "position_value_usd": 33836.25557,
       "leverage": 3,
-      "unrealized_pnl": 73098.02116,
-      "liquidation_price": 8.7433593683
+      "unrealized_pnl": 73017.19184,
+      "liquidation_price": 8.7430120345
     },
     {
       "coin": "HYPE",
       "side": "SHORT",
       "size": 15000.0,
       "entry_price": 61.8371,
-      "position_value_usd": 1039110.0,
+      "position_value_usd": 1043145.0,
       "leverage": 10,
-      "unrealized_pnl": -111552.697563,
-      "liquidation_price": 304.7263900601
+      "unrealized_pnl": -115587.697563,
+      "liquidation_price": 304.9799499251
     },
     {
       "coin": "LIT",
       "side": "SHORT",
       "size": 585000.0,
       "entry_price": 3.497095,
-      "position_value_usd": 1800205.875,
+      "position_value_usd": 1796593.5,
       "leverage": 3,
-      "unrealized_pnl": 245595.068853,
-      "liquidation_price": 8.8400957357
+      "unrealized_pnl": 249207.443853,
+      "liquidation_price": 8.8335428303
     },
     {
       "coin": "XTEN",
@@ -62,5 +62,5 @@
       "liquidation_price": 0.3689054825
     }
   ],
-  "timestamp_ms": 1794638789331
+  "timestamp_ms": 1794639106079
 }

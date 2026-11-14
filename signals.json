@@ -18809,5 +18809,57 @@
     "leverage": 3,
     "unrealized_pnl": 37035.932525,
     "liquidation_price": 9.8721811293
+  },
+  {
+    "ts": "2026-11-14T06:51:43.458796+00:00",
+    "trader": "0x675462411d40a169c3397ac1dc00786dc9c7d3a1",
+    "type": "CLOSED",
+    "coin": "LINK",
+    "side": "SHORT",
+    "size": 6000.0,
+    "entry_price": 14.5516,
+    "position_value_usd": 57840.0,
+    "leverage": 10,
+    "unrealized_pnl": 29469.6032,
+    "liquidation_price": 68.1340116965
+  },
+  {
+    "ts": "2026-11-14T06:51:43.458796+00:00",
+    "trader": "0x675462411d40a169c3397ac1dc00786dc9c7d3a1",
+    "type": "CLOSED",
+    "coin": "AAVE",
+    "side": "SHORT",
+    "size": 440.0,
+    "entry_price": 173.9274,
+    "position_value_usd": 47907.2,
+    "leverage": 10,
+    "unrealized_pnl": 28620.8794,
+    "liquidation_price": 906.5256140433
+  },
+  {
+    "ts": "2026-11-14T06:51:43.458796+00:00",
+    "trader": "0x675462411d40a169c3397ac1dc00786dc9c7d3a1",
+    "type": "CLOSED",
+    "coin": "JUP",
+    "side": "SHORT",
+    "size": 70000.0,
+    "entry_price": 0.361949,
+    "position_value_usd": 18077.5,
+    "leverage": 10,
+    "unrealized_pnl": 7258.93208,
+    "liquidation_price": 5.2720224311
+  },
+  {
+    "ts": "2026-11-14T06:51:43.458796+00:00",
+    "trader": "0x675462411d40a169c3397ac1dc00786dc9c7d3a1",
+    "type": "CLOSED",
+    "coin": "DASH",
+    "side": "SHORT",
+    "size": 2435.25,
+    "entry_price": 61.2814,
+    "position_value_usd": 97203.00375,
+    "leverage": 5,
+    "unrealized_pnl": 52032.599209,
+    "liquidation_price": 177.4824603832
   }
 ]
