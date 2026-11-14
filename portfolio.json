@@ -1,5 +1,5 @@
 {
-  "cash": -104.55883911560517,
+  "cash": -108.46222416527434,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x08c14b32c8a48894e4b933090ebcc9ce33b21135:BTC:SHORT": {
@@ -1497,17 +1497,6 @@
       "margin": 33.61347986928932,
       "leverage": 3,
       "opened_at": "2026-09-24T06:16:00.591334+00:00"
-    },
-    "0x866d4903b256ce7e7caac46a91e83128bb0fd6e1:CHIP:LONG": {
-      "trader": "0x866d4903b256ce7e7caac46a91e83128bb0fd6e1",
-      "coin": "CHIP",
-      "side": "LONG",
-      "size": 2265.909609207857,
-      "entry_price": 0.0422781285,
-      "notional": 95.79841762747456,
-      "margin": 31.932805875824855,
-      "leverage": 3,
-      "opened_at": "2026-09-24T06:16:00.591340+00:00"
     },
     "0xfdf891f2b214a4c9374d26595ec6d4080262e381:GRASS:LONG": {
       "trader": "0xfdf891f2b214a4c9374d26595ec6d4080262e381",
@@ -119835,7 +119824,12 @@
       "ts": "2026-11-14T20:32:02.470634+00:00",
       "equity": 10460.780018611686,
       "cash": -104.55883911560517
+    },
+    {
+      "ts": "2026-11-14T20:36:35.292673+00:00",
+      "equity": 10469.376288463169,
+      "cash": -108.46222416527434
     }
   ],
-  "last_processed_signal_index": 1478
+  "last_processed_signal_index": 1480
 }
