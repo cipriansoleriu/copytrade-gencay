@@ -1,5 +1,5 @@
 {
-  "cash": -147.50948663554652,
+  "cash": -134.24429146623115,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x08c14b32c8a48894e4b933090ebcc9ce33b21135:BTC:SHORT": {
@@ -2004,39 +2004,6 @@
       "leverage": 3,
       "opened_at": "2026-10-08T06:16:14.047510+00:00"
     },
-    "0x675462411d40a169c3397ac1dc00786dc9c7d3a1:ENA:SHORT": {
-      "trader": "0x675462411d40a169c3397ac1dc00786dc9c7d3a1",
-      "coin": "ENA",
-      "side": "SHORT",
-      "size": 33.13139886110863,
-      "entry_price": 0.22066461250000002,
-      "notional": 7.310927291269477,
-      "margin": 2.4369757637564926,
-      "leverage": 3,
-      "opened_at": "2026-10-08T06:16:14.047522+00:00"
-    },
-    "0x675462411d40a169c3397ac1dc00786dc9c7d3a1:MET:SHORT": {
-      "trader": "0x675462411d40a169c3397ac1dc00786dc9c7d3a1",
-      "coin": "MET",
-      "side": "SHORT",
-      "size": 10.858482250187487,
-      "entry_price": 0.47018479,
-      "notional": 5.105493196523131,
-      "margin": 1.7018310655077105,
-      "leverage": 3,
-      "opened_at": "2026-10-08T06:16:14.047548+00:00"
-    },
-    "0x675462411d40a169c3397ac1dc00786dc9c7d3a1:STABLE:SHORT": {
-      "trader": "0x675462411d40a169c3397ac1dc00786dc9c7d3a1",
-      "coin": "STABLE",
-      "side": "SHORT",
-      "size": 166.95303390369395,
-      "entry_price": 0.026218884,
-      "notional": 4.377322229369019,
-      "margin": 1.459107409789673,
-      "leverage": 3,
-      "opened_at": "2026-10-08T06:16:14.047557+00:00"
-    },
     "0x675462411d40a169c3397ac1dc00786dc9c7d3a1:XMR:SHORT": {
       "trader": "0x675462411d40a169c3397ac1dc00786dc9c7d3a1",
       "coin": "XMR",
@@ -2047,17 +2014,6 @@
       "margin": 1.3861520393001896,
       "leverage": 3,
       "opened_at": "2026-10-08T06:16:14.047560+00:00"
-    },
-    "0x675462411d40a169c3397ac1dc00786dc9c7d3a1:USELESS:SHORT": {
-      "trader": "0x675462411d40a169c3397ac1dc00786dc9c7d3a1",
-      "coin": "USELESS",
-      "side": "SHORT",
-      "size": 17.75182206089732,
-      "entry_price": 0.20084452750000004,
-      "notional": 3.5653563140849993,
-      "margin": 1.1884521046949998,
-      "leverage": 3,
-      "opened_at": "2026-10-08T06:16:14.047573+00:00"
     },
     "0x015354106478dda69c4aae3c0cf801290b738052:ZEC:SHORT": {
       "trader": "0x015354106478dda69c4aae3c0cf801290b738052",
@@ -119196,7 +119152,12 @@
       "ts": "2026-11-14T06:56:38.609147+00:00",
       "equity": 10352.409030455074,
       "cash": -147.50948663554652
+    },
+    {
+      "ts": "2026-11-14T07:02:01.691529+00:00",
+      "equity": 10354.921231581427,
+      "cash": -134.24429146623115
     }
   ],
-  "last_processed_signal_index": 1451
+  "last_processed_signal_index": 1455
 }

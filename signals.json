@@ -18874,5 +18874,57 @@
     "leverage": 3,
     "unrealized_pnl": 25578.25445,
     "liquidation_price": 0.7333635589
+  },
+  {
+    "ts": "2026-11-14T07:01:55.498598+00:00",
+    "trader": "0x675462411d40a169c3397ac1dc00786dc9c7d3a1",
+    "type": "CLOSED",
+    "coin": "ENA",
+    "side": "SHORT",
+    "size": 190000.0,
+    "entry_price": 0.267161,
+    "position_value_usd": 24576.5,
+    "leverage": 10,
+    "unrealized_pnl": 26184.09674,
+    "liquidation_price": 2.2536942968
+  },
+  {
+    "ts": "2026-11-14T07:01:55.498598+00:00",
+    "trader": "0x675462411d40a169c3397ac1dc00786dc9c7d3a1",
+    "type": "CLOSED",
+    "coin": "MET",
+    "side": "SHORT",
+    "size": 150000.0,
+    "entry_price": 0.395794,
+    "position_value_usd": 42390.0,
+    "leverage": 3,
+    "unrealized_pnl": 16979.16916,
+    "liquidation_price": 2.7043524984
+  },
+  {
+    "ts": "2026-11-14T07:01:55.498598+00:00",
+    "trader": "0x675462411d40a169c3397ac1dc00786dc9c7d3a1",
+    "type": "CLOSED",
+    "coin": "STABLE",
+    "side": "SHORT",
+    "size": 5560000.0,
+    "entry_price": 0.026741,
+    "position_value_usd": 143197.8,
+    "leverage": 3,
+    "unrealized_pnl": 5483.692804,
+    "liquidation_price": 0.0910900494
+  },
+  {
+    "ts": "2026-11-14T07:01:55.498598+00:00",
+    "trader": "0x675462411d40a169c3397ac1dc00786dc9c7d3a1",
+    "type": "CLOSED",
+    "coin": "USELESS",
+    "side": "SHORT",
+    "size": 436887.0,
+    "entry_price": 0.2628,
+    "position_value_usd": 50547.8259,
+    "leverage": 3,
+    "unrealized_pnl": 64266.503512,
+    "liquidation_price": 0.9471801648
   }
 ]
