@@ -4,6 +4,14 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-14
 
+### 07:21 UTC — Position poll (Job B)
+- 4 signals (1 applied to the paper book)
+- CLOSED LONG NEAR x10 — 0x4cae5bed...
+- CLOSED LONG ENA x10 — 0x4cae5bed...
+- CLOSED LONG PUMP x10 — 0x4cae5bed...
+- CLOSED LONG ZEC x10 — 0x4cae5bed...
+- Portfolio: $10,355.97 (+3.56%)
+
 ### 07:14 UTC — Daily refresh (Job A)
 - Leaderboard: 47998 traders fetched, 5 shortlisted
 - Shortlist change: +2 new, -2 dropped
