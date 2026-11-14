@@ -19641,5 +19641,31 @@
     "leverage": 25,
     "unrealized_pnl": 148.0766,
     "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-11-14T22:51:55.036934+00:00",
+    "trader": "0x6859da14835424957a1e6b397d8026b1d9ff7e1e",
+    "type": "CLOSED",
+    "coin": "MNT",
+    "side": "SHORT",
+    "size": 1657.7,
+    "entry_price": 0.73688,
+    "position_value_usd": 608.359323,
+    "leverage": 5,
+    "unrealized_pnl": 613.177906,
+    "liquidation_price": 3497.0872175879
+  },
+  {
+    "ts": "2026-11-14T22:51:55.572411+00:00",
+    "trader": "0x77eeda199553e33b246e4b4666849b9ad0972902",
+    "type": "CLOSED",
+    "coin": "SOL",
+    "side": "LONG",
+    "size": 4459.53,
+    "entry_price": 69.434,
+    "position_value_usd": 309428.94858,
+    "leverage": 20,
+    "unrealized_pnl": -214.215535,
+    "liquidation_price": 0.0
   }
 ]
