@@ -1,5 +1,5 @@
 {
-  "cash": -108.46222416527434,
+  "cash": -93.51444455673709,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x08c14b32c8a48894e4b933090ebcc9ce33b21135:BTC:SHORT": {
@@ -1475,28 +1475,6 @@
       "margin": 15.734967042067083,
       "leverage": 3,
       "opened_at": "2026-09-16T06:15:51.188685+00:00"
-    },
-    "0x866d4903b256ce7e7caac46a91e83128bb0fd6e1:ZRO:LONG": {
-      "trader": "0x866d4903b256ce7e7caac46a91e83128bb0fd6e1",
-      "coin": "ZRO",
-      "side": "LONG",
-      "size": 69.1576714518543,
-      "entry_price": 1.53486705,
-      "notional": 106.14783116617681,
-      "margin": 35.3826103887256,
-      "leverage": 3,
-      "opened_at": "2026-09-24T06:16:00.591313+00:00"
-    },
-    "0x866d4903b256ce7e7caac46a91e83128bb0fd6e1:ZEC:LONG": {
-      "trader": "0x866d4903b256ce7e7caac46a91e83128bb0fd6e1",
-      "coin": "ZEC",
-      "side": "LONG",
-      "size": 0.06619818369549453,
-      "entry_price": 1523.3112749999998,
-      "notional": 100.84043960786796,
-      "margin": 33.61347986928932,
-      "leverage": 3,
-      "opened_at": "2026-09-24T06:16:00.591334+00:00"
     },
     "0xfdf891f2b214a4c9374d26595ec6d4080262e381:GRASS:LONG": {
       "trader": "0xfdf891f2b214a4c9374d26595ec6d4080262e381",
@@ -119834,7 +119812,12 @@
       "ts": "2026-11-14T20:41:39.726381+00:00",
       "equity": 10445.3173841037,
       "cash": -108.46222416527434
+    },
+    {
+      "ts": "2026-11-14T20:46:36.385100+00:00",
+      "equity": 10406.2507153609,
+      "cash": -93.51444455673709
     }
   ],
-  "last_processed_signal_index": 1480
+  "last_processed_signal_index": 1482
 }

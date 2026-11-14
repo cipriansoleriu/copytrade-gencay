@@ -19251,5 +19251,31 @@
     "leverage": 3,
     "unrealized_pnl": -41467.884365,
     "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-11-14T20:46:32.362361+00:00",
+    "trader": "0x866d4903b256ce7e7caac46a91e83128bb0fd6e1",
+    "type": "CLOSED",
+    "coin": "ZRO",
+    "side": "LONG",
+    "size": 1531695.4,
+    "entry_price": 0.92519,
+    "position_value_usd": 2248375.67766,
+    "leverage": 5,
+    "unrealized_pnl": 831260.349055,
+    "liquidation_price": 1.0208427196
+  },
+  {
+    "ts": "2026-11-14T20:46:32.362361+00:00",
+    "trader": "0x866d4903b256ce7e7caac46a91e83128bb0fd6e1",
+    "type": "CLOSED",
+    "coin": "ZEC",
+    "side": "LONG",
+    "size": 1802.05,
+    "entry_price": 674.7322,
+    "position_value_usd": 1498206.3495,
+    "leverage": 10,
+    "unrealized_pnl": 282305.0389,
+    "liquidation_price": 471.4023123005
   }
 ]
