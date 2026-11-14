@@ -4,6 +4,13 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-14
 
+### 21:07 UTC — Position poll (Job B)
+- 3 signals (1 applied to the paper book)
+- CLOSED SHORT TIA x5 — 0x45d26f28...
+- CLOSED LONG GRAM x5 — 0x45d26f28...
+- CLOSED LONG BTC x16 — 0xb0026ca4...
+- Portfolio: $10,450.77 (+4.51%)
+
 ### 20:56 UTC — Position poll (Job B)
 - 13 signals (5 applied to the paper book)
 - CLOSED LONG TIA x5 — 0x153c8444...
