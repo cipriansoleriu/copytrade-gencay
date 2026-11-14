@@ -1,5 +1,5 @@
 {
-  "cash": -119.7467240174018,
+  "cash": -113.16746804140968,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x08c14b32c8a48894e4b933090ebcc9ce33b21135:BTC:SHORT": {
@@ -2388,17 +2388,6 @@
       "margin": 5.219275585383684,
       "leverage": 3,
       "opened_at": "2026-10-15T06:16:11.905424+00:00"
-    },
-    "0xe187055ff406f8cdf59fbae53ec20d4ecd9b771d:SPX:SHORT": {
-      "trader": "0xe187055ff406f8cdf59fbae53ec20d4ecd9b771d",
-      "coin": "SPX",
-      "side": "SHORT",
-      "size": 43.117327055993805,
-      "entry_price": 0.34498742000000004,
-      "notional": 14.874935418343501,
-      "margin": 4.958311806114501,
-      "leverage": 3,
-      "opened_at": "2026-10-15T06:16:11.905429+00:00"
     },
     "0xe187055ff406f8cdf59fbae53ec20d4ecd9b771d:ASTER:SHORT": {
       "trader": "0xe187055ff406f8cdf59fbae53ec20d4ecd9b771d",
@@ -119590,7 +119579,12 @@
       "ts": "2026-11-14T15:31:44.174422+00:00",
       "equity": 10449.731930969812,
       "cash": -119.7467240174018
+    },
+    {
+      "ts": "2026-11-14T15:36:32.604649+00:00",
+      "equity": 10463.914336481726,
+      "cash": -113.16746804140968
     }
   ],
-  "last_processed_signal_index": 1470
+  "last_processed_signal_index": 1471
 }
