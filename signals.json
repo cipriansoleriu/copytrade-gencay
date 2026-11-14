@@ -18783,5 +18783,31 @@
     "leverage": 5,
     "unrealized_pnl": -38379.347741,
     "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-11-14T06:46:26.711773+00:00",
+    "trader": "0x675462411d40a169c3397ac1dc00786dc9c7d3a1",
+    "type": "CLOSED",
+    "coin": "CRV",
+    "side": "SHORT",
+    "size": 143000.0,
+    "entry_price": 0.35493,
+    "position_value_usd": 32972.94,
+    "leverage": 10,
+    "unrealized_pnl": 17782.396475,
+    "liquidation_price": 2.5839157864
+  },
+  {
+    "ts": "2026-11-14T06:46:26.711773+00:00",
+    "trader": "0x675462411d40a169c3397ac1dc00786dc9c7d3a1",
+    "type": "CLOSED",
+    "coin": "CAKE",
+    "side": "SHORT",
+    "size": 36963.7,
+    "entry_price": 2.6803,
+    "position_value_usd": 62038.025895,
+    "leverage": 3,
+    "unrealized_pnl": 37035.932525,
+    "liquidation_price": 9.8721811293
   }
 ]
