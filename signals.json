@@ -19732,5 +19732,44 @@
     "leverage": 20,
     "unrealized_pnl": 20440.352347,
     "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-11-15T01:36:33.578056+00:00",
+    "trader": "0x482b0f4dad512fe086e121882a81e34c374acae4",
+    "type": "CLOSED",
+    "coin": "SOL",
+    "side": "LONG",
+    "size": 7411.46,
+    "entry_price": 69.6724,
+    "position_value_usd": 507173.61926,
+    "leverage": 20,
+    "unrealized_pnl": -9201.235104,
+    "liquidation_price": 15.923771534
+  },
+  {
+    "ts": "2026-11-15T01:36:34.954966+00:00",
+    "trader": "0x6859da14835424957a1e6b397d8026b1d9ff7e1e",
+    "type": "CLOSED",
+    "coin": "XPL",
+    "side": "LONG",
+    "size": 44485.0,
+    "entry_price": 0.042049,
+    "position_value_usd": 1894.88306,
+    "leverage": 10,
+    "unrealized_pnl": 24.323936,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-11-15T01:36:34.954966+00:00",
+    "trader": "0x6859da14835424957a1e6b397d8026b1d9ff7e1e",
+    "type": "CLOSED",
+    "coin": "AERO",
+    "side": "LONG",
+    "size": 869.0,
+    "entry_price": 0.46059,
+    "position_value_usd": 365.97935,
+    "leverage": 3,
+    "unrealized_pnl": -34.27336,
+    "liquidation_price": 0.0
   }
 ]
