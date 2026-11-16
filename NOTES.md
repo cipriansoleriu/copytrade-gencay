@@ -4,8 +4,13 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-16
 
-### 18:47 UTC — Position poll (Job B)
-- 3 signals (2 applied to the paper book)
+### 19:26 UTC — Position poll (Job B)
+- 1 signals (1 applied to the paper book)
+- CLOSED SHORT FARTCOIN x3 — 0x5b5d5120...
+- Portfolio: $10,560.98 (+5.61%)
+
+### 17:56 UTC — Position poll (Job B)
+- 1 signals (0 applied to the paper book)
 - CLOSED SHORT ZRO x3 — 0x5b5d5120...
 - CLOSED SHORT FARTCOIN x3 — 0x5b5d5120...
 - CLOSED SHORT VVV x3 — 0x5b5d5120...
