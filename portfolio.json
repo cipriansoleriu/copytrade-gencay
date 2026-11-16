@@ -1,5 +1,5 @@
 {
-  "cash": 13.954249433772166,
+  "cash": 22.595653312602025,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x08c14b32c8a48894e4b933090ebcc9ce33b21135:BTC:SHORT": {
@@ -2157,28 +2157,6 @@
       "margin": 3.644814799864967,
       "leverage": 3,
       "opened_at": "2026-10-15T06:16:11.905467+00:00"
-    },
-    "0x5b5d51203a0f9079f8aeb098a6523a13f298c060:NEAR:SHORT": {
-      "trader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
-      "coin": "NEAR",
-      "side": "SHORT",
-      "size": 1.6513201723581266,
-      "entry_price": 4.624136775,
-      "notional": 7.635930336300552,
-      "margin": 2.545310112100184,
-      "leverage": 3,
-      "opened_at": "2026-10-15T06:16:11.905495+00:00"
-    },
-    "0x5b5d51203a0f9079f8aeb098a6523a13f298c060:PUMP:SHORT": {
-      "trader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
-      "coin": "PUMP",
-      "side": "SHORT",
-      "size": 1309.0718943602253,
-      "entry_price": 0.004287855000000001,
-      "notional": 5.613110467591965,
-      "margin": 1.871036822530655,
-      "leverage": 3,
-      "opened_at": "2026-10-15T06:16:11.905691+00:00"
     },
     "0x5b5d51203a0f9079f8aeb098a6523a13f298c060:ZEC:SHORT": {
       "trader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
@@ -122193,7 +122171,12 @@
       "ts": "2026-11-16T22:16:50.375108+00:00",
       "equity": 10543.631550842736,
       "cash": 13.954249433772166
+    },
+    {
+      "ts": "2026-11-16T22:21:58.644960+00:00",
+      "equity": 10550.025121515384,
+      "cash": 22.595653312602025
     }
   ],
-  "last_processed_signal_index": 1560
+  "last_processed_signal_index": 1563
 }
