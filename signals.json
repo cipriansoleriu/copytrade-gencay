@@ -20330,5 +20330,31 @@
     "leverage": 3,
     "unrealized_pnl": -5124.1081,
     "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-11-16T22:26:31.131701+00:00",
+    "trader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
+    "type": "CLOSED",
+    "coin": "BNB",
+    "side": "SHORT",
+    "size": 119.839,
+    "entry_price": 780.108,
+    "position_value_usd": 71196.3499,
+    "leverage": 3,
+    "unrealized_pnl": 22291.11854,
+    "liquidation_price": 6131.2748113799
+  },
+  {
+    "ts": "2026-11-16T22:26:31.131701+00:00",
+    "trader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
+    "type": "CLOSED",
+    "coin": "ZEC",
+    "side": "SHORT",
+    "size": 90.97,
+    "entry_price": 1468.6154,
+    "position_value_usd": 82600.76,
+    "leverage": 3,
+    "unrealized_pnl": 50999.189597,
+    "liquidation_price": 8202.3771817187
   }
 ]
