@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-16
 
+### 07:41 UTC — Position poll (Job B)
+- 1 signals (0 applied to the paper book)
+- CLOSED LONG SOL x7 — 0x5b5d5120...
+- Portfolio: $10,518.38 (+5.18%)
+
 ### 07:14 UTC — Daily refresh (Job A)
 - Leaderboard: 47687 traders fetched, 5 shortlisted
 - Shortlist change: +2 new, -2 dropped
