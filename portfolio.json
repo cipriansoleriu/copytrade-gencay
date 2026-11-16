@@ -1,5 +1,5 @@
 {
-  "cash": -44.53266804859006,
+  "cash": -40.12533775003087,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x08c14b32c8a48894e4b933090ebcc9ce33b21135:BTC:SHORT": {
@@ -2278,17 +2278,6 @@
       "margin": 2.182285257361895,
       "leverage": 3,
       "opened_at": "2026-10-15T06:16:11.905680+00:00"
-    },
-    "0x5b5d51203a0f9079f8aeb098a6523a13f298c060:FARTCOIN:SHORT": {
-      "trader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
-      "coin": "FARTCOIN",
-      "side": "SHORT",
-      "size": 42.041918084110634,
-      "entry_price": 0.14793599500000001,
-      "notional": 6.219512983481401,
-      "margin": 2.0731709944938004,
-      "leverage": 3,
-      "opened_at": "2026-10-15T06:16:11.905684+00:00"
     },
     "0x5b5d51203a0f9079f8aeb098a6523a13f298c060:PUMP:SHORT": {
       "trader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
@@ -122165,7 +122154,12 @@
       "ts": "2026-11-16T18:32:09.492237+00:00",
       "equity": 10569.771029692884,
       "cash": -44.53266804859006
+    },
+    {
+      "ts": "2026-11-16T18:36:37.415511+00:00",
+      "equity": 10572.209562554992,
+      "cash": -40.12533775003087
     }
   ],
-  "last_processed_signal_index": 1543
+  "last_processed_signal_index": 1544
 }
