@@ -4,10 +4,10 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-16
 
-### 17:11 UTC — Position poll (Job B)
+### 17:23 UTC — Position poll (Job B)
 - 1 signals (1 applied to the paper book)
 - CLOSED SHORT DOGE x3 — 0x5b5d5120...
-- Portfolio: $10,592.47 (+5.92%)
+- Portfolio: $10,586.54 (+5.87%)
 
 ### 15:06 UTC — Position poll (Job B)
 - 1 signals (0 applied to the paper book)
