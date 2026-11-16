@@ -20046,7 +20046,33 @@
     "liquidation_price": 0.1733944148
   },
   {
-    "ts": "2026-11-16T17:36:33.955443+00:00",
+    "ts": "2026-11-16T18:47:40.137357+00:00",
+    "trader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
+    "type": "CLOSED",
+    "coin": "ZRO",
+    "side": "SHORT",
+    "size": 758262.6,
+    "entry_price": 1.78712,
+    "position_value_usd": 1115176.80582,
+    "leverage": 3,
+    "unrealized_pnl": 239936.313671,
+    "liquidation_price": 6.1263225417
+  },
+  {
+    "ts": "2026-11-16T18:47:40.137357+00:00",
+    "trader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
+    "type": "CLOSED",
+    "coin": "FARTCOIN",
+    "side": "SHORT",
+    "size": 13736444.5,
+    "entry_price": 0.20186,
+    "position_value_usd": 1287791.671875,
+    "leverage": 3,
+    "unrealized_pnl": 1485063.417586,
+    "liquidation_price": 0.362981858
+  },
+  {
+    "ts": "2026-11-16T18:47:40.137357+00:00",
     "trader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
     "type": "CLOSED",
     "coin": "VVV",
@@ -20057,31 +20083,5 @@
     "leverage": 3,
     "unrealized_pnl": 132411.041448,
     "liquidation_price": 131.6613476292
-  },
-  {
-    "ts": "2026-11-16T17:56:30.884764+00:00",
-    "trader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
-    "type": "CLOSED",
-    "coin": "ZRO",
-    "side": "SHORT",
-    "size": 58262.6,
-    "entry_price": 1.78712,
-    "position_value_usd": 84521.55382,
-    "leverage": 3,
-    "unrealized_pnl": 19601.231068,
-    "liquidation_price": 64.9265580641
-  },
-  {
-    "ts": "2026-11-16T18:36:31.157883+00:00",
-    "trader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
-    "type": "CLOSED",
-    "coin": "FARTCOIN",
-    "side": "SHORT",
-    "size": 212800.0,
-    "entry_price": 0.20186,
-    "position_value_usd": 19694.64,
-    "leverage": 3,
-    "unrealized_pnl": 23261.422071,
-    "liquidation_price": 13.0422581838
   }
 ]
