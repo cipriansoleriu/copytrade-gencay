@@ -2,6 +2,16 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-11-17
+
+### 05:41 UTC — Position poll (Job B)
+- 4 signals (4 applied to the paper book)
+- CLOSED LONG WLD x10 — 0xeadc152a...
+- CLOSED LONG TAO x5 — 0xeadc152a...
+- CLOSED LONG FARTCOIN x10 — 0xeadc152a...
+- CLOSED LONG XPL x10 — 0xeadc152a...
+- Portfolio: $10,657.22 (+6.57%)
+
 ## 2026-11-16
 
 ### 22:26 UTC — Position poll (Job B)
