@@ -1,5 +1,5 @@
 {
-  "cash": 6.06335085062525,
+  "cash": 7.293074887065271,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x08c14b32c8a48894e4b933090ebcc9ce33b21135:BTC:SHORT": {
@@ -1123,50 +1123,6 @@
       "margin": 5.262440957497585,
       "leverage": 3,
       "opened_at": "2026-09-06T06:15:49.844591+00:00"
-    },
-    "0xeadc152ac1014ace57c6b353f89adf5faffe9d55:XRP:LONG": {
-      "trader": "0xeadc152ac1014ace57c6b353f89adf5faffe9d55",
-      "coin": "XRP",
-      "side": "LONG",
-      "size": 7.109783535601819,
-      "entry_price": 1.3892442749999998,
-      "notional": 9.877226073324085,
-      "margin": 3.292408691108028,
-      "leverage": 3,
-      "opened_at": "2026-09-08T06:15:42.945598+00:00"
-    },
-    "0xeadc152ac1014ace57c6b353f89adf5faffe9d55:kBONK:LONG": {
-      "trader": "0xeadc152ac1014ace57c6b353f89adf5faffe9d55",
-      "coin": "kBONK",
-      "side": "LONG",
-      "size": 1995.5115137841676,
-      "entry_price": 0.003119559,
-      "notional": 6.225115902429025,
-      "margin": 2.075038634143008,
-      "leverage": 3,
-      "opened_at": "2026-09-08T06:15:42.945637+00:00"
-    },
-    "0xeadc152ac1014ace57c6b353f89adf5faffe9d55:PUMP:LONG": {
-      "trader": "0xeadc152ac1014ace57c6b353f89adf5faffe9d55",
-      "coin": "PUMP",
-      "side": "LONG",
-      "size": 827.8542599421428,
-      "entry_price": 0.0042771375,
-      "notional": 3.540846499733287,
-      "margin": 1.1802821665777623,
-      "leverage": 3,
-      "opened_at": "2026-09-08T06:15:42.945688+00:00"
-    },
-    "0xeadc152ac1014ace57c6b353f89adf5faffe9d55:GRAM:LONG": {
-      "trader": "0xeadc152ac1014ace57c6b353f89adf5faffe9d55",
-      "coin": "GRAM",
-      "side": "LONG",
-      "size": 1.971895797632933,
-      "entry_price": 1.3894443749999998,
-      "notional": 2.7398395241072167,
-      "margin": 0.9132798413690723,
-      "leverage": 3,
-      "opened_at": "2026-09-08T06:15:42.945706+00:00"
     },
     "0xfd6a531508649697c6e133adcb82efcd0c737737:BTC:LONG": {
       "trader": "0xfd6a531508649697c6e133adcb82efcd0c737737",
@@ -124608,7 +124564,12 @@
       "ts": "2026-11-18T08:06:54.404649+00:00",
       "equity": 10435.958002919393,
       "cash": 6.06335085062525
+    },
+    {
+      "ts": "2026-11-18T08:11:41.758415+00:00",
+      "equity": 10431.271851477777,
+      "cash": 7.293074887065271
     }
   ],
-  "last_processed_signal_index": 1637
+  "last_processed_signal_index": 1641
 }
