@@ -2,6 +2,13 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-11-19
+
+### 05:06 UTC — Position poll (Job B)
+- 1 signals (0 applied to the paper book)
+- CLOSED LONG SOPH x1 — 0xb3e47536...
+- Portfolio: $10,628.45 (+6.28%)
+
 ## 2026-11-18
 
 ### 22:16 UTC — Position poll (Job B)
