@@ -1,15 +1,15 @@
 {
-  "account_value": 1101522.574317,
+  "account_value": 1107079.448567,
   "positions": [
     {
       "coin": "SOL",
       "side": "SHORT",
       "size": 0.01,
       "entry_price": 84.9189,
-      "position_value_usd": 0.73381,
+      "position_value_usd": 0.73339,
       "leverage": 20,
-      "unrealized_pnl": 0.115379,
-      "liquidation_price": 121984110.56682928
+      "unrealized_pnl": 0.115799,
+      "liquidation_price": 122472042.69356099
     },
     {
       "coin": "AAVE",
@@ -19,16 +19,16 @@
       "position_value_usd": 4716653.1636,
       "leverage": 10,
       "unrealized_pnl": 1366963.122805,
-      "liquidation_price": 78.5267632098
+      "liquidation_price": 78.4051912543
     },
     {
       "coin": "ZRO",
       "side": "LONG",
       "size": 905028.5,
       "entry_price": 1.05263,
-      "position_value_usd": 1265772.8601,
+      "position_value_usd": 1271329.73509,
       "leverage": 5,
-      "unrealized_pnl": 313110.470188,
+      "unrealized_pnl": 318667.345178,
       "liquidation_price": 0.0
     },
     {
@@ -36,11 +36,11 @@
       "side": "LONG",
       "size": 0.01,
       "entry_price": 32.7375,
-      "position_value_usd": 0.66822,
+      "position_value_usd": 0.66706,
       "leverage": 10,
-      "unrealized_pnl": 0.340845,
+      "unrealized_pnl": 0.339685,
       "liquidation_price": 0.0
     }
   ],
-  "timestamp_ms": 1795046526484
+  "timestamp_ms": 1795046791907
 }
