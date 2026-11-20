@@ -2,6 +2,13 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-11-20
+
+### 01:56 UTC — Position poll (Job B)
+- 1 signals (1 applied to the paper book)
+- CLOSED LONG UNI x10 — 0xf21d494b...
+- Portfolio: $10,471.37 (+4.71%)
+
 ## 2026-11-19
 
 ### 21:56 UTC — Position poll (Job B)
