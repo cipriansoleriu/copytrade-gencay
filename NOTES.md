@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-20
 
+### 20:36 UTC — Position poll (Job B)
+- 1 signals (0 applied to the paper book)
+- CLOSED LONG ETH x20 — 0xf02d028f...
+- Portfolio: $10,344.18 (+3.44%)
+
 ### 20:26 UTC — Position poll (Job B)
 - 1 signals (0 applied to the paper book)
 - CLOSED SHORT VIRTUAL x5 — 0x6859da14...
