@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-20
 
+### 15:11 UTC — Position poll (Job B)
+- 1 signals (0 applied to the paper book)
+- CLOSED SHORT BTC x40 — 0x77eeda19...
+- Portfolio: $10,372.79 (+3.73%)
+
 ### 07:14 UTC — Daily refresh (Job A)
 - Leaderboard: 46454 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
