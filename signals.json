@@ -22137,5 +22137,31 @@
     "leverage": 20,
     "unrealized_pnl": -3450.89952,
     "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-11-21T03:36:33.271710+00:00",
+    "trader": "0x482b0f4dad512fe086e121882a81e34c374acae4",
+    "type": "CLOSED",
+    "coin": "ETH",
+    "side": "SHORT",
+    "size": 566.7507,
+    "entry_price": 1609.85,
+    "position_value_usd": 893176.433172,
+    "leverage": 25,
+    "unrealized_pnl": 19212.364978,
+    "liquidation_price": 2380.6973590996
+  },
+  {
+    "ts": "2026-11-21T03:36:37.807335+00:00",
+    "trader": "0xf78c5d8d4b604a140d43a46209fade655536c581",
+    "type": "CLOSED",
+    "coin": "ETH",
+    "side": "LONG",
+    "size": 5200.1772,
+    "entry_price": 2521.53,
+    "position_value_usd": 8179358.71788,
+    "leverage": 20,
+    "unrealized_pnl": -4933074.039201,
+    "liquidation_price": 1571.1369715324
   }
 ]
