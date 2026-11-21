@@ -22306,5 +22306,31 @@
     "leverage": 5,
     "unrealized_pnl": -19.431898,
     "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-11-21T04:46:52.561302+00:00",
+    "trader": "0x77eeda199553e33b246e4b4666849b9ad0972902",
+    "type": "CLOSED",
+    "coin": "WIF",
+    "side": "SHORT",
+    "size": 23071.0,
+    "entry_price": 0.120559,
+    "position_value_usd": 2639.3224,
+    "leverage": 5,
+    "unrealized_pnl": 142.09474,
+    "liquidation_price": 587.2521257827
+  },
+  {
+    "ts": "2026-11-21T04:46:52.561302+00:00",
+    "trader": "0x77eeda199553e33b246e4b4666849b9ad0972902",
+    "type": "CLOSED",
+    "coin": "ICP",
+    "side": "SHORT",
+    "size": 2330.4,
+    "entry_price": 2.01248,
+    "position_value_usd": 4399.305816,
+    "leverage": 5,
+    "unrealized_pnl": 290.581484,
+    "liquidation_price": 5814.5613531364
   }
 ]
