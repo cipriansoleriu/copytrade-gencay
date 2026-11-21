@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-21
 
+### 13:22 UTC — Position poll (Job B)
+- 1 signals (0 applied to the paper book)
+- CLOSED SHORT ETH x20 — 0xf02d028f...
+- Portfolio: $10,348.08 (+3.48%)
+
 ### 07:14 UTC — Daily refresh (Job A)
 - Leaderboard: 46203 traders fetched, 5 shortlisted
 - Shortlist change: +2 new, -2 dropped
