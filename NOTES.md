@@ -4,6 +4,31 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-22
 
+### 07:14 UTC — Daily refresh (Job A)
+- Leaderboard: 46385 traders fetched, 5 shortlisted
+- Shortlist change: +5 new, -5 dropped
+-   +0xd7b19f8aaf5c9619bd5141945a73d2ca74984451
+-   +0xceec48581b3145a575508719f45da07dc57fa7ce
+-   +0x1bf629cd9f4dbcc9fca616ccf7a19891007f5bfa
+-   +0xa98143608a6846453c88f29506d64a8b85532e65
+-   +0x4fd04553468610e5a88a2cffa38e057c954312da
+-   -0x45d26f28196d226497130c4bac709d808fed4029
+-   -0xcf5343ba750a6e30afbb1dadda08bc78f8c8ee11
+-   -0xbe19541903f64af97bcf8436f4d15bf3a56b8bd1
+-   -0x218a65e21eddeece7a9df38c6bbdd89f692b7da2
+-   -0xd47587702a91731dc1089b5db0932cf820151a91
+- #1 0xd7b19f8a... acc=$9,454,297 month=$3,353,054 edge=2017bps
+- #2 0xceec4858... acc=$14,256,770 month=$5,609,766 edge=2144bps
+- #3 0x1bf629cd... acc=$2,463,729 month=$1,308,192 edge=1656bps
+- #4 0xa9814360... acc=$8,442,482 month=$1,340,449 edge=2251bps
+- #5 0x4fd04553... acc=$10,122,493 month=$2,285,766 edge=3413bps
+- Current positions across the shortlist:
+-   0xd7b19f8a... no open positions
+-   0xceec4858... 1 positions: SHORT HYPE x10
+-   0x1bf629cd... 2 positions: SHORT ENA x10, SHORT HYPE x10
+-   0xa9814360... 6 positions: SHORT SOL x20, SHORT ZRO x5, LONG NEAR x10, SHORT HYPE x10, SHORT MON x5, SHORT LIT x5
+-   0x4fd04553... 1 positions: SHORT HYPE x10
+
 ### 00:36 UTC — Position poll (Job B)
 - 1 signals (0 applied to the paper book)
 - CLOSED LONG BTC x11 — 0x880ac484...
