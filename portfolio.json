@@ -1,5 +1,5 @@
 {
-  "cash": 617.6090886538641,
+  "cash": 618.1872879884559,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x08c14b32c8a48894e4b933090ebcc9ce33b21135:ARB:LONG": {
@@ -2938,17 +2938,6 @@
       "margin": 0.4341276690033222,
       "leverage": 3,
       "opened_at": "2026-11-18T07:16:45.639781+00:00"
-    },
-    "0xa20fb0c9e04063eec5be286e9269028d966646fa:SEI:SHORT": {
-      "trader": "0xa20fb0c9e04063eec5be286e9269028d966646fa",
-      "coin": "SEI",
-      "side": "SHORT",
-      "size": 31.115091445266884,
-      "entry_price": 0.039764108,
-      "notional": 1.2372638566594685,
-      "margin": 0.41242128555315616,
-      "leverage": 3,
-      "opened_at": "2026-11-18T07:16:45.639784+00:00"
     },
     "0xa20fb0c9e04063eec5be286e9269028d966646fa:W:LONG": {
       "trader": "0xa20fb0c9e04063eec5be286e9269028d966646fa",
@@ -132389,7 +132378,12 @@
       "ts": "2026-11-23T19:36:55.819011+00:00",
       "equity": 10190.51530445879,
       "cash": 617.6090886538641
+    },
+    {
+      "ts": "2026-11-23T19:42:05.400870+00:00",
+      "equity": 10177.973262580726,
+      "cash": 618.1872879884559
     }
   ],
-  "last_processed_signal_index": 1759
+  "last_processed_signal_index": 1760
 }
