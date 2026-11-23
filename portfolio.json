@@ -1,5 +1,5 @@
 {
-  "cash": 649.0197401731152,
+  "cash": 649.681423057246,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x08c14b32c8a48894e4b933090ebcc9ce33b21135:ARB:LONG": {
@@ -3004,28 +3004,6 @@
       "margin": 0.31912372898027636,
       "leverage": 3,
       "opened_at": "2026-11-18T07:16:45.639814+00:00"
-    },
-    "0x5ccaf678b74464fac20f6cae8cbaa9b402010c45:ETH:SHORT": {
-      "trader": "0x5ccaf678b74464fac20f6cae8cbaa9b402010c45",
-      "coin": "ETH",
-      "side": "SHORT",
-      "size": 0.0006070316892506822,
-      "entry_price": 1802.148475,
-      "notional": 1.0939612330597908,
-      "margin": 0.3646537443532636,
-      "leverage": 3,
-      "opened_at": "2026-11-19T07:16:39.013077+00:00"
-    },
-    "0x5ccaf678b74464fac20f6cae8cbaa9b402010c45:SOL:SHORT": {
-      "trader": "0x5ccaf678b74464fac20f6cae8cbaa9b402010c45",
-      "coin": "SOL",
-      "side": "SHORT",
-      "size": 0.013872930306512569,
-      "entry_price": 74.91302475,
-      "notional": 1.0392631714068012,
-      "margin": 0.3464210571356004,
-      "leverage": 3,
-      "opened_at": "2026-11-19T07:16:39.013099+00:00"
     },
     "0x5ccaf678b74464fac20f6cae8cbaa9b402010c45:ARB:SHORT": {
       "trader": "0x5ccaf678b74464fac20f6cae8cbaa9b402010c45",
@@ -132101,7 +132079,12 @@
       "ts": "2026-11-23T14:26:28.304287+00:00",
       "equity": 10348.054890035373,
       "cash": 649.0197401731152
+    },
+    {
+      "ts": "2026-11-23T14:32:30.377328+00:00",
+      "equity": 10362.66847505215,
+      "cash": 649.681423057246
     }
   ],
-  "last_processed_signal_index": 1752
+  "last_processed_signal_index": 1754
 }
