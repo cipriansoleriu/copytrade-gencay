@@ -4,6 +4,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-23
 
+### 07:17 UTC — Position poll (Job B)
+- 1 signals (1 applied to the paper book)
+- NEW LONG ETH x3 — 0xc7d0b62b...
+- Portfolio: $10,367.60 (+3.68%)
+
 ### 07:14 UTC — Daily refresh (Job A)
 - Leaderboard: 46644 traders fetched, 5 shortlisted
 - Shortlist change: +1 new, -1 dropped
