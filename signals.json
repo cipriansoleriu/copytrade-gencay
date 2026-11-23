@@ -22735,5 +22735,31 @@
     "leverage": 3,
     "unrealized_pnl": 2395545.60513,
     "liquidation_price": 893.0927075164
+  },
+  {
+    "ts": "2026-11-23T09:02:22.767922+00:00",
+    "trader": "0x7facb3ec0415d6605e0cf5dff744f1108224ff4d",
+    "type": "CLOSED",
+    "coin": "PENDLE",
+    "side": "SHORT",
+    "size": 8125.0,
+    "entry_price": 2.5939,
+    "position_value_usd": 10744.5,
+    "leverage": 5,
+    "unrealized_pnl": 10330.9375,
+    "liquidation_price": 68.7521990428
+  },
+  {
+    "ts": "2026-11-23T09:02:22.767922+00:00",
+    "trader": "0x7facb3ec0415d6605e0cf5dff744f1108224ff4d",
+    "type": "CLOSED",
+    "coin": "ETHFI",
+    "side": "SHORT",
+    "size": 30150.0,
+    "entry_price": 0.74381,
+    "position_value_usd": 15198.012,
+    "leverage": 5,
+    "unrealized_pnl": 7227.884726,
+    "liquidation_price": 18.6754603391
   }
 ]
