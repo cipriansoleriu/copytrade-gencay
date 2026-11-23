@@ -1,55 +1,55 @@
 {
-  "account_value": 338989.594916,
+  "account_value": 349454.369264,
   "positions": [
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 1000.0,
       "entry_price": 1758.0,
-      "position_value_usd": 1746900.0,
+      "position_value_usd": 1740200.0,
       "leverage": 10,
-      "unrealized_pnl": 11100.0,
-      "liquidation_price": 2673.2573365245
+      "unrealized_pnl": 17800.0,
+      "liquidation_price": 2678.5143101176
     },
     {
       "coin": "ARB",
       "side": "SHORT",
       "size": 1057889.3,
       "entry_price": 0.16927,
-      "position_value_usd": 120927.325883,
+      "position_value_usd": 119890.594369,
       "leverage": 10,
-      "unrealized_pnl": 58151.587552,
-      "liquidation_price": 0.9649566452
+      "unrealized_pnl": 59188.319066,
+      "liquidation_price": 0.9749563817
     },
     {
       "coin": "SUI",
       "side": "SHORT",
       "size": 486043.8,
       "entry_price": 0.7238,
-      "position_value_usd": 333387.163296,
+      "position_value_usd": 331841.544012,
       "leverage": 10,
-      "unrealized_pnl": 18412.652239,
-      "liquidation_price": 2.5373786217
+      "unrealized_pnl": 19958.271523,
+      "liquidation_price": 2.5580963564
     },
     {
       "coin": "AAVE",
       "side": "SHORT",
       "size": 569.47,
       "entry_price": 131.7,
-      "position_value_usd": 56783.56211,
+      "position_value_usd": 56345.63968,
       "leverage": 8,
-      "unrealized_pnl": 18215.66779,
-      "liquidation_price": 1679.9366887841
+      "unrealized_pnl": 18653.59022,
+      "liquidation_price": 1699.5644538054
     },
     {
       "coin": "ENA",
       "side": "SHORT",
       "size": 846024.0,
       "entry_price": 0.1773,
-      "position_value_usd": 87715.76832,
+      "position_value_usd": 86971.2672,
       "leverage": 9,
-      "unrealized_pnl": 62284.67395,
-      "liquidation_price": 1.1673495697
+      "unrealized_pnl": 63029.17507,
+      "liquidation_price": 1.1801989034
     },
     {
       "coin": "VVV",
@@ -62,5 +62,5 @@
       "liquidation_price": 0.0
     }
   ],
-  "timestamp_ms": 1795460800662
+  "timestamp_ms": 1795461135248
 }
