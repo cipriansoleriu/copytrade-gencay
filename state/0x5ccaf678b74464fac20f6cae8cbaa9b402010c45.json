@@ -1,66 +1,66 @@
 {
-  "account_value": 349573.639735,
+  "account_value": 335149.87293,
   "positions": [
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 1000.0,
       "entry_price": 1758.0,
-      "position_value_usd": 1677900.0,
+      "position_value_usd": 1680900.0,
       "leverage": 10,
-      "unrealized_pnl": 80100.0,
-      "liquidation_price": 2664.5438868049
+      "unrealized_pnl": 77100.0,
+      "liquidation_price": 2652.6908984961
     },
     {
       "coin": "ARB",
       "side": "SHORT",
       "size": 1057889.3,
       "entry_price": 0.16927,
-      "position_value_usd": 117446.870086,
+      "position_value_usd": 117669.026839,
       "leverage": 10,
-      "unrealized_pnl": 61632.043349,
-      "liquidation_price": 1.0170260079
+      "unrealized_pnl": 61409.886596,
+      "liquidation_price": 1.0035969464
     },
     {
       "coin": "SUI",
       "side": "SHORT",
       "size": 700000.0,
       "entry_price": 0.70094,
-      "position_value_usd": 447405.0,
+      "position_value_usd": 448126.0,
       "leverage": 10,
-      "unrealized_pnl": 43255.603083,
-      "liquidation_price": 2.0083700878
+      "unrealized_pnl": 42534.603083,
+      "liquidation_price": 1.9887877775
     },
     {
       "coin": "AAVE",
       "side": "SHORT",
       "size": 569.47,
       "entry_price": 131.7,
-      "position_value_usd": 53128.70365,
+      "position_value_usd": 53307.51723,
       "leverage": 8,
-      "unrealized_pnl": 21870.52625,
-      "liquidation_price": 1776.3583070524
+      "unrealized_pnl": 21691.71267,
+      "liquidation_price": 1751.3353846258
     },
     {
       "coin": "ENA",
       "side": "SHORT",
       "size": 846024.0,
       "entry_price": 0.1773,
-      "position_value_usd": 82687.847688,
+      "position_value_usd": 82815.597312,
       "leverage": 9,
-      "unrealized_pnl": 67312.594582,
-      "liquidation_price": 1.2306292837
+      "unrealized_pnl": 67184.844958,
+      "liquidation_price": 1.2137256645
     },
     {
       "coin": "VVV",
       "side": "LONG",
       "size": 13000.0,
       "entry_price": 16.3973,
-      "position_value_usd": 322985.0,
+      "position_value_usd": 321295.0,
       "leverage": 3,
-      "unrealized_pnl": 109818.807116,
+      "unrealized_pnl": 108128.807116,
       "liquidation_price": 0.0
     }
   ],
-  "timestamp_ms": 1795533999636
+  "timestamp_ms": 1795534332987
 }
