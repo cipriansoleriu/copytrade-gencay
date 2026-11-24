@@ -4,6 +4,12 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-24
 
+### 12:17 UTC — Position poll (Job B)
+- 2 signals (1 applied to the paper book)
+- NEW LONG ZEC x10 — 0xc435249d...
+- CLOSED SHORT ZEC x10 — 0xc435249d...
+- Portfolio: $10,058.95 (+0.59%)
+
 ### 11:17 UTC — Position poll (Job B)
 - 1 signals (0 applied to the paper book)
 - CLOSED SHORT HYPE x8 — 0x880ac484...
