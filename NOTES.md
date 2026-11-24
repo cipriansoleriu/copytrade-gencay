@@ -4,6 +4,13 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-24
 
+### 07:17 UTC — Position poll (Job B)
+- 3 signals (1 applied to the paper book)
+- NEW SHORT XMR x5 — 0xc435249d...
+- CLOSED SHORT ONDO x10 — 0xc435249d...
+- CLOSED LONG XMR x5 — 0xc435249d...
+- Portfolio: $10,134.72 (+1.35%)
+
 ### 07:14 UTC — Daily refresh (Job A)
 - Leaderboard: 46760 traders fetched, 5 shortlisted
 - Shortlist change: +5 new, -5 dropped
