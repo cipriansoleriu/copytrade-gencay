@@ -4,6 +4,14 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-26
 
+### 07:17 UTC — Position poll (Job B)
+- 4 signals (4 applied to the paper book)
+- NEW SHORT ETH x20 — 0xfce053a5...
+- NEW SHORT HYPE x3 — 0xfce053a5...
+- NEW LONG SUI x10 — 0xe06508f3...
+- NEW SHORT HYPE x10 — 0xe06508f3...
+- Portfolio: $9,784.57 (-2.15%)
+
 ### 07:14 UTC — Daily refresh (Job A)
 - Leaderboard: 46806 traders fetched, 5 shortlisted
 - Shortlist change: +5 new, -5 dropped
