@@ -1,56 +1,56 @@
 {
-  "account_value": 830381.161581,
+  "account_value": 822539.227553,
   "positions": [
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 646.1115,
       "entry_price": 1575.39,
-      "position_value_usd": 1100327.8845,
+      "position_value_usd": 1100134.05105,
       "leverage": 25,
-      "unrealized_pnl": -82447.75103,
-      "liquidation_price": 2542.1597979014
+      "unrealized_pnl": -82253.91758,
+      "liquidation_price": 2530.6541872037
     },
     {
       "coin": "SUI",
       "side": "SHORT",
       "size": 607228.3,
       "entry_price": 0.5948,
-      "position_value_usd": 409387.247577,
+      "position_value_usd": 408950.043201,
       "leverage": 10,
-      "unrealized_pnl": -48204.887674,
-      "liquidation_price": 1.5415732069
+      "unrealized_pnl": -47767.683298,
+      "liquidation_price": 1.5292707186
     },
     {
       "coin": "NEAR",
       "side": "SHORT",
       "size": 145632.9,
       "entry_price": 2.85259,
-      "position_value_usd": 448811.47122,
+      "position_value_usd": 447719.22447,
       "leverage": 10,
-      "unrealized_pnl": -33379.30998,
-      "liquidation_price": 6.6984252967
+      "unrealized_pnl": -32287.06323,
+      "liquidation_price": 6.6426311634
     },
     {
       "coin": "PURR",
       "side": "LONG",
       "size": 13140536.0,
       "entry_price": 0.1122,
-      "position_value_usd": 966841.217272,
+      "position_value_usd": 968168.411408,
       "leverage": 3,
-      "unrealized_pnl": -507531.321742,
-      "liquidation_price": 0.0230736161
+      "unrealized_pnl": -506204.127606,
+      "liquidation_price": 0.0238490065
     },
     {
       "coin": "HYPE",
       "side": "LONG",
       "size": 45009.97,
       "entry_price": 52.5944,
-      "position_value_usd": 2827841.38519,
+      "position_value_usd": 2816948.97245,
       "leverage": 10,
-      "unrealized_pnl": 460567.739495,
-      "liquidation_price": 49.8933833701
+      "unrealized_pnl": 449675.326755,
+      "liquidation_price": 49.8240907296
     }
   ],
-  "timestamp_ms": 1795723905759
+  "timestamp_ms": 1795724188173
 }
