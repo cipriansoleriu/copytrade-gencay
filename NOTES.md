@@ -2,6 +2,13 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-11-27
+
+### 03:36 UTC — Position poll (Job B)
+- 1 signals (0 applied to the paper book)
+- CLOSED SHORT SKY x3 — 0xa20fb0c9...
+- Portfolio: $9,906.22 (-0.94%)
+
 ## 2026-11-26
 
 ### 18:51 UTC — Position poll (Job B)
