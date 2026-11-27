@@ -23346,5 +23346,31 @@
     "leverage": 25,
     "unrealized_pnl": 30.0,
     "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-11-27T19:22:10.335039+00:00",
+    "trader": "0x880ac484a1743862989a441d6d867238c7aa311c",
+    "type": "CLOSED",
+    "coin": "HYPE",
+    "side": "LONG",
+    "size": 31.24,
+    "entry_price": 62.128,
+    "position_value_usd": 1997.23568,
+    "leverage": 8,
+    "unrealized_pnl": 56.35696,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-11-27T19:22:10.335039+00:00",
+    "trader": "0x880ac484a1743862989a441d6d867238c7aa311c",
+    "type": "CLOSED",
+    "coin": "XMR",
+    "side": "LONG",
+    "size": 10.309,
+    "entry_price": 417.613,
+    "position_value_usd": 4113.723978,
+    "leverage": 5,
+    "unrealized_pnl": -191.451162,
+    "liquidation_price": 0.0
   }
 ]
