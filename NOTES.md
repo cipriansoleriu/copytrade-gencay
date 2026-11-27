@@ -4,6 +4,29 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-27
 
+### 07:14 UTC — Daily refresh (Job A)
+- Leaderboard: 47059 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+-   +0xdb9fa654bfd6bea938a4cf6cfd94d380e52b2803
+-   +0x5732202b4d905c4b53b608415702a7b004d51801
+-   +0xdc1a840dbf28f046074c4343a731dfbd96f3fd28
+-   +0xc7d0b62b029d099a1982fbac6e8eb31aadc3e161
+-   -0xceec48581b3145a575508719f45da07dc57fa7ce
+-   -0xfce053a5e461683454bf37ad66d20344c0e3f4c0
+-   -0x60a8c761f39696b3b419f31dcda20b405cb685f6
+-   -0xe06508f3b0c49e42533b891151a2842d30430f85
+- #1 0x03ef8f73... acc=$11,762,456 month=$2,307,176 edge=2935bps
+- #2 0xdb9fa654... acc=$3,363,758 month=$1,498,940 edge=1786bps
+- #3 0x5732202b... acc=$3,508,583 month=$1,119,741 edge=1405bps
+- #4 0xdc1a840d... acc=$2,775,653 month=$1,513,809 edge=1305bps
+- #5 0xc7d0b62b... acc=$12,108,262 month=$2,596,934 edge=1193bps
+- Current positions across the shortlist:
+-   0x03ef8f73... 1 positions: SHORT HYPE x10
+-   0xdb9fa654... no open positions
+-   0x5732202b... no open positions
+-   0xdc1a840d... no open positions
+-   0xc7d0b62b... 1 positions: LONG ETH x3
+
 ### 05:56 UTC — Position poll (Job B)
 - 1 signals (1 applied to the paper book)
 - NEW SHORT ZEC x10 — 0xe06508f3...
