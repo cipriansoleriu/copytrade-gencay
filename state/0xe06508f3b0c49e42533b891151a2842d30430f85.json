@@ -1,26 +1,36 @@
 {
-  "account_value": 15946.07379,
+  "account_value": 15066.640949,
   "positions": [
     {
       "coin": "SUI",
       "side": "LONG",
-      "size": 44797.0,
+      "size": 38967.2,
       "entry_price": 0.62904,
-      "position_value_usd": 30730.742,
+      "position_value_usd": 26770.076728,
       "leverage": 10,
-      "unrealized_pnl": 2551.436733,
-      "liquidation_price": 0.0125884326
+      "unrealized_pnl": 2257.974934,
+      "liquidation_price": 0.0
     },
     {
       "coin": "HYPE",
       "side": "SHORT",
       "size": 123.24,
       "entry_price": 62.6513,
-      "position_value_usd": 8108.08284,
+      "position_value_usd": 8111.28708,
       "leverage": 10,
-      "unrealized_pnl": -386.92552,
-      "liquidation_price": 287.2595791951
+      "unrealized_pnl": -390.12976,
+      "liquidation_price": 287.5486284833
+    },
+    {
+      "coin": "ZEC",
+      "side": "SHORT",
+      "size": 5.24,
+      "entry_price": 763.05,
+      "position_value_usd": 3999.0108,
+      "leverage": 10,
+      "unrealized_pnl": -0.6288,
+      "liquidation_price": 5978.0947889858
     }
   ],
-  "timestamp_ms": 1795758709856
+  "timestamp_ms": 1795758994894
 }
