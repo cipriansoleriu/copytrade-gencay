@@ -1,14 +1,14 @@
 {
-  "account_value": 70387.538207,
+  "account_value": 70512.135055,
   "positions": [
     {
       "coin": "BTC",
       "side": "LONG",
       "size": 0.0102,
       "entry_price": 59188.0,
-      "position_value_usd": 604.0236,
+      "position_value_usd": 604.911,
       "leverage": 22,
-      "unrealized_pnl": 0.306,
+      "unrealized_pnl": 1.1934,
       "liquidation_price": 0.0
     },
     {
@@ -16,10 +16,10 @@
       "side": "SHORT",
       "size": 525745.0,
       "entry_price": 0.951217,
-      "position_value_usd": 493727.1295,
+      "position_value_usd": 494100.40845,
       "leverage": 20,
-      "unrealized_pnl": 6370.9525,
-      "liquidation_price": 1.3736688289
+      "unrealized_pnl": 5997.67355,
+      "liquidation_price": 1.3736726101
     },
     {
       "coin": "kBONK",
@@ -29,8 +29,8 @@
       "position_value_usd": 208100.0,
       "leverage": 10,
       "unrealized_pnl": 39856.494334,
-      "liquidation_price": 0.0043113257
+      "liquidation_price": 0.0043077012
     }
   ],
-  "timestamp_ms": 1795877824037
+  "timestamp_ms": 1795878150789
 }
