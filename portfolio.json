@@ -1,5 +1,5 @@
 {
-  "cash": 330.50773253061755,
+  "cash": 197.88718816999875,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x08c14b32c8a48894e4b933090ebcc9ce33b21135:ARB:LONG": {
@@ -3246,6 +3246,116 @@
       "margin": 17.395143817400925,
       "leverage": 3,
       "opened_at": "2026-11-27T05:56:45.347312+00:00"
+    },
+    "0xefba0f56eef05f6a7d614ce519d2e284b46d3583:MET:SHORT": {
+      "trader": "0xefba0f56eef05f6a7d614ce519d2e284b46d3583",
+      "coin": "MET",
+      "side": "SHORT",
+      "size": 259.01961074582897,
+      "entry_price": 0.1913992525,
+      "notional": 49.57615987959264,
+      "margin": 16.525386626530878,
+      "leverage": 3,
+      "opened_at": "2026-11-28T07:17:15.131027+00:00"
+    },
+    "0x94dac1facdc4afd2614c3119447187b4143bc449:AVAX:LONG": {
+      "trader": "0x94dac1facdc4afd2614c3119447187b4143bc449",
+      "coin": "AVAX",
+      "side": "LONG",
+      "size": 7.217696255462121,
+      "entry_price": 6.5252609999999995,
+      "notional": 47.09735188561301,
+      "margin": 15.699117295204337,
+      "leverage": 3,
+      "opened_at": "2026-11-28T07:17:15.131047+00:00"
+    },
+    "0x94dac1facdc4afd2614c3119447187b4143bc449:BLUR:LONG": {
+      "trader": "0x94dac1facdc4afd2614c3119447187b4143bc449",
+      "coin": "BLUR",
+      "side": "LONG",
+      "size": 6329.812346669179,
+      "entry_price": 0.0070685324999999995,
+      "notional": 44.74248429133235,
+      "margin": 14.914161430444118,
+      "leverage": 3,
+      "opened_at": "2026-11-28T07:17:15.131053+00:00"
+    },
+    "0x94dac1facdc4afd2614c3119447187b4143bc449:ACE:LONG": {
+      "trader": "0x94dac1facdc4afd2614c3119447187b4143bc449",
+      "coin": "ACE",
+      "side": "LONG",
+      "size": 566.4549069034249,
+      "entry_price": 0.0750375,
+      "notional": 42.50536007676574,
+      "margin": 14.168453358921914,
+      "leverage": 3,
+      "opened_at": "2026-11-28T07:17:15.131058+00:00"
+    },
+    "0x94dac1facdc4afd2614c3119447187b4143bc449:ETHFI:SHORT": {
+      "trader": "0x94dac1facdc4afd2614c3119447187b4143bc449",
+      "coin": "ETHFI",
+      "side": "SHORT",
+      "size": 92.0070421749874,
+      "entry_price": 0.43888045000000003,
+      "notional": 40.380092072927454,
+      "margin": 13.460030690975819,
+      "leverage": 3,
+      "opened_at": "2026-11-28T07:17:15.131062+00:00"
+    },
+    "0x94dac1facdc4afd2614c3119447187b4143bc449:FARTCOIN:SHORT": {
+      "trader": "0x94dac1facdc4afd2614c3119447187b4143bc449",
+      "coin": "FARTCOIN",
+      "side": "SHORT",
+      "size": 486.50370906433153,
+      "entry_price": 0.078850555,
+      "notional": 38.361087469281074,
+      "margin": 12.787029156427025,
+      "leverage": 3,
+      "opened_at": "2026-11-28T07:17:15.131067+00:00"
+    },
+    "0x94dac1facdc4afd2614c3119447187b4143bc449:PUMP:SHORT": {
+      "trader": "0x94dac1facdc4afd2614c3119447187b4143bc449",
+      "coin": "PUMP",
+      "side": "SHORT",
+      "size": 14055.999895019608,
+      "entry_price": 0.002592703,
+      "notional": 36.44303309581702,
+      "margin": 12.147677698605674,
+      "leverage": 3,
+      "opened_at": "2026-11-28T07:17:15.131071+00:00"
+    },
+    "0x94dac1facdc4afd2614c3119447187b4143bc449:XPL:SHORT": {
+      "trader": "0x94dac1facdc4afd2614c3119447187b4143bc449",
+      "coin": "XPL",
+      "side": "SHORT",
+      "size": 758.0138423778191,
+      "entry_price": 0.045673152,
+      "notional": 34.62088144102617,
+      "margin": 11.54029381367539,
+      "leverage": 3,
+      "opened_at": "2026-11-28T07:17:15.131082+00:00"
+    },
+    "0x94dac1facdc4afd2614c3119447187b4143bc449:MON:SHORT": {
+      "trader": "0x94dac1facdc4afd2614c3119447187b4143bc449",
+      "coin": "MON",
+      "side": "SHORT",
+      "size": 3345.1550792143926,
+      "entry_price": 0.009832081500000001,
+      "notional": 32.88983736897487,
+      "margin": 10.963279122991622,
+      "leverage": 3,
+      "opened_at": "2026-11-28T07:17:15.131089+00:00"
+    },
+    "0x94dac1facdc4afd2614c3119447187b4143bc449:LIT:LONG": {
+      "trader": "0x94dac1facdc4afd2614c3119447187b4143bc449",
+      "coin": "LIT",
+      "side": "LONG",
+      "size": 11.7917010459735,
+      "entry_price": 2.649774225,
+      "notional": 31.24534550052612,
+      "margin": 10.41511516684204,
+      "leverage": 3,
+      "opened_at": "2026-11-28T07:17:15.131098+00:00"
     }
   },
   "equity_history": [
@@ -138913,7 +139023,12 @@
       "ts": "2026-11-28T07:11:56.628600+00:00",
       "equity": 10203.99546126809,
       "cash": 330.50773253061755
+    },
+    {
+      "ts": "2026-11-28T07:17:15.131187+00:00",
+      "equity": 10196.748500832298,
+      "cash": 197.88718816999875
     }
   ],
-  "last_processed_signal_index": 1800
+  "last_processed_signal_index": 1810
 }
