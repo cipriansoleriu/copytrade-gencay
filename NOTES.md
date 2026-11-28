@@ -2,6 +2,13 @@
 
 _Auto-generated. Newest entry at top._
 
+## 2026-11-28
+
+### 05:07 UTC — Position poll (Job B)
+- 1 signals (0 applied to the paper book)
+- CLOSED LONG USUAL x3 — 0xb3e47536...
+- Portfolio: $10,111.92 (+1.12%)
+
 ## 2026-11-27
 
 ### 22:12 UTC — Position poll (Job B)
