@@ -1,14 +1,14 @@
 {
-  "account_value": 1081490.910681,
+  "account_value": 1052006.814634,
   "positions": [
     {
       "coin": "MNT",
       "side": "LONG",
       "size": 120000.0,
       "entry_price": 0.99279,
-      "position_value_usd": 44186.4,
+      "position_value_usd": 44052.0,
       "leverage": 5,
-      "unrealized_pnl": -74948.6406,
+      "unrealized_pnl": -75083.0406,
       "liquidation_price": 0.0
     },
     {
@@ -16,29 +16,39 @@
       "side": "SHORT",
       "size": 367406.0,
       "entry_price": 0.290832,
-      "position_value_usd": 28586.02383,
+      "position_value_usd": 28577.573492,
       "leverage": 3,
-      "unrealized_pnl": 78267.42358,
-      "liquidation_price": 9.6809641461
+      "unrealized_pnl": 78275.873918,
+      "liquidation_price": 9.6666038494
     },
     {
       "coin": "HYPE",
       "side": "SHORT",
       "size": 15000.0,
       "entry_price": 61.8371,
-      "position_value_usd": 944235.0,
+      "position_value_usd": 942687.0,
       "leverage": 10,
-      "unrealized_pnl": -16677.697563,
-      "liquidation_price": 324.3014658699
+      "unrealized_pnl": -15129.697563,
+      "liquidation_price": 323.8080726211
+    },
+    {
+      "coin": "USUAL",
+      "side": "LONG",
+      "size": 3019340.6,
+      "entry_price": 0.01142,
+      "position_value_usd": 34541.256464,
+      "leverage": 3,
+      "unrealized_pnl": 55.053,
+      "liquidation_price": 0.0
     },
     {
       "coin": "SOPH",
       "side": "LONG",
       "size": 217457011.0,
       "entry_price": 0.000973,
-      "position_value_usd": 194189.110823,
+      "position_value_usd": 193536.73979,
       "leverage": 1,
-      "unrealized_pnl": -17472.17872,
+      "unrealized_pnl": -18124.549753,
       "liquidation_price": 0.0
     },
     {
@@ -46,21 +56,21 @@
       "side": "SHORT",
       "size": 585000.0,
       "entry_price": 3.497095,
-      "position_value_usd": 1521468.0,
+      "position_value_usd": 1522537.38,
       "leverage": 3,
-      "unrealized_pnl": 524332.943853,
-      "liquidation_price": 8.9975386751
+      "unrealized_pnl": 523263.563853,
+      "liquidation_price": 8.9898164907
     },
     {
       "coin": "XTEN",
       "side": "SHORT",
       "size": 807226.0,
       "entry_price": 0.214956,
-      "position_value_usd": 134370.83996,
+      "position_value_usd": 134685.6581,
       "leverage": 1,
-      "unrealized_pnl": 39147.59777,
+      "unrealized_pnl": 38832.77963,
       "liquidation_price": 0.3695164004
     }
   ],
-  "timestamp_ms": 1795860994239
+  "timestamp_ms": 1795861329887
 }
